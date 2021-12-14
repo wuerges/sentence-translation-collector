@@ -13,5 +13,15 @@ module Types
     def test_field
       "Hello World!"
     end
+
+    field :users, [UserType], null: false, description: "The users!"
+    def users
+      User.all
+    end
+
+    field :articles, [ArticleType], null: false, description: "The articles!"
+    def articles
+      Article.all
+    end
   end
 end
