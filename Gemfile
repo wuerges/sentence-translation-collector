@@ -60,3 +60,4 @@ gem 'graphql'
 gem 'graphiql-rails', group: :development
 
 gem 'react-rails'
+gem 'bulma-rails', "~> 0.9.2"
