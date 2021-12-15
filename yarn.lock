@@ -1032,6 +1032,11 @@
     webpack-cli "^3.3.12"
     webpack-sources "^1.4.3"
 
+"@rybr/lenses@^1.0.23":
+  version "1.0.23"
+  resolved "https://registry.yarnpkg.com/@rybr/lenses/-/lenses-1.0.23.tgz#af5149f9d522d9e53cf16a4f7a78c3e4cfe87e1e"
+  integrity sha512-3hDzRBxDpCu1uZpZ9xkOOVbX17gYpX+yseTMpB+nC6gFjvUyg2LirZGRR3QgUoksISYy1BQA8UCKDkb74I3jaQ==
+
 "@types/glob@^7.1.1":
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/@types/glob/-/glob-7.2.0.tgz#bc1b5bf3aa92f25bd5dd39f35c57361bdce5b2eb"
