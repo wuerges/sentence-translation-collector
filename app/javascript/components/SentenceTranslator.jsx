@@ -53,11 +53,12 @@ export default function SentenceTranslator() {
     <>
       <div className="block">
         <div className="card">
-          <span className="tag">{data.origin.lang}</span>
-          <span className="icon">
-            <i className="fas fa-arrow-right"></i>
-          </span>
-          <span className="tag">{data.config.target}</span>
+          <div className="card-content">
+            Translating from
+            <span className="tag">{data.origin.lang}</span>
+            to
+            <span className="tag">{data.config.target}</span>
+          </div>
         </div>
       </div>
       <div className="block">
@@ -71,15 +72,18 @@ export default function SentenceTranslator() {
               </div>
               <div className="media-content">
                 <p className="title is-4">{data.origin.text}</p>
-                <p className="subtitle is-6">{data.origin.author}</p>
+                <p className="subtitle is-6">
+                  <span className="tag">{data.origin.lang}</span>
+                  {data.origin.author}
+                </p>
               </div>
             </div>
           </div>
         </div>
       </div>
-      {data.targets.map((d, i) => (
-        <div className="block" key={i}>
-          <div className="card">
+      <div className="block">
+        {data.targets.map((d, i) => (
+          <div className="card" key={i}>
             <div className="card-content">
               <div className="media">
                 <div className="media-left">
@@ -89,7 +93,10 @@ export default function SentenceTranslator() {
                 </div>
                 <div className="media-content">
                   <p className="title is-4">{d.text}</p>
-                  <p className="subtitle is-6">{d.author}</p>
+                  <p className="subtitle is-6">
+                    <span className="tag">{data.config.target}</span>
+                    {d.author}
+                  </p>
                 </div>
                 <div className="media-right">
                   <button
@@ -103,9 +110,7 @@ export default function SentenceTranslator() {
               </div>
             </div>
           </div>
-        </div>
-      ))}
-      <div className="block">
+        ))}
         <div className="card">
           <div className="card-content">
             <div className="media">
@@ -120,8 +125,12 @@ export default function SentenceTranslator() {
                   style={{ width: "100%" }}
                   value={data.translation.text}
                   onChange={(e) => changeTranslation(e.target.value)}
+                  disabled={data.translation.voted}
                 />
-                <p className="subtitle is-6"> {data.translation.author}</p>
+                <p className="subtitle is-6">
+                  <span className="tag">{data.config.target}</span>
+                  {data.translation.author}
+                </p>
               </div>
               <div className="media-right">
                 <button
@@ -137,8 +146,12 @@ export default function SentenceTranslator() {
         </div>
       </div>
       <div className="block">
-        <a className="button is-primary">Easy</a>
-        <a className="button is-primary">Again</a>
+        <div className="card">
+          <div className="card-content">
+            <a className="button is-primary">Easy</a>
+            <a className="button is-primary">Again</a>
+          </div>
+        </div>
       </div>
     </>
   );
