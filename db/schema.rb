@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_12_16_183308) do
+ActiveRecord::Schema.define(version: 2021_12_16_184018) do
 
   create_table "articles", force: :cascade do |t|
     t.string "title"
@@ -28,6 +28,33 @@ ActiveRecord::Schema.define(version: 2021_12_16_183308) do
     t.index ["name"], name: "index_languages_on_name", unique: true
   end
 
+  create_table "schedules", force: :cascade do |t|
+    t.datetime "date"
+    t.integer "hits"
+    t.integer "misses"
+    t.integer "user_id", null: false
+    t.integer "sentence_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["sentence_id"], name: "index_schedules_on_sentence_id"
+    t.index ["user_id"], name: "index_schedules_on_user_id"
+  end
+
+  create_table "sentences", force: :cascade do |t|
+    t.string "text"
+    t.integer "language_id", null: false
+    t.integer "origin_id", null: false
+    t.integer "author_id", null: false
+    t.integer "schedule_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["author_id"], name: "index_sentences_on_author_id"
+    t.index ["language_id"], name: "index_sentences_on_language_id"
+    t.index ["origin_id"], name: "index_sentences_on_origin_id"
+    t.index ["schedule_id"], name: "index_sentences_on_schedule_id"
+    t.index ["text"], name: "index_sentences_on_text", unique: true
+  end
+
   create_table "users", force: :cascade do |t|
     t.string "email", default: "", null: false
     t.string "encrypted_password", default: "", null: false
@@ -40,4 +67,10 @@ ActiveRecord::Schema.define(version: 2021_12_16_183308) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
+  add_foreign_key "schedules", "sentences"
+  add_foreign_key "schedules", "users"
+  add_foreign_key "sentences", "authors"
+  add_foreign_key "sentences", "languages"
+  add_foreign_key "sentences", "origins"
+  add_foreign_key "sentences", "schedules"
 end
