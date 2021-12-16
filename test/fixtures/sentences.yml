@@ -1,15 +1,12 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  text: MyString
-  language: one
-  origin: one
+  text: O livro esta sobre a mesa
+  language: pt_BR
   author: one
-  schedule: one
 
 two:
-  text: MyString
-  language: two
+  text: The book is on the table
+  language: en_US
   origin: two
   author: two
-  schedule: two

@@ -4,8 +4,12 @@ one:
   date: 2021-12-16 15:40:18
   hits: 1
   misses: 1
+  user_id: 1
+  sentence_id: 1
 
 two:
   date: 2021-12-16 15:40:18
   hits: 1
   misses: 1
+  user_id: 2
+  sentence_id: 1

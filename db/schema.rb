@@ -43,15 +43,13 @@ ActiveRecord::Schema.define(version: 2021_12_16_184018) do
   create_table "sentences", force: :cascade do |t|
     t.string "text"
     t.integer "language_id", null: false
-    t.integer "origin_id", null: false
+    t.integer "origin_id"
     t.integer "author_id", null: false
-    t.integer "schedule_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["author_id"], name: "index_sentences_on_author_id"
     t.index ["language_id"], name: "index_sentences_on_language_id"
     t.index ["origin_id"], name: "index_sentences_on_origin_id"
-    t.index ["schedule_id"], name: "index_sentences_on_schedule_id"
     t.index ["text"], name: "index_sentences_on_text", unique: true
   end
 
@@ -69,8 +67,7 @@ ActiveRecord::Schema.define(version: 2021_12_16_184018) do
 
   add_foreign_key "schedules", "sentences"
   add_foreign_key "schedules", "users"
-  add_foreign_key "sentences", "authors"
   add_foreign_key "sentences", "languages"
-  add_foreign_key "sentences", "origins"
-  add_foreign_key "sentences", "schedules"
+  add_foreign_key "sentences", "sentences", column: "origin_id"
+  add_foreign_key "sentences", "users", column: "author_id"
 end
