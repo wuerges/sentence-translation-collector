@@ -3,10 +3,10 @@
 one:
   text: O livro esta sobre a mesa
   language: pt_BR
+  origin: two
   author: one
 
 two:
   text: The book is on the table
   language: en_US
-  origin: two
   author: two
