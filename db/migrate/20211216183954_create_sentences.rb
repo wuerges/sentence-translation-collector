@@ -8,6 +8,6 @@ class CreateSentences < ActiveRecord::Migration[6.1]
 
       t.timestamps
     end
-    add_index :sentences, :text, unique: true
+    add_index :sentences, [:text, :language]
   end
 end

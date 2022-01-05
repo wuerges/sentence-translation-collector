@@ -10,3 +10,9791 @@ two:
   text: The book is on the table
   language: en_US
   author: two
+
+sent_0_pt:
+  text: Fala inglês?
+  language: pt_BR
+  author: one
+sent_0_en:
+  text: Do you speak English?
+  language: en_US
+  author: one
+  origin: sent_0_pt
+sent_1_pt:
+  text: Entende?
+  language: pt_BR
+  author: one
+sent_1_en:
+  text: Do you understand?
+  language: en_US
+  author: one
+  origin: sent_1_pt
+sent_2_pt:
+  text: Entendo.
+  language: pt_BR
+  author: one
+sent_2_en:
+  text: I understand.
+  language: en_US
+  author: one
+  origin: sent_2_pt
+sent_3_pt:
+  text: Não entendo.
+  language: pt_BR
+  author: one
+sent_3_en:
+  text: I don't understand.
+  language: en_US
+  author: one
+  origin: sent_3_pt
+sent_4_pt:
+  text: O que quer dizer "bem-vindo"?
+  language: pt_BR
+  author: one
+sent_4_en:
+  text: What does "bem-vindo" mean?
+  language: en_US
+  author: one
+  origin: sent_4_pt
+sent_5_pt:
+  text: Como é que se ...?
+  language: pt_BR
+  author: one
+sent_5_en:
+  text: How do you ...?
+  language: en_US
+  author: one
+  origin: sent_5_pt
+sent_6_pt:
+  text: Como é que se pronuncia isto?
+  language: pt_BR
+  author: one
+sent_6_en:
+  text: How do you pronounce this?
+  language: en_US
+  author: one
+  origin: sent_6_pt
+sent_7_pt:
+  text: como é que se escreve "ajuda"?
+  language: pt_BR
+  author: one
+sent_7_en:
+  text: how do you write "ajuda"?
+  language: en_US
+  author: one
+  origin: sent_7_pt
+sent_8_pt:
+  text: Podia ..., por favor?
+  language: pt_BR
+  author: one
+sent_8_en:
+  text: Could you please ...?
+  language: en_US
+  author: one
+  origin: sent_8_pt
+sent_9_pt:
+  text: Podia repetir isso, por favor?
+  language: pt_BR
+  author: one
+sent_9_en:
+  text: Could you please repeat that?
+  language: en_US
+  author: one
+  origin: sent_9_pt
+sent_10_pt:
+  text: Podia falar mais devagar, por favor?
+  language: pt_BR
+  author: one
+sent_10_en:
+  text: Could you please speak more slowly?
+  language: en_US
+  author: one
+  origin: sent_10_pt
+sent_11_pt:
+  text: Podia escrever isso, por favor?
+  language: pt_BR
+  author: one
+sent_11_en:
+  text: Could you please write it down?
+  language: en_US
+  author: one
+  origin: sent_11_pt
+sent_12_pt:
+  text: zero
+  language: pt_BR
+  author: one
+sent_12_en:
+  text: "0"
+  language: en_US
+  author: one
+  origin: sent_12_pt
+sent_13_pt:
+  text: um
+  language: pt_BR
+  author: one
+sent_13_en:
+  text: "1"
+  language: en_US
+  author: one
+  origin: sent_13_pt
+sent_14_pt:
+  text: dois
+  language: pt_BR
+  author: one
+sent_14_en:
+  text: "2"
+  language: en_US
+  author: one
+  origin: sent_14_pt
+sent_15_pt:
+  text: três
+  language: pt_BR
+  author: one
+sent_15_en:
+  text: "3"
+  language: en_US
+  author: one
+  origin: sent_15_pt
+sent_16_pt:
+  text: quatro
+  language: pt_BR
+  author: one
+sent_16_en:
+  text: "4"
+  language: en_US
+  author: one
+  origin: sent_16_pt
+sent_17_pt:
+  text: cinco
+  language: pt_BR
+  author: one
+sent_17_en:
+  text: "5"
+  language: en_US
+  author: one
+  origin: sent_17_pt
+sent_18_pt:
+  text: seis
+  language: pt_BR
+  author: one
+sent_18_en:
+  text: "6"
+  language: en_US
+  author: one
+  origin: sent_18_pt
+sent_19_pt:
+  text: sete
+  language: pt_BR
+  author: one
+sent_19_en:
+  text: "7"
+  language: en_US
+  author: one
+  origin: sent_19_pt
+sent_20_pt:
+  text: oito
+  language: pt_BR
+  author: one
+sent_20_en:
+  text: "8"
+  language: en_US
+  author: one
+  origin: sent_20_pt
+sent_21_pt:
+  text: nove
+  language: pt_BR
+  author: one
+sent_21_en:
+  text: "9"
+  language: en_US
+  author: one
+  origin: sent_21_pt
+sent_22_pt:
+  text: dez
+  language: pt_BR
+  author: one
+sent_22_en:
+  text: "10"
+  language: en_US
+  author: one
+  origin: sent_22_pt
+sent_23_pt:
+  text: onze
+  language: pt_BR
+  author: one
+sent_23_en:
+  text: "11"
+  language: en_US
+  author: one
+  origin: sent_23_pt
+sent_24_pt:
+  text: doze
+  language: pt_BR
+  author: one
+sent_24_en:
+  text: "12"
+  language: en_US
+  author: one
+  origin: sent_24_pt
+sent_25_pt:
+  text: treze
+  language: pt_BR
+  author: one
+sent_25_en:
+  text: "13"
+  language: en_US
+  author: one
+  origin: sent_25_pt
+sent_26_pt:
+  text: catorze
+  language: pt_BR
+  author: one
+sent_26_en:
+  text: "14"
+  language: en_US
+  author: one
+  origin: sent_26_pt
+sent_27_pt:
+  text: quinze
+  language: pt_BR
+  author: one
+sent_27_en:
+  text: "15"
+  language: en_US
+  author: one
+  origin: sent_27_pt
+sent_28_pt:
+  text: dezasseis
+  language: pt_BR
+  author: one
+sent_28_en:
+  text: "16"
+  language: en_US
+  author: one
+  origin: sent_28_pt
+sent_29_pt:
+  text: dezassete
+  language: pt_BR
+  author: one
+sent_29_en:
+  text: "17"
+  language: en_US
+  author: one
+  origin: sent_29_pt
+sent_30_pt:
+  text: dezoito
+  language: pt_BR
+  author: one
+sent_30_en:
+  text: "18"
+  language: en_US
+  author: one
+  origin: sent_30_pt
+sent_31_pt:
+  text: dezanove
+  language: pt_BR
+  author: one
+sent_31_en:
+  text: "19"
+  language: en_US
+  author: one
+  origin: sent_31_pt
+sent_32_pt:
+  text: vinte
+  language: pt_BR
+  author: one
+sent_32_en:
+  text: "20"
+  language: en_US
+  author: one
+  origin: sent_32_pt
+sent_33_pt:
+  text: vinte e um
+  language: pt_BR
+  author: one
+sent_33_en:
+  text: "21"
+  language: en_US
+  author: one
+  origin: sent_33_pt
+sent_34_pt:
+  text: vinte e dois
+  language: pt_BR
+  author: one
+sent_34_en:
+  text: "22"
+  language: en_US
+  author: one
+  origin: sent_34_pt
+sent_35_pt:
+  text: trinta
+  language: pt_BR
+  author: one
+sent_35_en:
+  text: "30"
+  language: en_US
+  author: one
+  origin: sent_35_pt
+sent_36_pt:
+  text: quarenta
+  language: pt_BR
+  author: one
+sent_36_en:
+  text: "40"
+  language: en_US
+  author: one
+  origin: sent_36_pt
+sent_37_pt:
+  text: cinquenta
+  language: pt_BR
+  author: one
+sent_37_en:
+  text: "50"
+  language: en_US
+  author: one
+  origin: sent_37_pt
+sent_38_pt:
+  text: sessenta
+  language: pt_BR
+  author: one
+sent_38_en:
+  text: "60"
+  language: en_US
+  author: one
+  origin: sent_38_pt
+sent_39_pt:
+  text: setenta
+  language: pt_BR
+  author: one
+sent_39_en:
+  text: "70"
+  language: en_US
+  author: one
+  origin: sent_39_pt
+sent_40_pt:
+  text: oitenta
+  language: pt_BR
+  author: one
+sent_40_en:
+  text: "80"
+  language: en_US
+  author: one
+  origin: sent_40_pt
+sent_41_pt:
+  text: noventa
+  language: pt_BR
+  author: one
+sent_41_en:
+  text: "90"
+  language: en_US
+  author: one
+  origin: sent_41_pt
+sent_42_pt:
+  text: cem
+  language: pt_BR
+  author: one
+sent_42_en:
+  text: "100"
+  language: en_US
+  author: one
+  origin: sent_42_pt
+sent_43_pt:
+  text: mil
+  language: pt_BR
+  author: one
+sent_43_en:
+  text: "1000"
+  language: en_US
+  author: one
+  origin: sent_43_pt
+sent_44_pt:
+  text: Sim.
+  language: pt_BR
+  author: one
+sent_44_en:
+  text: Yes.
+  language: en_US
+  author: one
+  origin: sent_44_pt
+sent_45_pt:
+  text: Não.
+  language: pt_BR
+  author: one
+sent_45_en:
+  text: No.
+  language: en_US
+  author: one
+  origin: sent_45_pt
+sent_46_pt:
+  text: Por favor.
+  language: pt_BR
+  author: one
+sent_46_en:
+  text: Please.
+  language: en_US
+  author: one
+  origin: sent_46_pt
+sent_47_pt:
+  text: Muito Obrigado
+  language: pt_BR
+  author: one
+sent_47_en:
+  text: Thank you very much. (masculine)
+  language: en_US
+  author: one
+  origin: sent_47_pt
+sent_48_pt:
+  text: Muito Obrigada
+  language: pt_BR
+  author: one
+sent_48_en:
+  text: Thank you very much. (feminine)
+  language: en_US
+  author: one
+  origin: sent_48_pt
+sent_49_pt:
+  text: De nada.
+  language: pt_BR
+  author: one
+sent_49_en:
+  text: You're welcome.
+  language: en_US
+  author: one
+  origin: sent_49_pt
+sent_50_pt:
+  text: Faz favor!
+  language: pt_BR
+  author: one
+sent_50_en:
+  text: Excuse me.
+  language: en_US
+  author: one
+  origin: sent_50_pt
+sent_51_pt:
+  text: Desculpe.
+  language: pt_BR
+  author: one
+sent_51_en:
+  text: Sorry.
+  language: en_US
+  author: one
+  origin: sent_51_pt
+sent_52_pt:
+  text: Que horas são?
+  language: pt_BR
+  author: one
+sent_52_en:
+  text: What time is it?
+  language: en_US
+  author: one
+  origin: sent_52_pt
+sent_53_pt:
+  text: É uma hora.
+  language: pt_BR
+  author: one
+sent_53_en:
+  text: It's one o'clock.
+  language: en_US
+  author: one
+  origin: sent_53_pt
+sent_54_pt:
+  text: São dez horas.
+  language: pt_BR
+  author: one
+sent_54_en:
+  text: It's 10 o'clock.
+  language: en_US
+  author: one
+  origin: sent_54_pt
+sent_55_pt:
+  text: Dez e quinze.
+  language: pt_BR
+  author: one
+sent_55_en:
+  text: Quarter past 10.
+  language: en_US
+  author: one
+  origin: sent_55_pt
+sent_56_pt:
+  text: Dez e meia.
+  language: pt_BR
+  author: one
+sent_56_en:
+  text: Half past 10.
+  language: en_US
+  author: one
+  origin: sent_56_pt
+sent_57_pt:
+  text: Quinze para as dez.
+  language: pt_BR
+  author: one
+sent_57_en:
+  text: Quarter to 10.
+  language: en_US
+  author: one
+  origin: sent_57_pt
+sent_58_pt:
+  text: A que horas ...?
+  language: pt_BR
+  author: one
+sent_58_en:
+  text: At what time ...?
+  language: en_US
+  author: one
+  origin: sent_58_pt
+sent_59_pt:
+  text: Às ...
+  language: pt_BR
+  author: one
+sent_59_en:
+  text: At ... (time).
+  language: en_US
+  author: one
+  origin: sent_59_pt
+sent_60_pt:
+  text: da manhã
+  language: pt_BR
+  author: one
+sent_60_en:
+  text: in the morning
+  language: en_US
+  author: one
+  origin: sent_60_pt
+sent_61_pt:
+  text: da tarde
+  language: pt_BR
+  author: one
+sent_61_en:
+  text: in the afternoon
+  language: en_US
+  author: one
+  origin: sent_61_pt
+sent_62_pt:
+  text: da noite
+  language: pt_BR
+  author: one
+sent_62_en:
+  text: in the evening
+  language: en_US
+  author: one
+  origin: sent_62_pt
+sent_63_pt:
+  text: segunda-feira
+  language: pt_BR
+  author: one
+sent_63_en:
+  text: Monday
+  language: en_US
+  author: one
+  origin: sent_63_pt
+sent_64_pt:
+  text: terça-feira
+  language: pt_BR
+  author: one
+sent_64_en:
+  text: Tuesday
+  language: en_US
+  author: one
+  origin: sent_64_pt
+sent_65_pt:
+  text: quarta-feira
+  language: pt_BR
+  author: one
+sent_65_en:
+  text: Wednesday
+  language: en_US
+  author: one
+  origin: sent_65_pt
+sent_66_pt:
+  text: quinta-feira
+  language: pt_BR
+  author: one
+sent_66_en:
+  text: Thursday
+  language: en_US
+  author: one
+  origin: sent_66_pt
+sent_67_pt:
+  text: sexta-feira
+  language: pt_BR
+  author: one
+sent_67_en:
+  text: Friday
+  language: en_US
+  author: one
+  origin: sent_67_pt
+sent_68_pt:
+  text: sábado
+  language: pt_BR
+  author: one
+sent_68_en:
+  text: Saturday
+  language: en_US
+  author: one
+  origin: sent_68_pt
+sent_69_pt:
+  text: domingo
+  language: pt_BR
+  author: one
+sent_69_en:
+  text: Sunday
+  language: en_US
+  author: one
+  origin: sent_69_pt
+sent_70_pt:
+  text: janeiro
+  language: pt_BR
+  author: one
+sent_70_en:
+  text: January
+  language: en_US
+  author: one
+  origin: sent_70_pt
+sent_71_pt:
+  text: fevereiro
+  language: pt_BR
+  author: one
+sent_71_en:
+  text: February
+  language: en_US
+  author: one
+  origin: sent_71_pt
+sent_72_pt:
+  text: março
+  language: pt_BR
+  author: one
+sent_72_en:
+  text: March
+  language: en_US
+  author: one
+  origin: sent_72_pt
+sent_73_pt:
+  text: abril
+  language: pt_BR
+  author: one
+sent_73_en:
+  text: April
+  language: en_US
+  author: one
+  origin: sent_73_pt
+sent_74_pt:
+  text: maio
+  language: pt_BR
+  author: one
+sent_74_en:
+  text: May
+  language: en_US
+  author: one
+  origin: sent_74_pt
+sent_75_pt:
+  text: junho
+  language: pt_BR
+  author: one
+sent_75_en:
+  text: June
+  language: en_US
+  author: one
+  origin: sent_75_pt
+sent_76_pt:
+  text: julho
+  language: pt_BR
+  author: one
+sent_76_en:
+  text: July
+  language: en_US
+  author: one
+  origin: sent_76_pt
+sent_77_pt:
+  text: agosto
+  language: pt_BR
+  author: one
+sent_77_en:
+  text: August
+  language: en_US
+  author: one
+  origin: sent_77_pt
+sent_78_pt:
+  text: setembro
+  language: pt_BR
+  author: one
+sent_78_en:
+  text: September
+  language: en_US
+  author: one
+  origin: sent_78_pt
+sent_79_pt:
+  text: outubro
+  language: pt_BR
+  author: one
+sent_79_en:
+  text: October
+  language: en_US
+  author: one
+  origin: sent_79_pt
+sent_80_pt:
+  text: novembro
+  language: pt_BR
+  author: one
+sent_80_en:
+  text: November
+  language: en_US
+  author: one
+  origin: sent_80_pt
+sent_81_pt:
+  text: dezembro
+  language: pt_BR
+  author: one
+sent_81_en:
+  text: December
+  language: en_US
+  author: one
+  origin: sent_81_pt
+sent_82_pt:
+  text: Qual é a data de hoje?
+  language: pt_BR
+  author: one
+sent_82_en:
+  text: What date is it today?
+  language: en_US
+  author: one
+  origin: sent_82_pt
+sent_83_pt:
+  text: Hoje é dia dezoito de outubro.
+  language: pt_BR
+  author: one
+sent_83_en:
+  text: Today, it’s 18 October.
+  language: en_US
+  author: one
+  origin: sent_83_pt
+sent_84_pt:
+  text: desde maio
+  language: pt_BR
+  author: one
+sent_84_en:
+  text: since May
+  language: en_US
+  author: one
+  origin: sent_84_pt
+sent_85_pt:
+  text: até junho
+  language: pt_BR
+  author: one
+sent_85_en:
+  text: until June
+  language: en_US
+  author: one
+  origin: sent_85_pt
+sent_86_pt:
+  text: a noite passada
+  language: pt_BR
+  author: one
+sent_86_en:
+  text: last night
+  language: en_US
+  author: one
+  origin: sent_86_pt
+sent_87_pt:
+  text: a semana passada
+  language: pt_BR
+  author: one
+sent_87_en:
+  text: last week
+  language: en_US
+  author: one
+  origin: sent_87_pt
+sent_88_pt:
+  text: o mês passado
+  language: pt_BR
+  author: one
+sent_88_en:
+  text: last month
+  language: en_US
+  author: one
+  origin: sent_88_pt
+sent_89_pt:
+  text: o ano passado
+  language: pt_BR
+  author: one
+sent_89_en:
+  text: last year
+  language: en_US
+  author: one
+  origin: sent_89_pt
+sent_90_pt:
+  text: na próxima semana
+  language: pt_BR
+  author: one
+sent_90_en:
+  text: next week
+  language: en_US
+  author: one
+  origin: sent_90_pt
+sent_91_pt:
+  text: no próximo mês
+  language: pt_BR
+  author: one
+sent_91_en:
+  text: next month
+  language: en_US
+  author: one
+  origin: sent_91_pt
+sent_92_pt:
+  text: no próximo ano
+  language: pt_BR
+  author: one
+sent_92_en:
+  text: next year
+  language: en_US
+  author: one
+  origin: sent_92_pt
+sent_93_pt:
+  text: ontem
+  language: pt_BR
+  author: one
+sent_93_en:
+  text: yesterday
+  language: en_US
+  author: one
+  origin: sent_93_pt
+sent_94_pt:
+  text: amanhã
+  language: pt_BR
+  author: one
+sent_94_en:
+  text: tomorrow
+  language: en_US
+  author: one
+  origin: sent_94_pt
+sent_95_pt:
+  text: ontem de manhã
+  language: pt_BR
+  author: one
+sent_95_en:
+  text: yesterday morning
+  language: en_US
+  author: one
+  origin: sent_95_pt
+sent_96_pt:
+  text: ontem à tarde
+  language: pt_BR
+  author: one
+sent_96_en:
+  text: yesterday afternoon
+  language: en_US
+  author: one
+  origin: sent_96_pt
+sent_97_pt:
+  text: ontem à noite
+  language: pt_BR
+  author: one
+sent_97_en:
+  text: yesterday evening
+  language: en_US
+  author: one
+  origin: sent_97_pt
+sent_98_pt:
+  text: amanhã de manhã
+  language: pt_BR
+  author: one
+sent_98_en:
+  text: tomorrow morning
+  language: en_US
+  author: one
+  origin: sent_98_pt
+sent_99_pt:
+  text: amanhã à tarde
+  language: pt_BR
+  author: one
+sent_99_en:
+  text: tomorrow afternoon
+  language: en_US
+  author: one
+  origin: sent_99_pt
+sent_100_pt:
+  text: amanhã à noite
+  language: pt_BR
+  author: one
+sent_100_en:
+  text: tomorrow evening
+  language: en_US
+  author: one
+  origin: sent_100_pt
+sent_101_pt:
+  text: Como está o tempo?
+  language: pt_BR
+  author: one
+sent_101_en:
+  text: What's the weather like?
+  language: en_US
+  author: one
+  origin: sent_101_pt
+sent_102_pt:
+  text: Está nublado
+  language: pt_BR
+  author: one
+sent_102_en:
+  text: It's cloudy
+  language: en_US
+  author: one
+  origin: sent_102_pt
+sent_103_pt:
+  text: Está frio
+  language: pt_BR
+  author: one
+sent_103_en:
+  text: It's cold
+  language: en_US
+  author: one
+  origin: sent_103_pt
+sent_104_pt:
+  text: Está muito quente
+  language: pt_BR
+  author: one
+sent_104_en:
+  text: It's hot
+  language: en_US
+  author: one
+  origin: sent_104_pt
+sent_105_pt:
+  text: Está a chover
+  language: pt_BR
+  author: one
+sent_105_en:
+  text: It's raining
+  language: en_US
+  author: one
+  origin: sent_105_pt
+sent_106_pt:
+  text: Está a nevar
+  language: pt_BR
+  author: one
+sent_106_en:
+  text: It's snowing
+  language: en_US
+  author: one
+  origin: sent_106_pt
+sent_107_pt:
+  text: Está sol
+  language: pt_BR
+  author: one
+sent_107_en:
+  text: It's sunny
+  language: en_US
+  author: one
+  origin: sent_107_pt
+sent_108_pt:
+  text: Está quente
+  language: pt_BR
+  author: one
+sent_108_en:
+  text: It's warm
+  language: en_US
+  author: one
+  origin: sent_108_pt
+sent_109_pt:
+  text: Está ventoso
+  language: pt_BR
+  author: one
+sent_109_en:
+  text: It's windy
+  language: en_US
+  author: one
+  origin: sent_109_pt
+sent_110_pt:
+  text: a primavera
+  language: pt_BR
+  author: one
+sent_110_en:
+  text: spring
+  language: en_US
+  author: one
+  origin: sent_110_pt
+sent_111_pt:
+  text: o verão
+  language: pt_BR
+  author: one
+sent_111_en:
+  text: summer
+  language: en_US
+  author: one
+  origin: sent_111_pt
+sent_112_pt:
+  text: o outono
+  language: pt_BR
+  author: one
+sent_112_en:
+  text: autumn
+  language: en_US
+  author: one
+  origin: sent_112_pt
+sent_113_pt:
+  text: o inverno
+  language: pt_BR
+  author: one
+sent_113_en:
+  text: winter
+  language: en_US
+  author: one
+  origin: sent_113_pt
+sent_114_pt:
+  text: Estou em trânsito.
+  language: pt_BR
+  author: one
+sent_114_en:
+  text: I'm here in transit.
+  language: en_US
+  author: one
+  origin: sent_114_pt
+sent_115_pt:
+  text: Estou em negócios.
+  language: pt_BR
+  author: one
+sent_115_en:
+  text: I'm on business.
+  language: en_US
+  author: one
+  origin: sent_115_pt
+sent_116_pt:
+  text: Estou de férias.
+  language: pt_BR
+  author: one
+sent_116_en:
+  text: I'm on holiday.
+  language: en_US
+  author: one
+  origin: sent_116_pt
+sent_117_pt:
+  text: Vou ficar por dez dias.
+  language: pt_BR
+  author: one
+sent_117_en:
+  text: I'm here for 10 days.
+  language: en_US
+  author: one
+  origin: sent_117_pt
+sent_118_pt:
+  text: Vou ficar por três semanas.
+  language: pt_BR
+  author: one
+sent_118_en:
+  text: I'm here for 3 weeks.
+  language: en_US
+  author: one
+  origin: sent_118_pt
+sent_119_pt:
+  text: Vou ficar por dois meses.
+  language: pt_BR
+  author: one
+sent_119_en:
+  text: I'm going to be here for 2 months.
+  language: en_US
+  author: one
+  origin: sent_119_pt
+sent_120_pt:
+  text: Vou para Elvas.
+  language: pt_BR
+  author: one
+sent_120_en:
+  text: I’m going to Elvas.
+  language: en_US
+  author: one
+  origin: sent_120_pt
+sent_121_pt:
+  text: Estou no Hotel Lisboa.
+  language: pt_BR
+  author: one
+sent_121_en:
+  text: I’m staying at the Hotel Lisbon.
+  language: en_US
+  author: one
+  origin: sent_121_pt
+sent_122_pt:
+  text: Não tenho nada a declarar.
+  language: pt_BR
+  author: one
+sent_122_en:
+  text: I have nothing to declare.
+  language: en_US
+  author: one
+  origin: sent_122_pt
+sent_123_pt:
+  text: Tenho algo a declarar.
+  language: pt_BR
+  author: one
+sent_123_en:
+  text: I have something to declare.
+  language: en_US
+  author: one
+  origin: sent_123_pt
+sent_124_pt:
+  text: Isto não é meu.
+  language: pt_BR
+  author: one
+sent_124_en:
+  text: That's not mine.
+  language: en_US
+  author: one
+  origin: sent_124_pt
+sent_125_pt:
+  text: Isto é meu.
+  language: pt_BR
+  author: one
+sent_125_en:
+  text: That's mine.
+  language: en_US
+  author: one
+  origin: sent_125_pt
+sent_126_pt:
+  text: Onde é que eu compro o bilhete?
+  language: pt_BR
+  author: one
+sent_126_en:
+  text: Where do I buy a ticket?
+  language: en_US
+  author: one
+  origin: sent_126_pt
+sent_127_pt:
+  text: Preciso de fazer reserva?
+  language: pt_BR
+  author: one
+sent_127_en:
+  text: Do I need to make a reservation? (for a seat)
+  language: en_US
+  author: one
+  origin: sent_127_pt
+sent_128_pt:
+  text: Um bilhete de ida para Braga, por favor.
+  language: pt_BR
+  author: one
+sent_128_en:
+  text: One one-way ticket to Braga, please.
+  language: en_US
+  author: one
+  origin: sent_128_pt
+sent_129_pt:
+  text: Um bilhete de ida e volta para Braga, por favor.
+  language: pt_BR
+  author: one
+sent_129_en:
+  text: One return ticket to Braga, please.
+  language: en_US
+  author: one
+  origin: sent_129_pt
+sent_130_pt:
+  text: Queria cancelar o bilhete, por favor.
+  language: pt_BR
+  author: one
+sent_130_en:
+  text: I'd like to cancel my ticket, please.
+  language: en_US
+  author: one
+  origin: sent_130_pt
+sent_131_pt:
+  text: Queria trocar o bilhete, por favor.
+  language: pt_BR
+  author: one
+sent_131_en:
+  text: I'd like to change my ticket, please.
+  language: en_US
+  author: one
+  origin: sent_131_pt
+sent_132_pt:
+  text: Queria cobrar o bilhete, por favor.
+  language: pt_BR
+  author: one
+sent_132_en:
+  text: I'd like to collect my ticket, please.
+  language: en_US
+  author: one
+  origin: sent_132_pt
+sent_133_pt:
+  text: Queria confirmar o bilhete, por favor.
+  language: pt_BR
+  author: one
+sent_133_en:
+  text: I'd like to confim my ticket, please.
+  language: en_US
+  author: one
+  origin: sent_133_pt
+sent_134_pt:
+  text: Queria um lugar de não fumadores por favor.
+  language: pt_BR
+  author: one
+sent_134_en:
+  text: I'd like a nonsmoking seat, please.
+  language: en_US
+  author: one
+  origin: sent_134_pt
+sent_135_pt:
+  text: Queria um lugar para fumadores por favor.
+  language: pt_BR
+  author: one
+sent_135_en:
+  text: I'd like a smoking seat, please.
+  language: en_US
+  author: one
+  origin: sent_135_pt
+sent_136_pt:
+  text: Quanto é?
+  language: pt_BR
+  author: one
+sent_136_en:
+  text: How much is it?
+  language: en_US
+  author: one
+  origin: sent_136_pt
+sent_137_pt:
+  text: Tem ar condicionado?
+  language: pt_BR
+  author: one
+sent_137_en:
+  text: Is there air conditioning?
+  language: en_US
+  author: one
+  origin: sent_137_pt
+sent_138_pt:
+  text: Tem casa de banho?
+  language: pt_BR
+  author: one
+sent_138_en:
+  text: Is there a toilet?
+  language: en_US
+  author: one
+  origin: sent_138_pt
+sent_139_pt:
+  text: Quanto tempo é que leva a viagem?
+  language: pt_BR
+  author: one
+sent_139_en:
+  text: How long does the trip take?
+  language: en_US
+  author: one
+  origin: sent_139_pt
+sent_140_pt:
+  text: É uma rota direta?
+  language: pt_BR
+  author: one
+sent_140_en:
+  text: Is it a direct route?
+  language: en_US
+  author: one
+  origin: sent_140_pt
+sent_141_pt:
+  text: Queria o depósito de bagagens.
+  language: pt_BR
+  author: one
+sent_141_en:
+  text: I’d like a luggage locker.
+  language: en_US
+  author: one
+  origin: sent_141_pt
+sent_142_pt:
+  text: A minha bagagem foi danificada.
+  language: pt_BR
+  author: one
+sent_142_en:
+  text: My luggage has been damaged.
+  language: en_US
+  author: one
+  origin: sent_142_pt
+sent_143_pt:
+  text: A minha bagagem perdeu-se.
+  language: pt_BR
+  author: one
+sent_143_en:
+  text: My luggage has been lost.
+  language: en_US
+  author: one
+  origin: sent_143_pt
+sent_144_pt:
+  text: A minha bagagem foi roubada.
+  language: pt_BR
+  author: one
+sent_144_en:
+  text: My luggage has been stolen.
+  language: en_US
+  author: one
+  origin: sent_144_pt
+sent_145_pt:
+  text: Onde aterra o voo TP 615?
+  language: pt_BR
+  author: one
+sent_145_en:
+  text: Where does flight TP 615 arrive?
+  language: en_US
+  author: one
+  origin: sent_145_pt
+sent_146_pt:
+  text: De onde parte o voo TP 615?
+  language: pt_BR
+  author: one
+sent_146_en:
+  text: Where does flight TP 615 depart?
+  language: en_US
+  author: one
+  origin: sent_146_pt
+sent_147_pt:
+  text: Onde é a porta de chegada?
+  language: pt_BR
+  author: one
+sent_147_en:
+  text: Where's the arrivals hall?
+  language: en_US
+  author: one
+  origin: sent_147_pt
+sent_148_pt:
+  text: Onde é a porta de partida?
+  language: pt_BR
+  author: one
+sent_148_en:
+  text: Where's the departures hall?
+  language: en_US
+  author: one
+  origin: sent_148_pt
+sent_149_pt:
+  text: Onde é a loja duty-free?
+  language: pt_BR
+  author: one
+sent_149_en:
+  text: Where's the duty-free shop?
+  language: en_US
+  author: one
+  origin: sent_149_pt
+sent_150_pt:
+  text: Onde é a porta doze?
+  language: pt_BR
+  author: one
+sent_150_en:
+  text: Where's gate 12?
+  language: en_US
+  author: one
+  origin: sent_150_pt
+sent_151_pt:
+  text: Este é o barco para Lisboa?
+  language: pt_BR
+  author: one
+sent_151_en:
+  text: Is this the boat to Lisbon?
+  language: en_US
+  author: one
+  origin: sent_151_pt
+sent_152_pt:
+  text: Este é o autocarro para Lisboa?
+  language: pt_BR
+  author: one
+sent_152_en:
+  text: Is this the bus to Lisbon?
+  language: en_US
+  author: one
+  origin: sent_152_pt
+sent_153_pt:
+  text: Este é o avião para Lisboa?
+  language: pt_BR
+  author: one
+sent_153_en:
+  text: Is this the plane to Lisbon?
+  language: en_US
+  author: one
+  origin: sent_153_pt
+sent_154_pt:
+  text: Este é o comboio para Lisboa?
+  language: pt_BR
+  author: one
+sent_154_en:
+  text: Is this the train to Lisbon?
+  language: en_US
+  author: one
+  origin: sent_154_pt
+sent_155_pt:
+  text: Quando é que sai o primeiro autocarro?
+  language: pt_BR
+  author: one
+sent_155_en:
+  text: When does the first bus leave?
+  language: en_US
+  author: one
+  origin: sent_155_pt
+sent_156_pt:
+  text: Quando é que sai o último autocarro?
+  language: pt_BR
+  author: one
+sent_156_en:
+  text: When does the last bus leave?
+  language: en_US
+  author: one
+  origin: sent_156_pt
+sent_157_pt:
+  text: Quando é que sai o próximo autocarro?
+  language: pt_BR
+  author: one
+sent_157_en:
+  text: When does the next bus leave?
+  language: en_US
+  author: one
+  origin: sent_157_pt
+sent_158_pt:
+  text: A que horas chega?
+  language: pt_BR
+  author: one
+sent_158_en:
+  text: At what time does it arrive?
+  language: en_US
+  author: one
+  origin: sent_158_pt
+sent_159_pt:
+  text: A que horas sai?
+  language: pt_BR
+  author: one
+sent_159_en:
+  text: At what time does it leave?
+  language: en_US
+  author: one
+  origin: sent_159_pt
+sent_160_pt:
+  text: Quanto tempo é que vai chegar atrasado?
+  language: pt_BR
+  author: one
+sent_160_en:
+  text: How long will it be delayed?
+  language: en_US
+  author: one
+  origin: sent_160_pt
+sent_161_pt:
+  text: Que estação é esta?
+  language: pt_BR
+  author: one
+sent_161_en:
+  text: What station is this?
+  language: en_US
+  author: one
+  origin: sent_161_pt
+sent_162_pt:
+  text: Que paragem é esta?
+  language: pt_BR
+  author: one
+sent_162_en:
+  text: What stop is this?
+  language: en_US
+  author: one
+  origin: sent_162_pt
+sent_163_pt:
+  text: Qual é a próxima estação?
+  language: pt_BR
+  author: one
+sent_163_en:
+  text: What’s the next station?
+  language: en_US
+  author: one
+  origin: sent_163_pt
+sent_164_pt:
+  text: Qual é a próxima paragem?
+  language: pt_BR
+  author: one
+sent_164_en:
+  text: What’s the next stop?
+  language: en_US
+  author: one
+  origin: sent_164_pt
+sent_165_pt:
+  text: Para em Amarante?
+  language: pt_BR
+  author: one
+sent_165_en:
+  text: Does it stop at Amarante?
+  language: en_US
+  author: one
+  origin: sent_165_pt
+sent_166_pt:
+  text: Por favor avise-me quando chegarmos a Évora.
+  language: pt_BR
+  author: one
+sent_166_en:
+  text: Please tell me when we get to Évora.
+  language: en_US
+  author: one
+  origin: sent_166_pt
+sent_167_pt:
+  text: Quanto tempo vamos ficar parados aqui?
+  language: pt_BR
+  author: one
+sent_167_en:
+  text: How long do we stop here?
+  language: en_US
+  author: one
+  origin: sent_167_pt
+sent_168_pt:
+  text: Este lugar está vago?
+  language: pt_BR
+  author: one
+sent_168_en:
+  text: Is this seat available?
+  language: en_US
+  author: one
+  origin: sent_168_pt
+sent_169_pt:
+  text: Este é o meu lugar.
+  language: pt_BR
+  author: one
+sent_169_en:
+  text: That’s my seat.
+  language: en_US
+  author: one
+  origin: sent_169_pt
+sent_170_pt:
+  text: Queria chamar um táxi para as nove da manhã.
+  language: pt_BR
+  author: one
+sent_170_en:
+  text: I’d like a taxi at 9am.
+  language: en_US
+  author: one
+  origin: sent_170_pt
+sent_171_pt:
+  text: Queria chamar um táxi agora.
+  language: pt_BR
+  author: one
+sent_171_en:
+  text: I’d like a taxi now.
+  language: en_US
+  author: one
+  origin: sent_171_pt
+sent_172_pt:
+  text: Queria chamar um táxi amanhã.
+  language: pt_BR
+  author: one
+sent_172_en:
+  text: I’d like a taxi tomorrow.
+  language: en_US
+  author: one
+  origin: sent_172_pt
+sent_173_pt:
+  text: Este táxi está livre?
+  language: pt_BR
+  author: one
+sent_173_en:
+  text: Is this taxi available?
+  language: en_US
+  author: one
+  origin: sent_173_pt
+sent_174_pt:
+  text: Quanto custa até ao …?
+  language: pt_BR
+  author: one
+sent_174_en:
+  text: How much is it to …?
+  language: en_US
+  author: one
+  origin: sent_174_pt
+sent_175_pt:
+  text: Por favor, ligue o taxímetro.
+  language: pt_BR
+  author: one
+sent_175_en:
+  text: Please put the meter on.
+  language: en_US
+  author: one
+  origin: sent_175_pt
+sent_176_pt:
+  text: Leve-me a este endereço, por favor.
+  language: pt_BR
+  author: one
+sent_176_en:
+  text: Please take me to this address.
+  language: en_US
+  author: one
+  origin: sent_176_pt
+sent_177_pt:
+  text: Por favor vá mais devagar
+  language: pt_BR
+  author: one
+sent_177_en:
+  text: Please slow down.
+  language: en_US
+  author: one
+  origin: sent_177_pt
+sent_178_pt:
+  text: Por favor pare aqui.
+  language: pt_BR
+  author: one
+sent_178_en:
+  text: Please stop here.
+  language: en_US
+  author: one
+  origin: sent_178_pt
+sent_179_pt:
+  text: Por favor espere aqui.
+  language: pt_BR
+  author: one
+sent_179_en:
+  text: Please wait here.
+  language: en_US
+  author: one
+  origin: sent_179_pt
+sent_180_pt:
+  text: Queria alugar uma bicicleta.
+  language: pt_BR
+  author: one
+sent_180_en:
+  text: I’d like to hire a bicycle.
+  language: en_US
+  author: one
+  origin: sent_180_pt
+sent_181_pt:
+  text: Queria alugar um carro.
+  language: pt_BR
+  author: one
+sent_181_en:
+  text: I’d like to hire a car.
+  language: en_US
+  author: one
+  origin: sent_181_pt
+sent_182_pt:
+  text: Queria alugar uma mota.
+  language: pt_BR
+  author: one
+sent_182_en:
+  text: I’d like to hire a motorbike.
+  language: en_US
+  author: one
+  origin: sent_182_pt
+sent_183_pt:
+  text: com motorista.
+  language: pt_BR
+  author: one
+sent_183_en:
+  text: with a driver.
+  language: en_US
+  author: one
+  origin: sent_183_pt
+sent_184_pt:
+  text: com ar condicionado
+  language: pt_BR
+  author: one
+sent_184_en:
+  text: with air conditioning
+  language: en_US
+  author: one
+  origin: sent_184_pt
+sent_185_pt:
+  text: Quanto custa alugar por hora?
+  language: pt_BR
+  author: one
+sent_185_en:
+  text: How much for hourly hire?
+  language: en_US
+  author: one
+  origin: sent_185_pt
+sent_186_pt:
+  text: Quanto custa alugar por dia?
+  language: pt_BR
+  author: one
+sent_186_en:
+  text: How much for daily hire?
+  language: en_US
+  author: one
+  origin: sent_186_pt
+sent_187_pt:
+  text: Quanto custa alugar por semana?
+  language: pt_BR
+  author: one
+sent_187_en:
+  text: How much for weekly hire?
+  language: en_US
+  author: one
+  origin: sent_187_pt
+sent_188_pt:
+  text: o ar
+  language: pt_BR
+  author: one
+sent_188_en:
+  text: air
+  language: en_US
+  author: one
+  origin: sent_188_pt
+sent_189_pt:
+  text: o óleo
+  language: pt_BR
+  author: one
+sent_189_en:
+  text: oil
+  language: en_US
+  author: one
+  origin: sent_189_pt
+sent_190_pt:
+  text: a gasolina
+  language: pt_BR
+  author: one
+sent_190_en:
+  text: petrol
+  language: en_US
+  author: one
+  origin: sent_190_pt
+sent_191_pt:
+  text: os pneus
+  language: pt_BR
+  author: one
+sent_191_en:
+  text: tyres
+  language: en_US
+  author: one
+  origin: sent_191_pt
+sent_192_pt:
+  text: Preciso de um mecânico.
+  language: pt_BR
+  author: one
+sent_192_en:
+  text: I need a mechanic.
+  language: en_US
+  author: one
+  origin: sent_192_pt
+sent_193_pt:
+  text: Estou sem gasolina.
+  language: pt_BR
+  author: one
+sent_193_en:
+  text: I’ve run out of petrol.
+  language: en_US
+  author: one
+  origin: sent_193_pt
+sent_194_pt:
+  text: Tenho um furo no pneu.
+  language: pt_BR
+  author: one
+sent_194_en:
+  text: I have a flat tyre.
+  language: en_US
+  author: one
+  origin: sent_194_pt
+sent_195_pt:
+  text: Onde é o banco?
+  language: pt_BR
+  author: one
+sent_195_en:
+  text: Where's the bank?
+  language: en_US
+  author: one
+  origin: sent_195_pt
+sent_196_pt:
+  text: Onde é o centro da cidade?
+  language: pt_BR
+  author: one
+sent_196_en:
+  text: Where's the city centre?
+  language: en_US
+  author: one
+  origin: sent_196_pt
+sent_197_pt:
+  text: Onde é o hotel?
+  language: pt_BR
+  author: one
+sent_197_en:
+  text: Where's the hotel?
+  language: en_US
+  author: one
+  origin: sent_197_pt
+sent_198_pt:
+  text: Onde é o mercado?
+  language: pt_BR
+  author: one
+sent_198_en:
+  text: Where's the market?
+  language: en_US
+  author: one
+  origin: sent_198_pt
+sent_199_pt:
+  text: Onde é o correio?
+  language: pt_BR
+  author: one
+sent_199_en:
+  text: Where's the post office?
+  language: en_US
+  author: one
+  origin: sent_199_pt
+sent_200_pt:
+  text: Onde é a casa de banho pública?
+  language: pt_BR
+  author: one
+sent_200_en:
+  text: Where's the public toilet?
+  language: en_US
+  author: one
+  origin: sent_200_pt
+sent_201_pt:
+  text: Onde é o escritório de turismo?
+  language: pt_BR
+  author: one
+sent_201_en:
+  text: Where's the tourist office?
+  language: en_US
+  author: one
+  origin: sent_201_pt
+sent_202_pt:
+  text: Esta é a estrada para Sintra?
+  language: pt_BR
+  author: one
+sent_202_en:
+  text: Is this the road to Sintra?
+  language: en_US
+  author: one
+  origin: sent_202_pt
+sent_203_pt:
+  text: Pode-me mostrar no mapa?
+  language: pt_BR
+  author: one
+sent_203_en:
+  text: Can you show me on the map?
+  language: en_US
+  author: one
+  origin: sent_203_pt
+sent_204_pt:
+  text: A que distância fica?
+  language: pt_BR
+  author: one
+sent_204_en:
+  text: How far is it?
+  language: en_US
+  author: one
+  origin: sent_204_pt
+sent_205_pt:
+  text: Como é que eu chego lá?
+  language: pt_BR
+  author: one
+sent_205_en:
+  text: How do I get there?
+  language: en_US
+  author: one
+  origin: sent_205_pt
+sent_206_pt:
+  text: Vire na esquina
+  language: pt_BR
+  author: one
+sent_206_en:
+  text: Turn at the corner
+  language: en_US
+  author: one
+  origin: sent_206_pt
+sent_207_pt:
+  text: Vire nos semáforos
+  language: pt_BR
+  author: one
+sent_207_en:
+  text: Turn at the traffic lights
+  language: en_US
+  author: one
+  origin: sent_207_pt
+sent_208_pt:
+  text: Vire à esquerda
+  language: pt_BR
+  author: one
+sent_208_en:
+  text: Turn left
+  language: en_US
+  author: one
+  origin: sent_208_pt
+sent_209_pt:
+  text: Vire à direita
+  language: pt_BR
+  author: one
+sent_209_en:
+  text: Turn right
+  language: en_US
+  author: one
+  origin: sent_209_pt
+sent_210_pt:
+  text: É atrás de …
+  language: pt_BR
+  author: one
+sent_210_en:
+  text: It's behind ...
+  language: en_US
+  author: one
+  origin: sent_210_pt
+sent_211_pt:
+  text: É longe
+  language: pt_BR
+  author: one
+sent_211_en:
+  text: It's far away
+  language: en_US
+  author: one
+  origin: sent_211_pt
+sent_212_pt:
+  text: É aqui
+  language: pt_BR
+  author: one
+sent_212_en:
+  text: It's here
+  language: en_US
+  author: one
+  origin: sent_212_pt
+sent_213_pt:
+  text: É em frente de …
+  language: pt_BR
+  author: one
+sent_213_en:
+  text: It's in front of ...
+  language: en_US
+  author: one
+  origin: sent_213_pt
+sent_214_pt:
+  text: É à esquerda
+  language: pt_BR
+  author: one
+sent_214_en:
+  text: It's left
+  language: en_US
+  author: one
+  origin: sent_214_pt
+sent_215_pt:
+  text: É perto de …
+  language: pt_BR
+  author: one
+sent_215_en:
+  text: It's near to ...
+  language: en_US
+  author: one
+  origin: sent_215_pt
+sent_216_pt:
+  text: É ao lado de …
+  language: pt_BR
+  author: one
+sent_216_en:
+  text: It's next to ...
+  language: en_US
+  author: one
+  origin: sent_216_pt
+sent_217_pt:
+  text: É na esquina
+  language: pt_BR
+  author: one
+sent_217_en:
+  text: It's on the corner
+  language: en_US
+  author: one
+  origin: sent_217_pt
+sent_218_pt:
+  text: É do lado oposto …
+  language: pt_BR
+  author: one
+sent_218_en:
+  text: It's opposite ...
+  language: en_US
+  author: one
+  origin: sent_218_pt
+sent_219_pt:
+  text: É à direita
+  language: pt_BR
+  author: one
+sent_219_en:
+  text: It's right
+  language: en_US
+  author: one
+  origin: sent_219_pt
+sent_220_pt:
+  text: É em frente
+  language: pt_BR
+  author: one
+sent_220_en:
+  text: It's straight ahead
+  language: en_US
+  author: one
+  origin: sent_220_pt
+sent_221_pt:
+  text: É lá
+  language: pt_BR
+  author: one
+sent_221_en:
+  text: It's there
+  language: en_US
+  author: one
+  origin: sent_221_pt
+sent_222_pt:
+  text: de autocarro
+  language: pt_BR
+  author: one
+sent_222_en:
+  text: by bus
+  language: en_US
+  author: one
+  origin: sent_222_pt
+sent_223_pt:
+  text: de táxi
+  language: pt_BR
+  author: one
+sent_223_en:
+  text: by taxi
+  language: en_US
+  author: one
+  origin: sent_223_pt
+sent_224_pt:
+  text: de comboio
+  language: pt_BR
+  author: one
+sent_224_en:
+  text: by train
+  language: en_US
+  author: one
+  origin: sent_224_pt
+sent_225_pt:
+  text: a pé
+  language: pt_BR
+  author: one
+sent_225_en:
+  text: on foot
+  language: en_US
+  author: one
+  origin: sent_225_pt
+sent_226_pt:
+  text: norte
+  language: pt_BR
+  author: one
+sent_226_en:
+  text: north
+  language: en_US
+  author: one
+  origin: sent_226_pt
+sent_227_pt:
+  text: sul
+  language: pt_BR
+  author: one
+sent_227_en:
+  text: south
+  language: en_US
+  author: one
+  origin: sent_227_pt
+sent_228_pt:
+  text: leste (a) (n masc.)
+  language: pt_BR
+  author: one
+sent_228_en:
+  text: east
+  language: en_US
+  author: one
+  origin: sent_228_pt
+sent_229_pt:
+  text: oeste
+  language: pt_BR
+  author: one
+sent_229_en:
+  text: west
+  language: en_US
+  author: one
+  origin: sent_229_pt
+sent_230_pt:
+  text: Entrada
+  language: pt_BR
+  author: one
+sent_230_en:
+  text: Entrance
+  language: en_US
+  author: one
+  origin: sent_230_pt
+sent_231_pt:
+  text: Saída
+  language: pt_BR
+  author: one
+sent_231_en:
+  text: Exit
+  language: en_US
+  author: one
+  origin: sent_231_pt
+sent_232_pt:
+  text: Aberto
+  language: pt_BR
+  author: one
+sent_232_en:
+  text: Open
+  language: en_US
+  author: one
+  origin: sent_232_pt
+sent_233_pt:
+  text: Fechado
+  language: pt_BR
+  author: one
+sent_233_en:
+  text: Closed
+  language: en_US
+  author: one
+  origin: sent_233_pt
+sent_234_pt:
+  text: Há Vaga
+  language: pt_BR
+  author: one
+sent_234_en:
+  text: Vacancies
+  language: en_US
+  author: one
+  origin: sent_234_pt
+sent_235_pt:
+  text: Não Há Vaga
+  language: pt_BR
+  author: one
+sent_235_en:
+  text: No Vacancies
+  language: en_US
+  author: one
+  origin: sent_235_pt
+sent_236_pt:
+  text: Informação
+  language: pt_BR
+  author: one
+sent_236_en:
+  text: Information
+  language: en_US
+  author: one
+  origin: sent_236_pt
+sent_237_pt:
+  text: Esquadra da Polícia
+  language: pt_BR
+  author: one
+sent_237_en:
+  text: Police Station
+  language: en_US
+  author: one
+  origin: sent_237_pt
+sent_238_pt:
+  text: Proibido
+  language: pt_BR
+  author: one
+sent_238_en:
+  text: Prohibited
+  language: en_US
+  author: one
+  origin: sent_238_pt
+sent_239_pt:
+  text: Casa de Banho
+  language: pt_BR
+  author: one
+sent_239_en:
+  text: Toilets
+  language: en_US
+  author: one
+  origin: sent_239_pt
+sent_240_pt:
+  text: Homens
+  language: pt_BR
+  author: one
+sent_240_en:
+  text: Men
+  language: en_US
+  author: one
+  origin: sent_240_pt
+sent_241_pt:
+  text: Mulheres
+  language: pt_BR
+  author: one
+sent_241_en:
+  text: Women
+  language: en_US
+  author: one
+  origin: sent_241_pt
+sent_242_pt:
+  text: Quente
+  language: pt_BR
+  author: one
+sent_242_en:
+  text: Hot
+  language: en_US
+  author: one
+  origin: sent_242_pt
+sent_243_pt:
+  text: Onde é que há um parque de campismo?
+  language: pt_BR
+  author: one
+sent_243_en:
+  text: Where’s a camping ground?
+  language: en_US
+  author: one
+  origin: sent_243_pt
+sent_244_pt:
+  text: Onde é que há uma casa de hóspedes?
+  language: pt_BR
+  author: one
+sent_244_en:
+  text: Where’s a guesthouse?
+  language: en_US
+  author: one
+  origin: sent_244_pt
+sent_245_pt:
+  text: Onde é que há um hotel?
+  language: pt_BR
+  author: one
+sent_245_en:
+  text: Where’s a hotel?
+  language: en_US
+  author: one
+  origin: sent_245_pt
+sent_246_pt:
+  text: Onde é que há uma pousada de juventude?
+  language: pt_BR
+  author: one
+sent_246_en:
+  text: Where’s a youth hostel?
+  language: en_US
+  author: one
+  origin: sent_246_pt
+sent_247_pt:
+  text: Pode recomendar algum lugar barato?
+  language: pt_BR
+  author: one
+sent_247_en:
+  text: Can you recommend somewhere cheap?
+  language: en_US
+  author: one
+  origin: sent_247_pt
+sent_248_pt:
+  text: Pode recomendar algum lugar bom?
+  language: pt_BR
+  author: one
+sent_248_en:
+  text: Can you recommend somewhere good?
+  language: en_US
+  author: one
+  origin: sent_248_pt
+sent_249_pt:
+  text: Pode recomendar algum lugar perto daqui?
+  language: pt_BR
+  author: one
+sent_249_en:
+  text: Can you recommend somewhere nearby?
+  language: en_US
+  author: one
+  origin: sent_249_pt
+sent_250_pt:
+  text: Eu queria fazer uma reserva, por favor.
+  language: pt_BR
+  author: one
+sent_250_en:
+  text: I’d like to book a room (make a reservation), please.
+  language: en_US
+  author: one
+  origin: sent_250_pt
+sent_251_pt:
+  text: Eu tenho uma reserva.
+  language: pt_BR
+  author: one
+sent_251_en:
+  text: I have a reservation.
+  language: en_US
+  author: one
+  origin: sent_251_pt
+sent_252_pt:
+  text: O meu nome é …
+  language: pt_BR
+  author: one
+sent_252_en:
+  text: My name’s …
+  language: en_US
+  author: one
+  origin: sent_252_pt
+sent_253_pt:
+  text: Tem um quarto de solteiro?
+  language: pt_BR
+  author: one
+sent_253_en:
+  text: Do you have a single room?
+  language: en_US
+  author: one
+  origin: sent_253_pt
+sent_254_pt:
+  text: Tem um quarto de casal?
+  language: pt_BR
+  author: one
+sent_254_en:
+  text: Do you have a double room?
+  language: en_US
+  author: one
+  origin: sent_254_pt
+sent_255_pt:
+  text: Tem um quarto duplo?
+  language: pt_BR
+  author: one
+sent_255_en:
+  text: Do you have a twin room?
+  language: en_US
+  author: one
+  origin: sent_255_pt
+sent_256_pt:
+  text: Quanto custa por noite?
+  language: pt_BR
+  author: one
+sent_256_en:
+  text: How much is it per night?
+  language: en_US
+  author: one
+  origin: sent_256_pt
+sent_257_pt:
+  text: Quanto custa por pessoa?
+  language: pt_BR
+  author: one
+sent_257_en:
+  text: How much is it per person?
+  language: en_US
+  author: one
+  origin: sent_257_pt
+sent_258_pt:
+  text: Posso pagar com cartão de crédito?
+  language: pt_BR
+  author: one
+sent_258_en:
+  text: Can I pay by credit card?
+  language: en_US
+  author: one
+  origin: sent_258_pt
+sent_259_pt:
+  text: Posso pagar com traveller cheque?
+  language: pt_BR
+  author: one
+sent_259_en:
+  text: Can I pay by travellers cheque?
+  language: en_US
+  author: one
+  origin: sent_259_pt
+sent_260_pt:
+  text: Para três noites.
+  language: pt_BR
+  author: one
+sent_260_en:
+  text: "[I’d like to stay] for three nights."
+  language: en_US
+  author: one
+  origin: sent_260_pt
+sent_261_pt:
+  text: De dois de julho até seis de julho.
+  language: pt_BR
+  author: one
+sent_261_en:
+  text: From 2 July to 6 July.
+  language: en_US
+  author: one
+  origin: sent_261_pt
+sent_262_pt:
+  text: Posso ver?
+  language: pt_BR
+  author: one
+sent_262_en:
+  text: Can I see it?
+  language: en_US
+  author: one
+  origin: sent_262_pt
+sent_263_pt:
+  text: Posso acampar aqui?
+  language: pt_BR
+  author: one
+sent_263_en:
+  text: Am I allowed to camp here?
+  language: en_US
+  author: one
+  origin: sent_263_pt
+sent_264_pt:
+  text: Tem elevador?
+  language: pt_BR
+  author: one
+sent_264_en:
+  text: Is there an elevator?
+  language: en_US
+  author: one
+  origin: sent_264_pt
+sent_265_pt:
+  text: Tem cofre?
+  language: pt_BR
+  author: one
+sent_265_en:
+  text: Is there a safe?
+  language: en_US
+  author: one
+  origin: sent_265_pt
+sent_266_pt:
+  text: É demasiado caro.
+  language: pt_BR
+  author: one
+sent_266_en:
+  text: "(The room) It's too expensive."
+  language: en_US
+  author: one
+  origin: sent_266_pt
+sent_267_pt:
+  text: É demasiado barulhento.
+  language: pt_BR
+  author: one
+sent_267_en:
+  text: "(The room) It's too noisy."
+  language: en_US
+  author: one
+  origin: sent_267_pt
+sent_268_pt:
+  text: É demasiado pequeno.
+  language: pt_BR
+  author: one
+sent_268_en:
+  text: "(The room) It's too small."
+  language: en_US
+  author: one
+  origin: sent_268_pt
+sent_269_pt:
+  text: O ar condicionado não funciona.
+  language: pt_BR
+  author: one
+sent_269_en:
+  text: The air conditioner doesn’t work.
+  language: en_US
+  author: one
+  origin: sent_269_pt
+sent_270_pt:
+  text: A ventoínha não funciona.
+  language: pt_BR
+  author: one
+sent_270_en:
+  text: The fan doesn’t work.
+  language: en_US
+  author: one
+  origin: sent_270_pt
+sent_271_pt:
+  text: A sanita não funciona.
+  language: pt_BR
+  author: one
+sent_271_en:
+  text: The toilet doesn’t work.
+  language: en_US
+  author: one
+  origin: sent_271_pt
+sent_272_pt:
+  text: Esta almofada está suja.
+  language: pt_BR
+  author: one
+sent_272_en:
+  text: This pillow is dirty.
+  language: en_US
+  author: one
+  origin: sent_272_pt
+sent_273_pt:
+  text: Esta toalha está suja.
+  language: pt_BR
+  author: one
+sent_273_en:
+  text: This towel is dirty.
+  language: en_US
+  author: one
+  origin: sent_273_pt
+sent_274_pt:
+  text: Este lençol está sujo.
+  language: pt_BR
+  author: one
+sent_274_en:
+  text: This sheet is dirty.
+  language: en_US
+  author: one
+  origin: sent_274_pt
+sent_275_pt:
+  text: Quando é que servem o pequeno almoço?
+  language: pt_BR
+  author: one
+sent_275_en:
+  text: When is breakfast served?
+  language: en_US
+  author: one
+  origin: sent_275_pt
+sent_276_pt:
+  text: Onde é que servem o pequeno almoço?
+  language: pt_BR
+  author: one
+sent_276_en:
+  text: Where is breakfast served?
+  language: en_US
+  author: one
+  origin: sent_276_pt
+sent_277_pt:
+  text: Por favor acorde-me às sete.
+  language: pt_BR
+  author: one
+sent_277_en:
+  text: Please wake me at seven.
+  language: en_US
+  author: one
+  origin: sent_277_pt
+sent_278_pt:
+  text: Pode-me dar a minha chave, por favor?
+  language: pt_BR
+  author: one
+sent_278_en:
+  text: Could I have my key, please?
+  language: en_US
+  author: one
+  origin: sent_278_pt
+sent_279_pt:
+  text: Pode-me dar mais um cobertor?
+  language: pt_BR
+  author: one
+sent_279_en:
+  text: Can you give me another blanket?
+  language: en_US
+  author: one
+  origin: sent_279_pt
+sent_280_pt:
+  text: A que horas é a partida?
+  language: pt_BR
+  author: one
+sent_280_en:
+  text: What time is checkout?
+  language: en_US
+  author: one
+  origin: sent_280_pt
+sent_281_pt:
+  text: Posso deixar as minhas malas aqui?
+  language: pt_BR
+  author: one
+sent_281_en:
+  text: Can I leave my bags here?
+  language: en_US
+  author: one
+  origin: sent_281_pt
+sent_282_pt:
+  text: Pode-me devolver o depósito, por favor?
+  language: pt_BR
+  author: one
+sent_282_en:
+  text: Could I have my deposit, please?
+  language: en_US
+  author: one
+  origin: sent_282_pt
+sent_283_pt:
+  text: Pode-me devolver o passaporte, por favor?
+  language: pt_BR
+  author: one
+sent_283_en:
+  text: Could I have my passport, please?
+  language: en_US
+  author: one
+  origin: sent_283_pt
+sent_284_pt:
+  text: Pode-me devolver os objetos de valor, por favor?
+  language: pt_BR
+  author: one
+sent_284_en:
+  text: Could I have my valuables?
+  language: en_US
+  author: one
+  origin: sent_284_pt
+sent_285_pt:
+  text: Onde fica um café da internet nas redondezas?
+  language: pt_BR
+  author: one
+sent_285_en:
+  text: Where’s a local Internet café?
+  language: en_US
+  author: one
+  origin: sent_285_pt
+sent_286_pt:
+  text: Quanto custa por hora?
+  language: pt_BR
+  author: one
+sent_286_en:
+  text: How much is it per hour?
+  language: en_US
+  author: one
+  origin: sent_286_pt
+sent_287_pt:
+  text: Queria ler o meu email.
+  language: pt_BR
+  author: one
+sent_287_en:
+  text: I’d like to check (read) my email.
+  language: en_US
+  author: one
+  origin: sent_287_pt
+sent_288_pt:
+  text: Queria ter acesso à internet.
+  language: pt_BR
+  author: one
+sent_288_en:
+  text: I’d like to get Internet access.
+  language: en_US
+  author: one
+  origin: sent_288_pt
+sent_289_pt:
+  text: Queria usar uma impressora.
+  language: pt_BR
+  author: one
+sent_289_en:
+  text: I’d like to use a printer.
+  language: en_US
+  author: one
+  origin: sent_289_pt
+sent_290_pt:
+  text: Queria usar um digitalizador.
+  language: pt_BR
+  author: one
+sent_290_en:
+  text: I’d like to use a scanner.
+  language: en_US
+  author: one
+  origin: sent_290_pt
+sent_291_pt:
+  text: Queria alugar um telemóvel.
+  language: pt_BR
+  author: one
+sent_291_en:
+  text: I’d like a mobile phone for hire.
+  language: en_US
+  author: one
+  origin: sent_291_pt
+sent_292_pt:
+  text: Queria um cartão SIM para a sua rede.
+  language: pt_BR
+  author: one
+sent_292_en:
+  text: I’d like a SIM card for your network.
+  language: en_US
+  author: one
+  origin: sent_292_pt
+sent_293_pt:
+  text: Qual é o valor cobrado?
+  language: pt_BR
+  author: one
+sent_293_en:
+  text: What are the rates? (mobile phone)
+  language: en_US
+  author: one
+  origin: sent_293_pt
+sent_294_pt:
+  text: Qual é o seu número de telefone?
+  language: pt_BR
+  author: one
+sent_294_en:
+  text: What’s your phone number?
+  language: en_US
+  author: one
+  origin: sent_294_pt
+sent_295_pt:
+  text: O número é …
+  language: pt_BR
+  author: one
+sent_295_en:
+  text: The number is …
+  language: en_US
+  author: one
+  origin: sent_295_pt
+sent_296_pt:
+  text: Onde fica o telefone público mais perto?
+  language: pt_BR
+  author: one
+sent_296_en:
+  text: Where’s the nearest public phone?
+  language: en_US
+  author: one
+  origin: sent_296_pt
+sent_297_pt:
+  text: Quero comprar um cartão telefónico.
+  language: pt_BR
+  author: one
+sent_297_en:
+  text: I’d like to buy a phonecard.
+  language: en_US
+  author: one
+  origin: sent_297_pt
+sent_298_pt:
+  text: Quero telefonar para Singapura.
+  language: pt_BR
+  author: one
+sent_298_en:
+  text: I want to call Singapore.
+  language: en_US
+  author: one
+  origin: sent_298_pt
+sent_299_pt:
+  text: Quero fazer uma chamada local.
+  language: pt_BR
+  author: one
+sent_299_en:
+  text: I want to make a local call.
+  language: en_US
+  author: one
+  origin: sent_299_pt
+sent_300_pt:
+  text: Quero fazer uma chamada a cobrar.
+  language: pt_BR
+  author: one
+sent_300_en:
+  text: I want to reverse the charges. (collect call)
+  language: en_US
+  author: one
+  origin: sent_300_pt
+sent_301_pt:
+  text: Quanto custa uma ligação de três minutos?
+  language: pt_BR
+  author: one
+sent_301_en:
+  text: How much does a three-minute call cost?
+  language: en_US
+  author: one
+  origin: sent_301_pt
+sent_302_pt:
+  text: Quanto custa cada minuto extra?
+  language: pt_BR
+  author: one
+sent_302_en:
+  text: How much does each extra minute cost?
+  language: en_US
+  author: one
+  origin: sent_302_pt
+sent_303_pt:
+  text: Trinta cêntimos por trinta segundos.
+  language: pt_BR
+  author: one
+sent_303_en:
+  text: It’s 30c per 30 seconds.
+  language: en_US
+  author: one
+  origin: sent_303_pt
+sent_304_pt:
+  text: Quero enviar um fax.
+  language: pt_BR
+  author: one
+sent_304_en:
+  text: I want to send a fax.
+  language: en_US
+  author: one
+  origin: sent_304_pt
+sent_305_pt:
+  text: Quero enviar uma carta.
+  language: pt_BR
+  author: one
+sent_305_en:
+  text: I want to send a letter.
+  language: en_US
+  author: one
+  origin: sent_305_pt
+sent_306_pt:
+  text: Quero enviar uma encomenda.
+  language: pt_BR
+  author: one
+sent_306_en:
+  text: I want to send a parcel.
+  language: en_US
+  author: one
+  origin: sent_306_pt
+sent_307_pt:
+  text: Quero enviar um postal.
+  language: pt_BR
+  author: one
+sent_307_en:
+  text: I want to send a postcard.
+  language: en_US
+  author: one
+  origin: sent_307_pt
+sent_308_pt:
+  text: Quero comprar um envelope.
+  language: pt_BR
+  author: one
+sent_308_en:
+  text: I want to buy an envelope.
+  language: en_US
+  author: one
+  origin: sent_308_pt
+sent_309_pt:
+  text: Quero comprar um selo.
+  language: pt_BR
+  author: one
+sent_309_en:
+  text: I want to buy a stamp.
+  language: en_US
+  author: one
+  origin: sent_309_pt
+sent_310_pt:
+  text: Por favor envie isto para a Austrália por via aérea.
+  language: pt_BR
+  author: one
+sent_310_en:
+  text: Please send this to Australia by airmail.
+  language: en_US
+  author: one
+  origin: sent_310_pt
+sent_311_pt:
+  text: Por favor envie isto para a Austrália por correio azul.
+  language: pt_BR
+  author: one
+sent_311_en:
+  text: Please send this to Australia by express mail.
+  language: en_US
+  author: one
+  origin: sent_311_pt
+sent_312_pt:
+  text: Por favor envie isto para a Austrália por correio registado.
+  language: pt_BR
+  author: one
+sent_312_en:
+  text: Please send it to Australia by registered mail. (m)
+  language: en_US
+  author: one
+  origin: sent_312_pt
+sent_313_pt:
+  text: Por favor envie isto para a Austrália por via terrestre.
+  language: pt_BR
+  author: one
+sent_313_en:
+  text: Please send it to Australia by surface mail.
+  language: en_US
+  author: one
+  origin: sent_313_pt
+sent_314_pt:
+  text: Há alguma correspondência para mim?
+  language: pt_BR
+  author: one
+sent_314_en:
+  text: Is there any mail for me?
+  language: en_US
+  author: one
+  origin: sent_314_pt
+sent_315_pt:
+  text: Onde é que há uma caixa automática?
+  language: pt_BR
+  author: one
+sent_315_en:
+  text: Where’s an ATM?
+  language: en_US
+  author: one
+  origin: sent_315_pt
+sent_316_pt:
+  text: Onde é que há um câmbio?
+  language: pt_BR
+  author: one
+sent_316_en:
+  text: Where’s a foreign exchange office?
+  language: en_US
+  author: one
+  origin: sent_316_pt
+sent_317_pt:
+  text: Queria …
+  language: pt_BR
+  author: one
+sent_317_en:
+  text: I’d like to …
+  language: en_US
+  author: one
+  origin: sent_317_pt
+sent_318_pt:
+  text: Onde é que posso fazer uma transferência?
+  language: pt_BR
+  author: one
+sent_318_en:
+  text: Where can I arrange a transfer? (bank)
+  language: en_US
+  author: one
+  origin: sent_318_pt
+sent_319_pt:
+  text: Onde é que posso trocar um cheque?
+  language: pt_BR
+  author: one
+sent_319_en:
+  text: Where can I cash a cheque?
+  language: en_US
+  author: one
+  origin: sent_319_pt
+sent_320_pt:
+  text: Onde é que posso trocar traveller cheque?
+  language: pt_BR
+  author: one
+sent_320_en:
+  text: Where can I change a travellers cheque?
+  language: en_US
+  author: one
+  origin: sent_320_pt
+sent_321_pt:
+  text: Onde é que posso trocar dinheiro?
+  language: pt_BR
+  author: one
+sent_321_en:
+  text: Where can I change money?
+  language: en_US
+  author: one
+  origin: sent_321_pt
+sent_322_pt:
+  text: Onde é que posso fazer um levantamento adiantado?
+  language: pt_BR
+  author: one
+sent_322_en:
+  text: Where can I get a cash advance?
+  language: en_US
+  author: one
+  origin: sent_322_pt
+sent_323_pt:
+  text: Onde é que posso levantar dinheiro?
+  language: pt_BR
+  author: one
+sent_323_en:
+  text: Where can I withdraw money?
+  language: en_US
+  author: one
+  origin: sent_323_pt
+sent_324_pt:
+  text: Qual é a comissão?
+  language: pt_BR
+  author: one
+sent_324_en:
+  text: What’s the commission?
+  language: en_US
+  author: one
+  origin: sent_324_pt
+sent_325_pt:
+  text: Qual é o imposto?
+  language: pt_BR
+  author: one
+sent_325_en:
+  text: What’s the charge for that?
+  language: en_US
+  author: one
+  origin: sent_325_pt
+sent_326_pt:
+  text: Qual é o câmbio do dia?
+  language: pt_BR
+  author: one
+sent_326_en:
+  text: What’s the exchange rate?
+  language: en_US
+  author: one
+  origin: sent_326_pt
+sent_327_pt:
+  text: É doze euros.
+  language: pt_BR
+  author: one
+sent_327_en:
+  text: It's 12 euros.
+  language: en_US
+  author: one
+  origin: sent_327_pt
+sent_328_pt:
+  text: É gratuito.
+  language: pt_BR
+  author: one
+sent_328_en:
+  text: It's free.
+  language: en_US
+  author: one
+  origin: sent_328_pt
+sent_329_pt:
+  text: A que horas é que abre o banco?
+  language: pt_BR
+  author: one
+sent_329_en:
+  text: What time does the bank open?
+  language: en_US
+  author: one
+  origin: sent_329_pt
+sent_330_pt:
+  text: O meu dinheiro já chegou?
+  language: pt_BR
+  author: one
+sent_330_en:
+  text: Has my money arrived yet?
+  language: en_US
+  author: one
+  origin: sent_330_pt
+sent_331_pt:
+  text: A que horas abre?
+  language: pt_BR
+  author: one
+sent_331_en:
+  text: What time does it open?
+  language: en_US
+  author: one
+  origin: sent_331_pt
+sent_332_pt:
+  text: A que horas fecha?
+  language: pt_BR
+  author: one
+sent_332_en:
+  text: What time does it close?
+  language: en_US
+  author: one
+  origin: sent_332_pt
+sent_333_pt:
+  text: Qual é o preço de entrada?
+  language: pt_BR
+  author: one
+sent_333_en:
+  text: What’s the admission charge?
+  language: en_US
+  author: one
+  origin: sent_333_pt
+sent_334_pt:
+  text: Tem desconto para crianças?
+  language: pt_BR
+  author: one
+sent_334_en:
+  text: Is there a discount for children?
+  language: en_US
+  author: one
+  origin: sent_334_pt
+sent_335_pt:
+  text: Tem desconto para estudantes?
+  language: pt_BR
+  author: one
+sent_335_en:
+  text: Is there a discount for students?
+  language: en_US
+  author: one
+  origin: sent_335_pt
+sent_336_pt:
+  text: Queria um catálogo.
+  language: pt_BR
+  author: one
+sent_336_en:
+  text: I’d like a catalogue.
+  language: en_US
+  author: one
+  origin: sent_336_pt
+sent_337_pt:
+  text: Queria um guia.
+  language: pt_BR
+  author: one
+sent_337_en:
+  text: I’d like a guide.
+  language: en_US
+  author: one
+  origin: sent_337_pt
+sent_338_pt:
+  text: Queria um mapa local.
+  language: pt_BR
+  author: one
+sent_338_en:
+  text: I’d like a local map.
+  language: en_US
+  author: one
+  origin: sent_338_pt
+sent_339_pt:
+  text: Eu gostava de ver …
+  language: pt_BR
+  author: one
+sent_339_en:
+  text: I’d like to see …
+  language: en_US
+  author: one
+  origin: sent_339_pt
+sent_340_pt:
+  text: O que é aquilo?
+  language: pt_BR
+  author: one
+sent_340_en:
+  text: What’s that?
+  language: en_US
+  author: one
+  origin: sent_340_pt
+sent_341_pt:
+  text: Posso tirar uma fotografia?
+  language: pt_BR
+  author: one
+sent_341_en:
+  text: Can I take a photo?
+  language: en_US
+  author: one
+  origin: sent_341_pt
+sent_342_pt:
+  text: Quando é o próximo passeio?
+  language: pt_BR
+  author: one
+sent_342_en:
+  text: When’s the next day trip?
+  language: en_US
+  author: one
+  origin: sent_342_pt
+sent_343_pt:
+  text: Quando é a próxima excursão?
+  language: pt_BR
+  author: one
+sent_343_en:
+  text: When’s the next tour?
+  language: en_US
+  author: one
+  origin: sent_343_pt
+sent_344_pt:
+  text: Inclui hospedagem?
+  language: pt_BR
+  author: one
+sent_344_en:
+  text: Is accommodation included?
+  language: en_US
+  author: one
+  origin: sent_344_pt
+sent_345_pt:
+  text: Inclui preço de entrada?
+  language: pt_BR
+  author: one
+sent_345_en:
+  text: Is the admission charge included?
+  language: en_US
+  author: one
+  origin: sent_345_pt
+sent_346_pt:
+  text: Inclui comida?
+  language: pt_BR
+  author: one
+sent_346_en:
+  text: Is food included?
+  language: en_US
+  author: one
+  origin: sent_346_pt
+sent_347_pt:
+  text: Inclui transporte?
+  language: pt_BR
+  author: one
+sent_347_en:
+  text: Is transport included?
+  language: en_US
+  author: one
+  origin: sent_347_pt
+sent_348_pt:
+  text: Quanto tempo dura a excursão?
+  language: pt_BR
+  author: one
+sent_348_en:
+  text: How long is the tour?
+  language: en_US
+  author: one
+  origin: sent_348_pt
+sent_349_pt:
+  text: A que horas é que devemos estar de volta?
+  language: pt_BR
+  author: one
+sent_349_en:
+  text: What time should we be back?
+  language: en_US
+  author: one
+  origin: sent_349_pt
+sent_350_pt:
+  text: o castelo
+  language: pt_BR
+  author: one
+sent_350_en:
+  text: castle
+  language: en_US
+  author: one
+  origin: sent_350_pt
+sent_351_pt:
+  text: a catedral
+  language: pt_BR
+  author: one
+sent_351_en:
+  text: cathedral
+  language: en_US
+  author: one
+  origin: sent_351_pt
+sent_352_pt:
+  text: a igreja
+  language: pt_BR
+  author: one
+sent_352_en:
+  text: church
+  language: en_US
+  author: one
+  origin: sent_352_pt
+sent_353_pt:
+  text: a praça principal
+  language: pt_BR
+  author: one
+sent_353_en:
+  text: main square
+  language: en_US
+  author: one
+  origin: sent_353_pt
+sent_354_pt:
+  text: o mosteiro
+  language: pt_BR
+  author: one
+sent_354_en:
+  text: monastery
+  language: en_US
+  author: one
+  origin: sent_354_pt
+sent_355_pt:
+  text: o monumento
+  language: pt_BR
+  author: one
+sent_355_en:
+  text: monument
+  language: en_US
+  author: one
+  origin: sent_355_pt
+sent_356_pt:
+  text: o museu
+  language: pt_BR
+  author: one
+sent_356_en:
+  text: museum
+  language: en_US
+  author: one
+  origin: sent_356_pt
+sent_357_pt:
+  text: a cidade antiga
+  language: pt_BR
+  author: one
+sent_357_en:
+  text: old city
+  language: en_US
+  author: one
+  origin: sent_357_pt
+sent_358_pt:
+  text: o palácio
+  language: pt_BR
+  author: one
+sent_358_en:
+  text: palace
+  language: en_US
+  author: one
+  origin: sent_358_pt
+sent_359_pt:
+  text: as ruínas
+  language: pt_BR
+  author: one
+sent_359_en:
+  text: ruins
+  language: en_US
+  author: one
+  origin: sent_359_pt
+sent_360_pt:
+  text: o estádio
+  language: pt_BR
+  author: one
+sent_360_en:
+  text: stadium
+  language: en_US
+  author: one
+  origin: sent_360_pt
+sent_361_pt:
+  text: as estátuas
+  language: pt_BR
+  author: one
+sent_361_en:
+  text: statues
+  language: en_US
+  author: one
+  origin: sent_361_pt
+sent_362_pt:
+  text: Onde é a livraria?
+  language: pt_BR
+  author: one
+sent_362_en:
+  text: Where's a bookshop?
+  language: en_US
+  author: one
+  origin: sent_362_pt
+sent_363_pt:
+  text: Onde é a loja?
+  language: pt_BR
+  author: one
+sent_363_en:
+  text: Where’s a department store?
+  language: en_US
+  author: one
+  origin: sent_363_pt
+sent_364_pt:
+  text: Onde é a mercearia?
+  language: pt_BR
+  author: one
+sent_364_en:
+  text: Where’s a grocery store?
+  language: en_US
+  author: one
+  origin: sent_364_pt
+sent_365_pt:
+  text: Onde é o quiosque?
+  language: pt_BR
+  author: one
+sent_365_en:
+  text: Where’s a newsagency?
+  language: en_US
+  author: one
+  origin: sent_365_pt
+sent_366_pt:
+  text: Onde é o supermercado?
+  language: pt_BR
+  author: one
+sent_366_en:
+  text: Where’s a supermarket?
+  language: en_US
+  author: one
+  origin: sent_366_pt
+sent_367_pt:
+  text: Onde é que posso comprar um cadeado?
+  language: pt_BR
+  author: one
+sent_367_en:
+  text: Where can I buy a padlock?
+  language: en_US
+  author: one
+  origin: sent_367_pt
+sent_368_pt:
+  text: Estou à procura de …
+  language: pt_BR
+  author: one
+sent_368_en:
+  text: I’m looking for …
+  language: en_US
+  author: one
+  origin: sent_368_pt
+sent_369_pt:
+  text: Tem outros?
+  language: pt_BR
+  author: one
+sent_369_en:
+  text: Do you have any others?
+  language: en_US
+  author: one
+  origin: sent_369_pt
+sent_370_pt:
+  text: Tem garantia?
+  language: pt_BR
+  author: one
+sent_370_en:
+  text: Does it have a guarantee?
+  language: en_US
+  author: one
+  origin: sent_370_pt
+sent_371_pt:
+  text: Podem enviar para o estrangeiro?
+  language: pt_BR
+  author: one
+sent_371_en:
+  text: Can I have it sent overseas?
+  language: en_US
+  author: one
+  origin: sent_371_pt
+sent_372_pt:
+  text: Vocês consertam …?
+  language: pt_BR
+  author: one
+sent_372_en:
+  text: Can I have my … repaired?
+  language: en_US
+  author: one
+  origin: sent_372_pt
+sent_373_pt:
+  text: Tem defeito.
+  language: pt_BR
+  author: one
+sent_373_en:
+  text: It’s defective.
+  language: en_US
+  author: one
+  origin: sent_373_pt
+sent_374_pt:
+  text: Queria um saco, por favor.
+  language: pt_BR
+  author: one
+sent_374_en:
+  text: I’d like a bag, please.
+  language: en_US
+  author: one
+  origin: sent_374_pt
+sent_375_pt:
+  text: Queria ser reembolsado, por favor.
+  language: pt_BR
+  author: one
+sent_375_en:
+  text: I’d like a refund, please. (m)
+  language: en_US
+  author: one
+  origin: sent_375_pt
+sent_376_pt:
+  text: Queria ser reembolsada, por favor.
+  language: pt_BR
+  author: one
+sent_376_en:
+  text: I’d like a refund, please. (f)
+  language: en_US
+  author: one
+  origin: sent_376_pt
+sent_377_pt:
+  text: Queria devolver isto, por favor.
+  language: pt_BR
+  author: one
+sent_377_en:
+  text: I’d like to return this, please.
+  language: en_US
+  author: one
+  origin: sent_377_pt
+sent_379_pt:
+  text: Pode escrever o preço?
+  language: pt_BR
+  author: one
+sent_379_en:
+  text: Can you write down the price?
+  language: en_US
+  author: one
+  origin: sent_379_pt
+sent_380_pt:
+  text: Está muito caro.
+  language: pt_BR
+  author: one
+sent_380_en:
+  text: That’s too expensive.
+  language: en_US
+  author: one
+  origin: sent_380_pt
+sent_381_pt:
+  text: Qual é o seu último preço?
+  language: pt_BR
+  author: one
+sent_381_en:
+  text: What’s your lowest price?
+  language: en_US
+  author: one
+  origin: sent_381_pt
+sent_382_pt:
+  text: Dou-lhe cinco euros.
+  language: pt_BR
+  author: one
+sent_382_en:
+  text: I’ll give you five euros.
+  language: en_US
+  author: one
+  origin: sent_382_pt
+sent_383_pt:
+  text: Há um erro na conta.
+  language: pt_BR
+  author: one
+sent_383_en:
+  text: There’s a mistake in the bill.
+  language: en_US
+  author: one
+  origin: sent_383_pt
+sent_384_pt:
+  text: Aceitam cartão de crédito?
+  language: pt_BR
+  author: one
+sent_384_en:
+  text: Do you accept credit cards?
+  language: en_US
+  author: one
+  origin: sent_384_pt
+sent_385_pt:
+  text: Aceitam multibanco?
+  language: pt_BR
+  author: one
+sent_385_en:
+  text: Do you accept debit cards?
+  language: en_US
+  author: one
+  origin: sent_385_pt
+sent_386_pt:
+  text: Aceitam travellers cheques?
+  language: pt_BR
+  author: one
+sent_386_en:
+  text: Do you accept travellers cheques?
+  language: en_US
+  author: one
+  origin: sent_386_pt
+sent_387_pt:
+  text: Queria o recibo, por favor.
+  language: pt_BR
+  author: one
+sent_387_en:
+  text: I’d like a receipt, please.
+  language: en_US
+  author: one
+  origin: sent_387_pt
+sent_388_pt:
+  text: Queria o troco, por favor.
+  language: pt_BR
+  author: one
+sent_388_en:
+  text: I’d like my change, please.
+  language: en_US
+  author: one
+  origin: sent_388_pt
+sent_389_pt:
+  text: Posso experimentar?
+  language: pt_BR
+  author: one
+sent_389_en:
+  text: Can I try it on?
+  language: en_US
+  author: one
+  origin: sent_389_pt
+sent_390_pt:
+  text: O meu número é o quarenta.
+  language: pt_BR
+  author: one
+sent_390_en:
+  text: My size is 40.
+  language: en_US
+  author: one
+  origin: sent_390_pt
+sent_391_pt:
+  text: Não serve.
+  language: pt_BR
+  author: one
+sent_391_en:
+  text: It doesn’t fit.
+  language: en_US
+  author: one
+  origin: sent_391_pt
+sent_392_pt:
+  text: pequeno
+  language: pt_BR
+  author: one
+sent_392_en:
+  text: small (m)
+  language: en_US
+  author: one
+  origin: sent_392_pt
+sent_393_pt:
+  text: pequena
+  language: pt_BR
+  author: one
+sent_393_en:
+  text: small (f)
+  language: en_US
+  author: one
+  origin: sent_393_pt
+sent_394_pt:
+  text: meio
+  language: pt_BR
+  author: one
+sent_394_en:
+  text: half; medium (m)
+  language: en_US
+  author: one
+  origin: sent_394_pt
+sent_395_pt:
+  text: meia
+  language: pt_BR
+  author: one
+sent_395_en:
+  text: half; medium (f)
+  language: en_US
+  author: one
+  origin: sent_395_pt
+sent_396_pt:
+  text: grande
+  language: pt_BR
+  author: one
+sent_396_en:
+  text: large
+  language: en_US
+  author: one
+  origin: sent_396_pt
+sent_397_pt:
+  text: Queria comprar um jornal em inglês.
+  language: pt_BR
+  author: one
+sent_397_en:
+  text: I’d like to buy a newspaper in English.
+  language: en_US
+  author: one
+  origin: sent_397_pt
+sent_398_pt:
+  text: Queria comprar uma caneta.
+  language: pt_BR
+  author: one
+sent_398_en:
+  text: I’d like to buy a pen.
+  language: en_US
+  author: one
+  origin: sent_398_pt
+sent_399_pt:
+  text: Há uma livraria de língua inglesa?
+  language: pt_BR
+  author: one
+sent_399_en:
+  text: Is there an English-language bookshop?
+  language: en_US
+  author: one
+  origin: sent_399_pt
+sent_400_pt:
+  text: Estou à procura de qualquer coisa do Fernando Pessoa.
+  language: pt_BR
+  author: one
+sent_400_en:
+  text: I’m looking for something by Fernando Pessoa.
+  language: en_US
+  author: one
+  origin: sent_400_pt
+sent_401_pt:
+  text: Posso ouvir?
+  language: pt_BR
+  author: one
+sent_401_en:
+  text: Can I listen to this?
+  language: en_US
+  author: one
+  origin: sent_401_pt
+sent_402_pt:
+  text: Preciso de filme sistema APS para esta máquina.
+  language: pt_BR
+  author: one
+sent_402_en:
+  text: I need an APS film for this camera.
+  language: en_US
+  author: one
+  origin: sent_402_pt
+sent_403_pt:
+  text: Preciso de filme a preto e branco para esta máquina.
+  language: pt_BR
+  author: one
+sent_403_en:
+  text: I need a B&W film for this camera.
+  language: en_US
+  author: one
+  origin: sent_403_pt
+sent_404_pt:
+  text: Preciso de filme a cores para esta máquina.
+  language: pt_BR
+  author: one
+sent_404_en:
+  text: I need a colour film for this camera.
+  language: en_US
+  author: one
+  origin: sent_404_pt
+sent_405_pt:
+  text: Preciso de filme de diapositivos para esta máquina.
+  language: pt_BR
+  author: one
+sent_405_en:
+  text: I need a slide film for this camera.
+  language: en_US
+  author: one
+  origin: sent_405_pt
+sent_406_pt:
+  text: Preciso de filme de duzentos ASA para esta máquina.
+  language: pt_BR
+  author: one
+sent_406_en:
+  text: I need a 200 ASA film for this camera.
+  language: en_US
+  author: one
+  origin: sent_406_pt
+sent_407_pt:
+  text: Quando fica pronto?
+  language: pt_BR
+  author: one
+sent_407_en:
+  text: When will it be ready?
+  language: en_US
+  author: one
+  origin: sent_407_pt
+sent_408_pt:
+  text: Pode revelar este filme?
+  language: pt_BR
+  author: one
+sent_408_en:
+  text: Can you develop this film?
+  language: en_US
+  author: one
+  origin: sent_408_pt
+sent_409_pt:
+  text: Pode carregar o filme?
+  language: pt_BR
+  author: one
+sent_409_en:
+  text: Can you load the film?
+  language: en_US
+  author: one
+  origin: sent_409_pt
+sent_410_pt:
+  text: Pode transferir as fotografias da minha máquina?
+  language: pt_BR
+  author: one
+sent_410_en:
+  text: Can you transfer photos from my camera?
+  language: en_US
+  author: one
+  origin: sent_410_pt
+sent_411_pt:
+  text: Pode transferir as fotografias para um CD?
+  language: pt_BR
+  author: one
+sent_411_en:
+  text: Can you transfer photos to CD?
+  language: en_US
+  author: one
+  origin: sent_411_pt
+sent_412_pt:
+  text: Olá.
+  language: pt_BR
+  author: one
+sent_412_en:
+  text: Hello
+  language: en_US
+  author: one
+  origin: sent_412_pt
+sent_413_pt:
+  text: Boa noite.
+  language: pt_BR
+  author: one
+sent_413_en:
+  text: Good night.
+  language: en_US
+  author: one
+  origin: sent_413_pt
+sent_414_pt:
+  text: Adeus.
+  language: pt_BR
+  author: one
+sent_414_en:
+  text: Goodbye.
+  language: en_US
+  author: one
+  origin: sent_414_pt
+sent_415_pt:
+  text: Até logo.
+  language: pt_BR
+  author: one
+sent_415_en:
+  text: See you later.
+  language: en_US
+  author: one
+  origin: sent_415_pt
+sent_416_pt:
+  text: Senhor
+  language: pt_BR
+  author: one
+sent_416_en:
+  text: Mr
+  language: en_US
+  author: one
+  origin: sent_416_pt
+sent_417_pt:
+  text: Senhora
+  language: pt_BR
+  author: one
+sent_417_en:
+  text: Mrs
+  language: en_US
+  author: one
+  origin: sent_417_pt
+sent_418_pt:
+  text: Senhorita
+  language: pt_BR
+  author: one
+sent_418_en:
+  text: Ms
+  language: en_US
+  author: one
+  origin: sent_418_pt
+sent_419_pt:
+  text: Como está?
+  language: pt_BR
+  author: one
+sent_419_en:
+  text: How are you?
+  language: en_US
+  author: one
+  origin: sent_419_pt
+sent_420_pt:
+  text: Bem. E você?
+  language: pt_BR
+  author: one
+sent_420_en:
+  text: Fine. And you?
+  language: en_US
+  author: one
+  origin: sent_420_pt
+sent_421_pt:
+  text: Qual é o seu nome?
+  language: pt_BR
+  author: one
+sent_421_en:
+  text: What’s your name?
+  language: en_US
+  author: one
+  origin: sent_421_pt
+sent_422_pt:
+  text: Prazer em conhecê-lo.
+  language: pt_BR
+  author: one
+sent_422_en:
+  text: I’m pleased to meet you. (m)
+  language: en_US
+  author: one
+  origin: sent_422_pt
+sent_423_pt:
+  text: Prazer em conhecê-la.
+  language: pt_BR
+  author: one
+sent_423_en:
+  text: I’m pleased to meet you. (f)
+  language: en_US
+  author: one
+  origin: sent_423_pt
+sent_424_pt:
+  text: Este é o meu irmão.
+  language: pt_BR
+  author: one
+sent_424_en:
+  text: This is my brother.
+  language: en_US
+  author: one
+  origin: sent_424_pt
+sent_425_pt:
+  text: Esta é a minha filha.
+  language: pt_BR
+  author: one
+sent_425_en:
+  text: This is my daughter.
+  language: en_US
+  author: one
+  origin: sent_425_pt
+sent_426_pt:
+  text: Este é o meu pai.
+  language: pt_BR
+  author: one
+sent_426_en:
+  text: This is my father.
+  language: en_US
+  author: one
+  origin: sent_426_pt
+sent_427_pt:
+  text: Este é o meu amigo.
+  language: pt_BR
+  author: one
+sent_427_en:
+  text: This is my friend. (m)
+  language: en_US
+  author: one
+  origin: sent_427_pt
+sent_428_pt:
+  text: Esta é a minha amiga.
+  language: pt_BR
+  author: one
+sent_428_en:
+  text: This is my friend. (f)
+  language: en_US
+  author: one
+  origin: sent_428_pt
+sent_429_pt:
+  text: Este é o meu marido.
+  language: pt_BR
+  author: one
+sent_429_en:
+  text: This is my husband.
+  language: en_US
+  author: one
+  origin: sent_429_pt
+sent_430_pt:
+  text: Esta é a minha mãe.
+  language: pt_BR
+  author: one
+sent_430_en:
+  text: This is my mother.
+  language: en_US
+  author: one
+  origin: sent_430_pt
+sent_431_pt:
+  text: Este é o meu companheiro.
+  language: pt_BR
+  author: one
+sent_431_en:
+  text: This is my partner (intimate). (m)
+  language: en_US
+  author: one
+  origin: sent_431_pt
+sent_432_pt:
+  text: Esta é a minha companheira.
+  language: pt_BR
+  author: one
+sent_432_en:
+  text: This is my partner (intimate). (f)
+  language: en_US
+  author: one
+  origin: sent_432_pt
+sent_433_pt:
+  text: Esta é a minha irmã.
+  language: pt_BR
+  author: one
+sent_433_en:
+  text: This is my sister.
+  language: en_US
+  author: one
+  origin: sent_433_pt
+sent_434_pt:
+  text: Este é o meu filho.
+  language: pt_BR
+  author: one
+sent_434_en:
+  text: This is my son.
+  language: en_US
+  author: one
+  origin: sent_434_pt
+sent_435_pt:
+  text: Esta é a minha esposa.
+  language: pt_BR
+  author: one
+sent_435_en:
+  text: This is my spouse. (f)
+  language: en_US
+  author: one
+  origin: sent_435_pt
+sent_436_pt:
+  text: Este é o meu esposo.
+  language: pt_BR
+  author: one
+sent_436_en:
+  text: This is my spouse. (m)
+  language: en_US
+  author: one
+  origin: sent_436_pt
+sent_437_pt:
+  text: Aqui está o meu …
+  language: pt_BR
+  author: one
+sent_437_en:
+  text: Here’s my …
+  language: en_US
+  author: one
+  origin: sent_437_pt
+sent_438_pt:
+  text: Qual é o seu endereço?
+  language: pt_BR
+  author: one
+sent_438_en:
+  text: What’s your address?
+  language: en_US
+  author: one
+  origin: sent_438_pt
+sent_439_pt:
+  text: Qual é o seu email?
+  language: pt_BR
+  author: one
+sent_439_en:
+  text: What’s your email address?
+  language: en_US
+  author: one
+  origin: sent_439_pt
+sent_440_pt:
+  text: Qual é o seu número de fax?
+  language: pt_BR
+  author: one
+sent_440_en:
+  text: What’s your fax number?
+  language: en_US
+  author: one
+  origin: sent_440_pt
+sent_441_pt:
+  text: Qual é a sua profissão?
+  language: pt_BR
+  author: one
+sent_441_en:
+  text: What’s your occupation?
+  language: en_US
+  author: one
+  origin: sent_441_pt
+sent_442_pt:
+  text: Sou artista.
+  language: pt_BR
+  author: one
+sent_442_en:
+  text: I'm an artist.
+  language: en_US
+  author: one
+  origin: sent_442_pt
+sent_443_pt:
+  text: Sou homem de negócios.
+  language: pt_BR
+  author: one
+sent_443_en:
+  text: I’m a business person. (m)
+  language: en_US
+  author: one
+  origin: sent_443_pt
+sent_444_pt:
+  text: Sou mulher de negócios.
+  language: pt_BR
+  author: one
+sent_444_en:
+  text: I’m a business person. (f)
+  language: en_US
+  author: one
+  origin: sent_444_pt
+sent_445_pt:
+  text: Sou agricultor.
+  language: pt_BR
+  author: one
+sent_445_en:
+  text: I’m a farmer.
+  language: en_US
+  author: one
+  origin: sent_445_pt
+sent_446_pt:
+  text: Sou trabalhador manual.
+  language: pt_BR
+  author: one
+sent_446_en:
+  text: I’m a manual worker. (m)
+  language: en_US
+  author: one
+  origin: sent_446_pt
+sent_447_pt:
+  text: Sou trabalhadora manual.
+  language: pt_BR
+  author: one
+sent_447_en:
+  text: I’m a manual worker. (f)
+  language: en_US
+  author: one
+  origin: sent_447_pt
+sent_448_pt:
+  text: Sou empregado de escritório.
+  language: pt_BR
+  author: one
+sent_448_en:
+  text: I'm an office worker. (m)
+  language: en_US
+  author: one
+  origin: sent_448_pt
+sent_449_pt:
+  text: Sou empregada de escritório.
+  language: pt_BR
+  author: one
+sent_449_en:
+  text: I'm an office worker. (f)
+  language: en_US
+  author: one
+  origin: sent_449_pt
+sent_450_pt:
+  text: Sou cientista.
+  language: pt_BR
+  author: one
+sent_450_en:
+  text: I’m a scientist.
+  language: en_US
+  author: one
+  origin: sent_450_pt
+sent_451_pt:
+  text: Sou estudante.
+  language: pt_BR
+  author: one
+sent_451_en:
+  text: I’m a student.
+  language: en_US
+  author: one
+  origin: sent_451_pt
+sent_452_pt:
+  text: Sou comerciante.
+  language: pt_BR
+  author: one
+sent_452_en:
+  text: I’m a tradesperson.
+  language: en_US
+  author: one
+  origin: sent_452_pt
+sent_453_pt:
+  text: De onde é?
+  language: pt_BR
+  author: one
+sent_453_en:
+  text: Where are you from?
+  language: en_US
+  author: one
+  origin: sent_453_pt
+sent_454_pt:
+  text: Eu sou da Austrália.
+  language: pt_BR
+  author: one
+sent_454_en:
+  text: I’m from Australia.
+  language: en_US
+  author: one
+  origin: sent_454_pt
+sent_455_pt:
+  text: Eu sou do Canadá.
+  language: pt_BR
+  author: one
+sent_455_en:
+  text: I’m from Canada.
+  language: en_US
+  author: one
+  origin: sent_455_pt
+sent_456_pt:
+  text: Eu sou da Inglaterra.
+  language: pt_BR
+  author: one
+sent_456_en:
+  text: I’m from England.
+  language: en_US
+  author: one
+  origin: sent_456_pt
+sent_457_pt:
+  text: Eu sou da Nova Zelândia.
+  language: pt_BR
+  author: one
+sent_457_en:
+  text: I’m from New Zealand.
+  language: en_US
+  author: one
+  origin: sent_457_pt
+sent_458_pt:
+  text: Eu sou dos Estados Unidos.
+  language: pt_BR
+  author: one
+sent_458_en:
+  text: I’m from the USA.
+  language: en_US
+  author: one
+  origin: sent_458_pt
+sent_459_pt:
+  text: É casado?
+  language: pt_BR
+  author: one
+sent_459_en:
+  text: Are you married? (m)
+  language: en_US
+  author: one
+  origin: sent_459_pt
+sent_460_pt:
+  text: É casada?
+  language: pt_BR
+  author: one
+sent_460_en:
+  text: Are you married? (f)
+  language: en_US
+  author: one
+  origin: sent_460_pt
+sent_461_pt:
+  text: Eu sou casado.
+  language: pt_BR
+  author: one
+sent_461_en:
+  text: I’m married. (m)
+  language: en_US
+  author: one
+  origin: sent_461_pt
+sent_462_pt:
+  text: Eu sou casada.
+  language: pt_BR
+  author: one
+sent_462_en:
+  text: I’m married. (f)
+  language: en_US
+  author: one
+  origin: sent_462_pt
+sent_463_pt:
+  text: Eu sou solteiro.
+  language: pt_BR
+  author: one
+sent_463_en:
+  text: I’m single. (m)
+  language: en_US
+  author: one
+  origin: sent_463_pt
+sent_464_pt:
+  text: Eu sou solteira.
+  language: pt_BR
+  author: one
+sent_464_en:
+  text: I’m single. (f)
+  language: en_US
+  author: one
+  origin: sent_464_pt
+sent_465_pt:
+  text: Quantos anos tem?
+  language: pt_BR
+  author: one
+sent_465_en:
+  text: How old are you?
+  language: en_US
+  author: one
+  origin: sent_465_pt
+sent_466_pt:
+  text: Quantos anos tem a sua filha?
+  language: pt_BR
+  author: one
+sent_466_en:
+  text: How old is your daughter?
+  language: en_US
+  author: one
+  origin: sent_466_pt
+sent_467_pt:
+  text: Quantos anos tem o seu filho?
+  language: pt_BR
+  author: one
+sent_467_en:
+  text: How old is your son?
+  language: en_US
+  author: one
+  origin: sent_467_pt
+sent_468_pt:
+  text: Tenho … anos.
+  language: pt_BR
+  author: one
+sent_468_en:
+  text: I’m … years old.
+  language: en_US
+  author: one
+  origin: sent_468_pt
+sent_469_pt:
+  text: Ele tem … anos.
+  language: pt_BR
+  author: one
+sent_469_en:
+  text: He is … years old.
+  language: en_US
+  author: one
+  origin: sent_469_pt
+sent_470_pt:
+  text: Ela tem … anos.
+  language: pt_BR
+  author: one
+sent_470_en:
+  text: She is … years old.
+  language: en_US
+  author: one
+  origin: sent_470_pt
+sent_471_pt:
+  text: Não estou …
+  language: pt_BR
+  author: one
+sent_471_en:
+  text: I’m not …
+  language: en_US
+  author: one
+  origin: sent_471_pt
+sent_472_pt:
+  text: Está com frio?
+  language: pt_BR
+  author: one
+sent_472_en:
+  text: Are you cold?
+  language: en_US
+  author: one
+  origin: sent_472_pt
+sent_473_pt:
+  text: Está feliz?
+  language: pt_BR
+  author: one
+sent_473_en:
+  text: Are you happy?
+  language: en_US
+  author: one
+  origin: sent_473_pt
+sent_474_pt:
+  text: Está com calor?
+  language: pt_BR
+  author: one
+sent_474_en:
+  text: Are you hot?
+  language: en_US
+  author: one
+  origin: sent_474_pt
+sent_475_pt:
+  text: Está com fome?
+  language: pt_BR
+  author: one
+sent_475_en:
+  text: Are you hungry?
+  language: en_US
+  author: one
+  origin: sent_475_pt
+sent_476_pt:
+  text: Está bem?
+  language: pt_BR
+  author: one
+sent_476_en:
+  text: Are you OK?
+  language: en_US
+  author: one
+  origin: sent_476_pt
+sent_477_pt:
+  text: Está triste?
+  language: pt_BR
+  author: one
+sent_477_en:
+  text: Are you sad?
+  language: en_US
+  author: one
+  origin: sent_477_pt
+sent_478_pt:
+  text: Está com sede?
+  language: pt_BR
+  author: one
+sent_478_en:
+  text: Are you thirsty?
+  language: en_US
+  author: one
+  origin: sent_478_pt
+sent_479_pt:
+  text: Está cansado?
+  language: pt_BR
+  author: one
+sent_479_en:
+  text: Are you tired? (m)
+  language: en_US
+  author: one
+  origin: sent_479_pt
+sent_480_pt:
+  text: Está cansada?
+  language: pt_BR
+  author: one
+sent_480_en:
+  text: Are you tired? (f)
+  language: en_US
+  author: one
+  origin: sent_480_pt
+sent_481_pt:
+  text: Onde é que há discotecas?
+  language: pt_BR
+  author: one
+sent_481_en:
+  text: Where can I find clubs?
+  language: en_US
+  author: one
+  origin: sent_481_pt
+sent_482_pt:
+  text: Onde é que há lugares de gays?
+  language: pt_BR
+  author: one
+sent_482_en:
+  text: Where can I find gay venues?
+  language: en_US
+  author: one
+  origin: sent_482_pt
+sent_483_pt:
+  text: Onde é que há lugares de lésbicas?
+  language: pt_BR
+  author: one
+sent_483_en:
+  text: Where can I find lesbian venues?
+  language: en_US
+  author: one
+  origin: sent_483_pt
+sent_484_pt:
+  text: Onde é que há bares?
+  language: pt_BR
+  author: one
+sent_484_en:
+  text: Where can I find pubs?
+  language: en_US
+  author: one
+  origin: sent_484_pt
+sent_485_pt:
+  text: Está-me a apetecer ir a um concerto.
+  language: pt_BR
+  author: one
+sent_485_en:
+  text: I feel like going to a concert.
+  language: en_US
+  author: one
+  origin: sent_485_pt
+sent_486_pt:
+  text: Está-me a apetecer ir a um filme.
+  language: pt_BR
+  author: one
+sent_486_en:
+  text: I feel like going to a movie.
+  language: en_US
+  author: one
+  origin: sent_486_pt
+sent_487_pt:
+  text: Está-me a apetecer ir a uma festa.
+  language: pt_BR
+  author: one
+sent_487_en:
+  text: I feel like going to a party.
+  language: en_US
+  author: one
+  origin: sent_487_pt
+sent_488_pt:
+  text: Está-me a apetecer ir a um restaurante.
+  language: pt_BR
+  author: one
+sent_488_en:
+  text: I feel like going to a restaurant.
+  language: en_US
+  author: one
+  origin: sent_488_pt
+sent_489_pt:
+  text: Está-me a apetecer ir a uma peça de teatro.
+  language: pt_BR
+  author: one
+sent_489_en:
+  text: I feel like going to a theatre.
+  language: en_US
+  author: one
+  origin: sent_489_pt
+sent_490_pt:
+  text: Gosta de arte?
+  language: pt_BR
+  author: one
+sent_490_en:
+  text: Do you like art?
+  language: en_US
+  author: one
+  origin: sent_490_pt
+sent_491_pt:
+  text: Gosta de cozinhar?
+  language: pt_BR
+  author: one
+sent_491_en:
+  text: Do you like cooking?
+  language: en_US
+  author: one
+  origin: sent_491_pt
+sent_492_pt:
+  text: Gosta de ver filmes?
+  language: pt_BR
+  author: one
+sent_492_en:
+  text: Do you like movies?
+  language: en_US
+  author: one
+  origin: sent_492_pt
+sent_493_pt:
+  text: Gosta de ler?
+  language: pt_BR
+  author: one
+sent_493_en:
+  text: Do you like reading?
+  language: en_US
+  author: one
+  origin: sent_493_pt
+sent_494_pt:
+  text: Gosta de fazer desporto?
+  language: pt_BR
+  author: one
+sent_494_en:
+  text: Do you like sport?
+  language: en_US
+  author: one
+  origin: sent_494_pt
+sent_495_pt:
+  text: Gosta de viajar?
+  language: pt_BR
+  author: one
+sent_495_en:
+  text: Do you like travelling?
+  language: en_US
+  author: one
+  origin: sent_495_pt
+sent_496_pt:
+  text: Eu não gosto de arte.
+  language: pt_BR
+  author: one
+sent_496_en:
+  text: I don’t like art.
+  language: en_US
+  author: one
+  origin: sent_496_pt
+sent_497_pt:
+  text: Eu não gosto de cozinhar.
+  language: pt_BR
+  author: one
+sent_497_en:
+  text: I don’t like cooking.
+  language: en_US
+  author: one
+  origin: sent_497_pt
+sent_498_pt:
+  text: Eu não gosto de ver filmes.
+  language: pt_BR
+  author: one
+sent_498_en:
+  text: I don’t like movies.
+  language: en_US
+  author: one
+  origin: sent_498_pt
+sent_499_pt:
+  text: Eu não gosto de ler.
+  language: pt_BR
+  author: one
+sent_499_en:
+  text: I don’t like reading.
+  language: en_US
+  author: one
+  origin: sent_499_pt
+sent_500_pt:
+  text: Eu não gosto de fazer desporto.
+  language: pt_BR
+  author: one
+sent_500_en:
+  text: I don’t like sport.
+  language: en_US
+  author: one
+  origin: sent_500_pt
+sent_501_pt:
+  text: Eu não gosto de viajar.
+  language: pt_BR
+  author: one
+sent_501_en:
+  text: I don’t like travelling.
+  language: en_US
+  author: one
+  origin: sent_501_pt
+sent_502_pt:
+  text: Costuma ir dançar?
+  language: pt_BR
+  author: one
+sent_502_en:
+  text: Do you like to dance?
+  language: en_US
+  author: one
+  origin: sent_502_pt
+sent_503_pt:
+  text: Costuma ir a concertos?
+  language: pt_BR
+  author: one
+sent_503_en:
+  text: Do you like to go to concerts?
+  language: en_US
+  author: one
+  origin: sent_503_pt
+sent_504_pt:
+  text: Costuma ouvir música?
+  language: pt_BR
+  author: one
+sent_504_en:
+  text: Do you like to listen to music?
+  language: en_US
+  author: one
+  origin: sent_504_pt
+sent_505_pt:
+  text: Pode-me recomendar um bar?
+  language: pt_BR
+  author: one
+sent_505_en:
+  text: Can you recommend a bar?
+  language: en_US
+  author: one
+  origin: sent_505_pt
+sent_506_pt:
+  text: Pode-me recomendar um café?
+  language: pt_BR
+  author: one
+sent_506_en:
+  text: Can you recommend a café?
+  language: en_US
+  author: one
+  origin: sent_506_pt
+sent_507_pt:
+  text: Pode-me recomendar um restaurante?
+  language: pt_BR
+  author: one
+sent_507_en:
+  text: Can you recommend a restaurant?
+  language: en_US
+  author: one
+  origin: sent_507_pt
+sent_508_pt:
+  text: Queria uma mesa para cinco, por favor.
+  language: pt_BR
+  author: one
+sent_508_en:
+  text: I’d like a table for five, please.
+  language: en_US
+  author: one
+  origin: sent_508_pt
+sent_509_pt:
+  text: Queria uma mesa de não fumador, por favor.
+  language: pt_BR
+  author: one
+sent_509_en:
+  text: I’d like a table for the non smoking section, please.
+  language: en_US
+  author: one
+  origin: sent_509_pt
+sent_510_pt:
+  text: o pequeno almoço
+  language: pt_BR
+  author: one
+sent_510_en:
+  text: breakfast
+  language: en_US
+  author: one
+  origin: sent_510_pt
+sent_511_pt:
+  text: o almoço
+  language: pt_BR
+  author: one
+sent_511_en:
+  text: lunch
+  language: en_US
+  author: one
+  origin: sent_511_pt
+sent_512_pt:
+  text: o jantar
+  language: pt_BR
+  author: one
+sent_512_en:
+  text: dinner
+  language: en_US
+  author: one
+  origin: sent_512_pt
+sent_513_pt:
+  text: o lanche
+  language: pt_BR
+  author: one
+sent_513_en:
+  text: snack
+  language: en_US
+  author: one
+  origin: sent_513_pt
+sent_514_pt:
+  text: O que é que recomenda?
+  language: pt_BR
+  author: one
+sent_514_en:
+  text: What would you recommend?
+  language: en_US
+  author: one
+  origin: sent_514_pt
+sent_515_pt:
+  text: Queria a conta, por favor.
+  language: pt_BR
+  author: one
+sent_515_en:
+  text: I’d like the bill, please.
+  language: en_US
+  author: one
+  origin: sent_515_pt
+sent_516_pt:
+  text: Queria a lista das bebidas, por favor.
+  language: pt_BR
+  author: one
+sent_516_en:
+  text: I’d like the drink list, please.
+  language: en_US
+  author: one
+  origin: sent_516_pt
+sent_517_pt:
+  text: Queria um menu, por favor.
+  language: pt_BR
+  author: one
+sent_517_en:
+  text: I’d like the menu, please.
+  language: en_US
+  author: one
+  origin: sent_517_pt
+sent_518_pt:
+  text: Queria aquele prato, por favor.
+  language: pt_BR
+  author: one
+sent_518_en:
+  text: I’d like that dish, please.
+  language: en_US
+  author: one
+  origin: sent_518_pt
+sent_519_pt:
+  text: chávena de café …
+  language: pt_BR
+  author: one
+sent_519_en:
+  text: cup of coffee …
+  language: en_US
+  author: one
+  origin: sent_519_pt
+sent_520_pt:
+  text: chávena de chá …
+  language: pt_BR
+  author: one
+sent_520_en:
+  text: cup of tea …
+  language: en_US
+  author: one
+  origin: sent_520_pt
+sent_521_pt:
+  text: chávena de chá com leite
+  language: pt_BR
+  author: one
+sent_521_en:
+  text: cup of tea with milk
+  language: en_US
+  author: one
+  origin: sent_521_pt
+sent_522_pt:
+  text: chávena de chá sem açúcar
+  language: pt_BR
+  author: one
+sent_522_en:
+  text: cup of tea without sugar
+  language: en_US
+  author: one
+  origin: sent_522_pt
+sent_523_pt:
+  text: o sumo de laranja
+  language: pt_BR
+  author: one
+sent_523_en:
+  text: orange juice
+  language: en_US
+  author: one
+  origin: sent_523_pt
+sent_524_pt:
+  text: o refrigerante
+  language: pt_BR
+  author: one
+sent_524_en:
+  text: soft drink
+  language: en_US
+  author: one
+  origin: sent_524_pt
+sent_525_pt:
+  text: água quente
+  language: pt_BR
+  author: one
+sent_525_en:
+  text: hot water
+  language: en_US
+  author: one
+  origin: sent_525_pt
+sent_526_pt:
+  text: água mineral com gás
+  language: pt_BR
+  author: one
+sent_526_en:
+  text: sparkling mineral water
+  language: en_US
+  author: one
+  origin: sent_526_pt
+sent_527_pt:
+  text: Eu queria …
+  language: pt_BR
+  author: one
+sent_527_en:
+  text: I’ll have …
+  language: en_US
+  author: one
+  origin: sent_527_pt
+sent_528_pt:
+  text: Eu pago-lhe uma bebida.
+  language: pt_BR
+  author: one
+sent_528_en:
+  text: I’ll buy you a drink.
+  language: en_US
+  author: one
+  origin: sent_528_pt
+sent_529_pt:
+  text: O que é que quer?
+  language: pt_BR
+  author: one
+sent_529_en:
+  text: What would you like?
+  language: en_US
+  author: one
+  origin: sent_529_pt
+sent_530_pt:
+  text: À nossa!
+  language: pt_BR
+  author: one
+sent_530_en:
+  text: Cheers!
+  language: en_US
+  author: one
+  origin: sent_530_pt
+sent_531_pt:
+  text: um brandy
+  language: pt_BR
+  author: one
+sent_531_en:
+  text: brandy
+  language: en_US
+  author: one
+  origin: sent_531_pt
+sent_532_pt:
+  text: o cocktail
+  language: pt_BR
+  author: one
+sent_532_en:
+  text: cocktail
+  language: en_US
+  author: one
+  origin: sent_532_pt
+sent_533_pt:
+  text: um copinho de uísque
+  language: pt_BR
+  author: one
+sent_533_en:
+  text: a shot of whisky
+  language: en_US
+  author: one
+  origin: sent_533_pt
+sent_534_pt:
+  text: uma garrafa de cerveja
+  language: pt_BR
+  author: one
+sent_534_en:
+  text: a bottle of beer
+  language: en_US
+  author: one
+  origin: sent_534_pt
+sent_535_pt:
+  text: um copo de cerveja
+  language: pt_BR
+  author: one
+sent_535_en:
+  text: a glass of beer
+  language: en_US
+  author: one
+  origin: sent_535_pt
+sent_536_pt:
+  text: uma garrafa de vinho tinto.
+  language: pt_BR
+  author: one
+sent_536_en:
+  text: a bottle of red wine.
+  language: en_US
+  author: one
+  origin: sent_536_pt
+sent_537_pt:
+  text: Uma garrafa de vinho espumante.
+  language: pt_BR
+  author: one
+sent_537_en:
+  text: A bottle of sparkling wine.
+  language: en_US
+  author: one
+  origin: sent_537_pt
+sent_538_pt:
+  text: Uma garrafa de vinho branco.
+  language: pt_BR
+  author: one
+sent_538_en:
+  text: A bottle of white wine.
+  language: en_US
+  author: one
+  origin: sent_538_pt
+sent_539_pt:
+  text: Um copo de vinho tinto.
+  language: pt_BR
+  author: one
+sent_539_en:
+  text: A glass of red wine.
+  language: en_US
+  author: one
+  origin: sent_539_pt
+sent_540_pt:
+  text: Um copo de vinho espumante.
+  language: pt_BR
+  author: one
+sent_540_en:
+  text: A glass of sparkling wine.
+  language: en_US
+  author: one
+  origin: sent_540_pt
+sent_541_pt:
+  text: Um copo de vinho branco.
+  language: pt_BR
+  author: one
+sent_541_en:
+  text: A glass of white wine.
+  language: en_US
+  author: one
+  origin: sent_541_pt
+sent_542_pt:
+  text: Qual é a especialidade local?
+  language: pt_BR
+  author: one
+sent_542_en:
+  text: What’s the local speciality?
+  language: en_US
+  author: one
+  origin: sent_542_pt
+sent_543_pt:
+  text: Quanto é um quilo de queijo?
+  language: pt_BR
+  author: one
+sent_543_en:
+  text: How much is a kilo of cheese?
+  language: en_US
+  author: one
+  origin: sent_543_pt
+sent_544_pt:
+  text: Eu queria duzentos gramas.
+  language: pt_BR
+  author: one
+sent_544_en:
+  text: I’d like 200 grams.
+  language: en_US
+  author: one
+  origin: sent_544_pt
+sent_545_pt:
+  text: Eu queria dois quilos.
+  language: pt_BR
+  author: one
+sent_545_en:
+  text: I’d like two kilos.
+  language: en_US
+  author: one
+  origin: sent_545_pt
+sent_546_pt:
+  text: Eu queria três peças.
+  language: pt_BR
+  author: one
+sent_546_en:
+  text: I’d like three pieces.
+  language: en_US
+  author: one
+  origin: sent_546_pt
+sent_547_pt:
+  text: Eu queria seis fatias.
+  language: pt_BR
+  author: one
+sent_547_en:
+  text: I’d like six slices.
+  language: en_US
+  author: one
+  origin: sent_547_pt
+sent_548_pt:
+  text: Menos.
+  language: pt_BR
+  author: one
+sent_548_en:
+  text: Less.
+  language: en_US
+  author: one
+  origin: sent_548_pt
+sent_549_pt:
+  text: Chega.
+  language: pt_BR
+  author: one
+sent_549_en:
+  text: Enough.
+  language: en_US
+  author: one
+  origin: sent_549_pt
+sent_550_pt:
+  text: Mais.
+  language: pt_BR
+  author: one
+sent_550_en:
+  text: More.
+  language: en_US
+  author: one
+  origin: sent_550_pt
+sent_551_pt:
+  text: Há algum restaurante vegetariano perto daqui?
+  language: pt_BR
+  author: one
+sent_551_en:
+  text: Is there a vegetarian restaurant near here?
+  language: en_US
+  author: one
+  origin: sent_551_pt
+sent_552_pt:
+  text: Tem comida vegetariana?
+  language: pt_BR
+  author: one
+sent_552_en:
+  text: Do you have vegetarian food?
+  language: en_US
+  author: one
+  origin: sent_552_pt
+sent_553_pt:
+  text: Pode preparar sem manteiga?
+  language: pt_BR
+  author: one
+sent_553_en:
+  text: Could you prepare a meal without butter?
+  language: en_US
+  author: one
+  origin: sent_553_pt
+sent_554_pt:
+  text: Pode preparar sem ovos?
+  language: pt_BR
+  author: one
+sent_554_en:
+  text: Could you prepare a meal without eggs?
+  language: en_US
+  author: one
+  origin: sent_554_pt
+sent_555_pt:
+  text: Pode preparar sem caldo de carne?
+  language: pt_BR
+  author: one
+sent_555_en:
+  text: Could you prepare a meal without meat stock?
+  language: en_US
+  author: one
+  origin: sent_555_pt
+sent_556_pt:
+  text: Eu sou alérgico a produtos lácteos.
+  language: pt_BR
+  author: one
+sent_556_en:
+  text: I’m allergic to dairy produce. (m)
+  language: en_US
+  author: one
+  origin: sent_556_pt
+sent_557_pt:
+  text: Eu sou alérgica a produtos lácteos.
+  language: pt_BR
+  author: one
+sent_557_en:
+  text: I’m allergic to dairy produce. (f)
+  language: en_US
+  author: one
+  origin: sent_557_pt
+sent_558_pt:
+  text: Eu sou alérgico a glúten.
+  language: pt_BR
+  author: one
+sent_558_en:
+  text: I’m allergic to gluten. (m)
+  language: en_US
+  author: one
+  origin: sent_558_pt
+sent_559_pt:
+  text: Eu sou alérgica a glúten.
+  language: pt_BR
+  author: one
+sent_559_en:
+  text: I’m allergic to gluten. (f)
+  language: en_US
+  author: one
+  origin: sent_559_pt
+sent_560_pt:
+  text: Eu sou alérgico a MSG.
+  language: pt_BR
+  author: one
+sent_560_en:
+  text: I’m allergic to MSG. (m)
+  language: en_US
+  author: one
+  origin: sent_560_pt
+sent_561_pt:
+  text: Eu sou alérgica a MSG.
+  language: pt_BR
+  author: one
+sent_561_en:
+  text: I’m allergic to MSG. (f)
+  language: en_US
+  author: one
+  origin: sent_561_pt
+sent_562_pt:
+  text: Eu sou alérgico a oleaginosas.
+  language: pt_BR
+  author: one
+sent_562_en:
+  text: I’m allergic to nuts. (m)
+  language: en_US
+  author: one
+  origin: sent_562_pt
+sent_563_pt:
+  text: Eu sou alérgica a oleaginosas.
+  language: pt_BR
+  author: one
+sent_563_en:
+  text: I’m allergic to nuts. (f)
+  language: en_US
+  author: one
+  origin: sent_563_pt
+sent_564_pt:
+  text: Eu sou alérgico a marisco.
+  language: pt_BR
+  author: one
+sent_564_en:
+  text: I’m allergic to seafood. (m)
+  language: en_US
+  author: one
+  origin: sent_564_pt
+sent_565_pt:
+  text: Eu sou alérgica a marisco.
+  language: pt_BR
+  author: one
+sent_565_en:
+  text: I’m allergic to seafood. (f)
+  language: en_US
+  author: one
+  origin: sent_565_pt
+sent_566_pt:
+  text: a açorda
+  language: pt_BR
+  author: one
+sent_566_en:
+  text: bread panada
+  language: en_US
+  author: one
+  origin: sent_566_pt
+sent_567_pt:
+  text: as alheiras
+  language: pt_BR
+  author: one
+sent_567_en:
+  text: bread and garlic sausages
+  language: en_US
+  author: one
+  origin: sent_567_pt
+sent_568_pt:
+  text: o arroz árabe
+  language: pt_BR
+  author: one
+sent_568_en:
+  text:
+  language: en_US
+  author: one
+  origin: sent_568_pt
+sent_569_pt:
+  text: o arroz de bacalhau
+  language: pt_BR
+  author: one
+sent_569_en:
+  text: codfish rice
+  language: en_US
+  author: one
+  origin: sent_569_pt
+sent_570_pt:
+  text: o assado de peixe
+  language: pt_BR
+  author: one
+sent_570_en:
+  text: roast fish
+  language: en_US
+  author: one
+  origin: sent_570_pt
+sent_571_pt:
+  text: o bacalhau no borralho
+  language: pt_BR
+  author: one
+sent_571_en:
+  text: codfish in the embers
+  language: en_US
+  author: one
+  origin: sent_571_pt
+sent_572_pt:
+  text: o bacalhau roupa-velha
+  language: pt_BR
+  author: one
+sent_572_en:
+  text:
+    A Christmas dish (typically), made of leftover salted cod, potatoes and cabbage,
+    fried together with olive oil and garlic
+  language: en_US
+  author: one
+  origin: sent_572_pt
+sent_573_pt:
+  text: a bifana no pão
+  language: pt_BR
+  author: one
+sent_573_en:
+  text: pork fillet sandwich
+  language: en_US
+  author: one
+  origin: sent_573_pt
+sent_575_pt:
+  text: o bolo de mel
+  language: pt_BR
+  author: one
+sent_575_en:
+  text: honey cake
+  language: en_US
+  author: one
+  origin: sent_575_pt
+sent_576_pt:
+  text: os borrachões
+  language: pt_BR
+  author: one
+sent_576_en:
+  text: drunkard biscuits, made with firewater (aguadente).
+  language: en_US
+  author: one
+  origin: sent_576_pt
+sent_577_pt:
+  text: a caldeirada
+  language: pt_BR
+  author: one
+sent_577_en:
+  text: fish stew
+  language: en_US
+  author: one
+  origin: sent_577_pt
+sent_578_pt:
+  text: a chanfana
+  language: pt_BR
+  author: one
+sent_578_en:
+  text: lamb or mutton stew
+  language: en_US
+  author: one
+  origin: sent_578_pt
+sent_579_pt:
+  text: o chouriço
+  language: pt_BR
+  author: one
+sent_579_en:
+  text: smoked pork sausage
+  language: en_US
+  author: one
+  origin: sent_579_pt
+sent_580_pt:
+  text: o coelho à caçador
+  language: pt_BR
+  author: one
+sent_580_en:
+  text: rabbit chasseur
+  language: en_US
+  author: one
+  origin: sent_580_pt
+sent_581_pt:
+  text: o cozido à portuguesa
+  language: pt_BR
+  author: one
+sent_581_en:
+  text: Portuguese stew made of boiled meat with vegetables
+  language: en_US
+  author: one
+  origin: sent_581_pt
+sent_582_pt:
+  text: a dobrada
+  language: pt_BR
+  author: one
+sent_582_en:
+  text: dish made with tripe and beans
+  language: en_US
+  author: one
+  origin: sent_582_pt
+sent_584_pt:
+  text: o escabeche
+  language: pt_BR
+  author: one
+sent_584_en:
+  text: marinade, sauce of spiced vinegar and onion
+  language: en_US
+  author: one
+  origin: sent_584_pt
+sent_585_pt:
+  text: a favada à portuguesa
+  language: pt_BR
+  author: one
+sent_585_en:
+  text: broad bean and meat stew
+  language: en_US
+  author: one
+  origin: sent_585_pt
+sent_586_pt:
+  text: a feijoada
+  language: pt_BR
+  author: one
+sent_586_en:
+  text: dish made of beans and several kinds of meat
+  language: en_US
+  author: one
+  origin: sent_586_pt
+sent_587_pt:
+  text: a francesinha
+  language: pt_BR
+  author: one
+sent_587_en:
+  text:
+    sandwich made with fillet steak, ham and smoked sausage covered with cheese
+    and a spicy sauce
+  language: en_US
+  author: one
+  origin: sent_587_pt
+sent_588_pt:
+  text: o gaspacho
+  language: pt_BR
+  author: one
+sent_588_en:
+  text: gazpacho
+  language: en_US
+  author: one
+  origin: sent_588_pt
+sent_589_pt:
+  text: os jesuítas
+  language: pt_BR
+  author: one
+sent_589_en:
+  text: puff-pastry cake covered with a thick layer of egg whites and sugar
+  language: en_US
+  author: one
+  origin: sent_589_pt
+sent_591_pt:
+  text: as migas
+  language: pt_BR
+  author: one
+sent_591_en:
+  text: dish with bread, vegetables or fish broth
+  language: en_US
+  author: one
+  origin: sent_591_pt
+sent_593_pt:
+  text: os pastéis de feijão
+  language: pt_BR
+  author: one
+sent_593_en:
+  text: bean pastries
+  language: en_US
+  author: one
+  origin: sent_593_pt
+sent_594_pt:
+  text: as pataniscas de bacalhau
+  language: pt_BR
+  author: one
+sent_594_en:
+  text: fried codfish coated in batter
+  language: en_US
+  author: one
+  origin: sent_594_pt
+sent_595_pt:
+  text: o prato de grão
+  language: pt_BR
+  author: one
+sent_595_en:
+  text: chick pea salad
+  language: en_US
+  author: one
+  origin: sent_595_pt
+sent_596_pt:
+  text: a salada de atum
+  language: pt_BR
+  author: one
+sent_596_en:
+  text: tuna salad
+  language: en_US
+  author: one
+  origin: sent_596_pt
+sent_597_pt:
+  text: o salame de chocolate
+  language: pt_BR
+  author: one
+sent_597_en:
+  text: chocolate salame
+  language: en_US
+  author: one
+  origin: sent_597_pt
+sent_598_pt:
+  text: a sopa de pedra
+  language: pt_BR
+  author: one
+sent_598_en:
+  text: hearty meat and vegetable soup
+  language: en_US
+  author: one
+  origin: sent_598_pt
+sent_599_pt:
+  text: o tecolameco
+  language: pt_BR
+  author: one
+sent_599_en:
+  text: type of almond cake from Alentejo
+  language: en_US
+  author: one
+  origin: sent_599_pt
+sent_600_pt:
+  text: as tripas à moda do Porto
+  language: pt_BR
+  author: one
+sent_600_en:
+  text: tripe Oporto style
+  language: en_US
+  author: one
+  origin: sent_600_pt
+sent_601_pt:
+  text: Socorro!
+  language: pt_BR
+  author: one
+sent_601_en:
+  text: Help!
+  language: en_US
+  author: one
+  origin: sent_601_pt
+sent_602_pt:
+  text: Para!
+  language: pt_BR
+  author: one
+sent_602_en:
+  text: Stop!
+  language: en_US
+  author: one
+  origin: sent_602_pt
+sent_603_pt:
+  text: Vá-se embora!
+  language: pt_BR
+  author: one
+sent_603_en:
+  text: Go away!
+  language: en_US
+  author: one
+  origin: sent_603_pt
+sent_604_pt:
+  text: Ladrão!
+  language: pt_BR
+  author: one
+sent_604_en:
+  text: Thief!
+  language: en_US
+  author: one
+  origin: sent_604_pt
+sent_605_pt:
+  text: Fogo!
+  language: pt_BR
+  author: one
+sent_605_en:
+  text: Fire!
+  language: en_US
+  author: one
+  origin: sent_605_pt
+sent_606_pt:
+  text: Cuidado!
+  language: pt_BR
+  author: one
+sent_606_en:
+  text: Watch out!
+  language: en_US
+  author: one
+  origin: sent_606_pt
+sent_607_pt:
+  text: Chame um médico!
+  language: pt_BR
+  author: one
+sent_607_en:
+  text: Call a doctor!
+  language: en_US
+  author: one
+  origin: sent_607_pt
+sent_608_pt:
+  text: Chame uma ambulância!
+  language: pt_BR
+  author: one
+sent_608_en:
+  text: Call an ambulance!
+  language: en_US
+  author: one
+  origin: sent_608_pt
+sent_609_pt:
+  text: Chame a polícia!
+  language: pt_BR
+  author: one
+sent_609_en:
+  text: Call the police!
+  language: en_US
+  author: one
+  origin: sent_609_pt
+sent_610_pt:
+  text: É uma emergência.
+  language: pt_BR
+  author: one
+sent_610_en:
+  text: It’s an emergency.
+  language: en_US
+  author: one
+  origin: sent_610_pt
+sent_611_pt:
+  text: Pode ajudar, por favor?
+  language: pt_BR
+  author: one
+sent_611_en:
+  text: Could you help me, please?
+  language: en_US
+  author: one
+  origin: sent_611_pt
+sent_612_pt:
+  text: Posso usar o seu telefone?
+  language: pt_BR
+  author: one
+sent_612_en:
+  text: Can I use your telephone?
+  language: en_US
+  author: one
+  origin: sent_612_pt
+sent_613_pt:
+  text: Estou perdido.
+  language: pt_BR
+  author: one
+sent_613_en:
+  text: I’m lost. (m)
+  language: en_US
+  author: one
+  origin: sent_613_pt
+sent_614_pt:
+  text: Estou perdida.
+  language: pt_BR
+  author: one
+sent_614_en:
+  text: I’m lost. (f)
+  language: en_US
+  author: one
+  origin: sent_614_pt
+sent_615_pt:
+  text: Onde é a casa de banho?
+  language: pt_BR
+  author: one
+sent_615_en:
+  text: Where are the toilets?
+  language: en_US
+  author: one
+  origin: sent_615_pt
+sent_616_pt:
+  text: Onde é a esquadra da polícia?
+  language: pt_BR
+  author: one
+sent_616_en:
+  text: Where’s the police station?
+  language: en_US
+  author: one
+  origin: sent_616_pt
+sent_617_pt:
+  text: Eu quero denunciar um crime.
+  language: pt_BR
+  author: one
+sent_617_en:
+  text: I want to report an offence.
+  language: en_US
+  author: one
+  origin: sent_617_pt
+sent_618_pt:
+  text: Eu estou coberto pelo seguro.
+  language: pt_BR
+  author: one
+sent_618_en:
+  text: I have insurance. (m)
+  language: en_US
+  author: one
+  origin: sent_618_pt
+sent_619_pt:
+  text: Eu estou coberta pelo seguro.
+  language: pt_BR
+  author: one
+sent_619_en:
+  text: I have insurance. (f)
+  language: en_US
+  author: one
+  origin: sent_619_pt
+sent_620_pt:
+  text: Eu fui agredido.
+  language: pt_BR
+  author: one
+sent_620_en:
+  text: I’ve been assaulted. (m)
+  language: en_US
+  author: one
+  origin: sent_620_pt
+sent_621_pt:
+  text: Eu fui agredida.
+  language: pt_BR
+  author: one
+sent_621_en:
+  text: I’ve been assaulted. (f)
+  language: en_US
+  author: one
+  origin: sent_621_pt
+sent_622_pt:
+  text: Eu fui violado.
+  language: pt_BR
+  author: one
+sent_622_en:
+  text: I’ve been raped. (m)
+  language: en_US
+  author: one
+  origin: sent_622_pt
+sent_623_pt:
+  text: Eu fui violada.
+  language: pt_BR
+  author: one
+sent_623_en:
+  text: I’ve been raped. (f)
+  language: en_US
+  author: one
+  origin: sent_623_pt
+sent_624_pt:
+  text: Eu fui roubado.
+  language: pt_BR
+  author: one
+sent_624_en:
+  text: I’ve been robbed. (m)
+  language: en_US
+  author: one
+  origin: sent_624_pt
+sent_625_pt:
+  text: Eu fui roubada.
+  language: pt_BR
+  author: one
+sent_625_en:
+  text: I’ve been robbed. (f)
+  language: en_US
+  author: one
+  origin: sent_625_pt
+sent_626_pt:
+  text: Eu perdi a minha mochila.
+  language: pt_BR
+  author: one
+sent_626_en:
+  text: I’ve lost my backpack.
+  language: en_US
+  author: one
+  origin: sent_626_pt
+sent_627_pt:
+  text: Eu perdi os meus sacos.
+  language: pt_BR
+  author: one
+sent_627_en:
+  text: I’ve lost my bags.
+  language: en_US
+  author: one
+  origin: sent_627_pt
+sent_628_pt:
+  text: Eu perdi o meu cartão de crédito.
+  language: pt_BR
+  author: one
+sent_628_en:
+  text: I’ve lost my credit card.
+  language: en_US
+  author: one
+  origin: sent_628_pt
+sent_629_pt:
+  text: Eu perdi a minha bolsa.
+  language: pt_BR
+  author: one
+sent_629_en:
+  text: I’ve lost my handbag.
+  language: en_US
+  author: one
+  origin: sent_629_pt
+sent_630_pt:
+  text: Eu perdi as minhas joias.
+  language: pt_BR
+  author: one
+sent_630_en:
+  text: I’ve lost my jewellery.
+  language: en_US
+  author: one
+  origin: sent_630_pt
+sent_631_pt:
+  text: Eu perdi o meu dinheiro.
+  language: pt_BR
+  author: one
+sent_631_en:
+  text: I’ve lost my money.
+  language: en_US
+  author: one
+  origin: sent_631_pt
+sent_632_pt:
+  text: Eu perdi o meu passaporte.
+  language: pt_BR
+  author: one
+sent_632_en:
+  text: I’ve lost my passport.
+  language: en_US
+  author: one
+  origin: sent_632_pt
+sent_633_pt:
+  text: Eu perdi os meus travellers cheques.
+  language: pt_BR
+  author: one
+sent_633_en:
+  text: I’ve lost my travellers cheques.
+  language: en_US
+  author: one
+  origin: sent_633_pt
+sent_634_pt:
+  text: Eu perdi a minha carteira.
+  language: pt_BR
+  author: one
+sent_634_en:
+  text: I’ve lost my wallet.
+  language: en_US
+  author: one
+  origin: sent_634_pt
+sent_635_pt:
+  text: Roubaram a minha mochila.
+  language: pt_BR
+  author: one
+sent_635_en:
+  text: My backpack was stolen.
+  language: en_US
+  author: one
+  origin: sent_635_pt
+sent_636_pt:
+  text: Roubaram os meus sacos.
+  language: pt_BR
+  author: one
+sent_636_en:
+  text: My bags were stolen.
+  language: en_US
+  author: one
+  origin: sent_636_pt
+sent_637_pt:
+  text: Roubaram o meu cartão de crédito.
+  language: pt_BR
+  author: one
+sent_637_en:
+  text: My credit card was stolen.
+  language: en_US
+  author: one
+  origin: sent_637_pt
+sent_638_pt:
+  text: Roubaram a minha bolsa.
+  language: pt_BR
+  author: one
+sent_638_en:
+  text: My handbag was stolen.
+  language: en_US
+  author: one
+  origin: sent_638_pt
+sent_639_pt:
+  text: Roubaram as minhas joias.
+  language: pt_BR
+  author: one
+sent_639_en:
+  text: My jewellery was stolen.
+  language: en_US
+  author: one
+  origin: sent_639_pt
+sent_640_pt:
+  text: Roubaram o meu dinheiro.
+  language: pt_BR
+  author: one
+sent_640_en:
+  text: My money was stolen.
+  language: en_US
+  author: one
+  origin: sent_640_pt
+sent_641_pt:
+  text: Roubaram o meu passaporte.
+  language: pt_BR
+  author: one
+sent_641_en:
+  text: My passport was stolen.
+  language: en_US
+  author: one
+  origin: sent_641_pt
+sent_642_pt:
+  text: Roubaram os meus travellers cheques.
+  language: pt_BR
+  author: one
+sent_642_en:
+  text: My travellers cheques were stolen.
+  language: en_US
+  author: one
+  origin: sent_642_pt
+sent_643_pt:
+  text: Roubaram a minha carteira.
+  language: pt_BR
+  author: one
+sent_643_en:
+  text: My wallet was stolen.
+  language: en_US
+  author: one
+  origin: sent_643_pt
+sent_644_pt:
+  text: Eu quero contactar com o meu consulado.
+  language: pt_BR
+  author: one
+sent_644_en:
+  text: I want to contact my consulate.
+  language: en_US
+  author: one
+  origin: sent_644_pt
+sent_645_pt:
+  text: Eu quero contactar com a minha embaixada.
+  language: pt_BR
+  author: one
+sent_645_en:
+  text: I want to contact my embassy.
+  language: en_US
+  author: one
+  origin: sent_645_pt
+sent_646_pt:
+  text: Qual é o dentista mais perto?
+  language: pt_BR
+  author: one
+sent_646_en:
+  text: Where’s the nearest dentist?
+  language: en_US
+  author: one
+  origin: sent_646_pt
+sent_647_pt:
+  text: Qual é o médico mais perto?
+  language: pt_BR
+  author: one
+sent_647_en:
+  text: Where’s the nearest doctor? (m)
+  language: en_US
+  author: one
+  origin: sent_647_pt
+sent_648_pt:
+  text: Qual é a médica mais perto?
+  language: pt_BR
+  author: one
+sent_648_en:
+  text: Where’s the nearest doctor? (f)
+  language: en_US
+  author: one
+  origin: sent_648_pt
+sent_649_pt:
+  text: Qual é o hospital mais perto?
+  language: pt_BR
+  author: one
+sent_649_en:
+  text: Where’s the nearest hospital?
+  language: en_US
+  author: one
+  origin: sent_649_pt
+sent_650_pt:
+  text: Qual é a farmácia de serviço mais perto?
+  language: pt_BR
+  author: one
+sent_650_en:
+  text: Where’s the nearest night pharmacist?
+  language: en_US
+  author: one
+  origin: sent_650_pt
+sent_651_pt:
+  text: Eu preciso de um médico que fale inglês.
+  language: pt_BR
+  author: one
+sent_651_en:
+  text: I need a doctor who speaks English.
+  language: en_US
+  author: one
+  origin: sent_651_pt
+sent_652_pt:
+  text: Posso ser vista por uma médica?
+  language: pt_BR
+  author: one
+sent_652_en:
+  text: Could I see a female doctor?
+  language: en_US
+  author: one
+  origin: sent_652_pt
+sent_653_pt:
+  text: Os meus medicamentos acabaram.
+  language: pt_BR
+  author: one
+sent_653_en:
+  text: I’ve run out of my medication.
+  language: en_US
+  author: one
+  origin: sent_653_pt
+sent_654_pt:
+  text: Estou doente.
+  language: pt_BR
+  author: one
+sent_654_en:
+  text: I’m sick.
+  language: en_US
+  author: one
+  origin: sent_654_pt
+sent_655_pt:
+  text: Dói-me aqui.
+  language: pt_BR
+  author: one
+sent_655_en:
+  text: It hurts here.
+  language: en_US
+  author: one
+  origin: sent_655_pt
+sent_656_pt:
+  text: Eu tenho asma.
+  language: pt_BR
+  author: one
+sent_656_en:
+  text: I have asthma.
+  language: en_US
+  author: one
+  origin: sent_656_pt
+sent_657_pt:
+  text: Eu tenho bronquite.
+  language: pt_BR
+  author: one
+sent_657_en:
+  text: I have bronchitis.
+  language: en_US
+  author: one
+  origin: sent_657_pt
+sent_658_pt:
+  text: Eu tenho prisão de ventre.
+  language: pt_BR
+  author: one
+sent_658_en:
+  text: I have constipation.
+  language: en_US
+  author: one
+  origin: sent_658_pt
+sent_659_pt:
+  text: Eu tenho tosse.
+  language: pt_BR
+  author: one
+sent_659_en:
+  text: I have a cough.
+  language: en_US
+  author: one
+  origin: sent_659_pt
+sent_660_pt:
+  text: Eu tenho diarreia.
+  language: pt_BR
+  author: one
+sent_660_en:
+  text: I have diarrhoea.
+  language: en_US
+  author: one
+  origin: sent_660_pt
+sent_661_pt:
+  text: Eu tenho febre.
+  language: pt_BR
+  author: one
+sent_661_en:
+  text: I have a fever.
+  language: en_US
+  author: one
+  origin: sent_661_pt
+sent_662_pt:
+  text: Eu tenho dor de cabeça.
+  language: pt_BR
+  author: one
+sent_662_en:
+  text: I have a headache.
+  language: en_US
+  author: one
+  origin: sent_662_pt
+sent_663_pt:
+  text: Eu tenho problemas cardíacos.
+  language: pt_BR
+  author: one
+sent_663_en:
+  text: I have a heart condition.
+  language: en_US
+  author: one
+  origin: sent_663_pt
+sent_664_pt:
+  text: Eu tenho náusea.
+  language: pt_BR
+  author: one
+sent_664_en:
+  text: I have nausea.
+  language: en_US
+  author: one
+  origin: sent_664_pt
+sent_665_pt:
+  text: Eu tenho dor.
+  language: pt_BR
+  author: one
+sent_665_en:
+  text: I have pain.
+  language: en_US
+  author: one
+  origin: sent_665_pt
+sent_666_pt:
+  text: Eu tenho dores de garganta.
+  language: pt_BR
+  author: one
+sent_666_en:
+  text: I have a sore throat.
+  language: en_US
+  author: one
+  origin: sent_666_pt
+sent_667_pt:
+  text: Eu tenho uma dor de dentes.
+  language: pt_BR
+  author: one
+sent_667_en:
+  text: I have toothache.
+  language: en_US
+  author: one
+  origin: sent_667_pt
+sent_668_pt:
+  text: Eu sou alérgico a antibióticos.
+  language: pt_BR
+  author: one
+sent_668_en:
+  text: I’m allergic to antibiotics. (m)
+  language: en_US
+  author: one
+  origin: sent_668_pt
+sent_669_pt:
+  text: Eu sou alérgica a antibióticos.
+  language: pt_BR
+  author: one
+sent_669_en:
+  text: I’m allergic to antibiotics. (f)
+  language: en_US
+  author: one
+  origin: sent_669_pt
+sent_670_pt:
+  text: Eu sou alérgico a anti-inflamatórios.
+  language: pt_BR
+  author: one
+sent_670_en:
+  text: I’m allergic to anti-inflammatories. (m)
+  language: en_US
+  author: one
+  origin: sent_670_pt
+sent_671_pt:
+  text: Eu sou alérgica a anti-inflamatórios.
+  language: pt_BR
+  author: one
+sent_671_en:
+  text: I’m allergic to anti-inflammatories. (f)
+  language: en_US
+  author: one
+  origin: sent_671_pt
+sent_672_pt:
+  text: Eu sou alérgico a aspirina.
+  language: pt_BR
+  author: one
+sent_672_en:
+  text: I’m allergic to aspirin. (m)
+  language: en_US
+  author: one
+  origin: sent_672_pt
+sent_673_pt:
+  text: Eu sou alérgica a aspirina.
+  language: pt_BR
+  author: one
+sent_673_en:
+  text: I’m allergic to aspirin. (f)
+  language: en_US
+  author: one
+  origin: sent_673_pt
+sent_674_pt:
+  text: Eu sou alérgico a abelhas.
+  language: pt_BR
+  author: one
+sent_674_en:
+  text: I’m allergic to bees. (m)
+  language: en_US
+  author: one
+  origin: sent_674_pt
+sent_675_pt:
+  text: Eu sou alérgica a abelhas.
+  language: pt_BR
+  author: one
+sent_675_en:
+  text: I’m allergic to bees. (f)
+  language: en_US
+  author: one
+  origin: sent_675_pt
+sent_676_pt:
+  text: Eu sou alérgico a codeína.
+  language: pt_BR
+  author: one
+sent_676_en:
+  text: I’m allergic to codeine. (m)
+  language: en_US
+  author: one
+  origin: sent_676_pt
+sent_677_pt:
+  text: Eu sou alérgica a codeína.
+  language: pt_BR
+  author: one
+sent_677_en:
+  text: I’m allergic to codeine. (f)
+  language: en_US
+  author: one
+  origin: sent_677_pt
+sent_678_pt:
+  text: Eu sou alérgico a penicilina.
+  language: pt_BR
+  author: one
+sent_678_en:
+  text: I’m allergic to penicillin. (m)
+  language: en_US
+  author: one
+  origin: sent_678_pt
+sent_679_pt:
+  text: Eu sou alérgica a penicilina.
+  language: pt_BR
+  author: one
+sent_679_en:
+  text: I’m allergic to penicillin. (f)
+  language: en_US
+  author: one
+  origin: sent_679_pt
+sent_680_pt:
+  text: o antiséptico
+  language: pt_BR
+  author: one
+sent_680_en:
+  text: antiseptic
+  language: en_US
+  author: one
+  origin: sent_680_pt
+sent_681_pt:
+  text: a ligadura
+  language: pt_BR
+  author: one
+sent_681_en:
+  text: bandage
+  language: en_US
+  author: one
+  origin: sent_681_pt
+sent_682_pt:
+  text: os preservativos
+  language: pt_BR
+  author: one
+sent_682_en:
+  text: condoms
+  language: en_US
+  author: one
+  origin: sent_682_pt
+sent_683_pt:
+  text: os contraceptivos
+  language: pt_BR
+  author: one
+sent_683_en:
+  text: contraceptives
+  language: en_US
+  author: one
+  origin: sent_683_pt
+sent_684_pt:
+  text: o remédio para diarreia
+  language: pt_BR
+  author: one
+sent_684_en:
+  text: diarrhoea medicine
+  language: en_US
+  author: one
+  origin: sent_684_pt
+sent_685_pt:
+  text: o repelente
+  language: pt_BR
+  author: one
+sent_685_en:
+  text: insect repellent
+  language: en_US
+  author: one
+  origin: sent_685_pt
+sent_686_pt:
+  text: os laxantes
+  language: pt_BR
+  author: one
+sent_686_en:
+  text: laxatives
+  language: en_US
+  author: one
+  origin: sent_686_pt
+sent_687_pt:
+  text: os comprimidos para as dores
+  language: pt_BR
+  author: one
+sent_687_en:
+  text: painkillers
+  language: en_US
+  author: one
+  origin: sent_687_pt
+sent_688_pt:
+  text: os sais rehidratantes
+  language: pt_BR
+  author: one
+sent_688_en:
+  text: rehydration salts
+  language: en_US
+  author: one
+  origin: sent_688_pt
+sent_689_pt:
+  text: as pílulas para dormir
+  language: pt_BR
+  author: one
+sent_689_en:
+  text: sleeping tablets
+  language: en_US
+  author: one
+  origin: sent_689_pt
+sent_690_pt:
+  text: o acidente
+  language: pt_BR
+  author: one
+sent_690_en:
+  text: accident
+  language: en_US
+  author: one
+  origin: sent_690_pt
+sent_691_pt:
+  text: a hospedagem
+  language: pt_BR
+  author: one
+sent_691_en:
+  text: accommodation
+  language: en_US
+  author: one
+  origin: sent_691_pt
+sent_692_pt:
+  text: o adaptador
+  language: pt_BR
+  author: one
+sent_692_en:
+  text: adaptor
+  language: en_US
+  author: one
+  origin: sent_692_pt
+sent_693_pt:
+  text: o endereço
+  language: pt_BR
+  author: one
+sent_693_en:
+  text: address
+  language: en_US
+  author: one
+  origin: sent_693_pt
+sent_694_pt:
+  text: depois
+  language: pt_BR
+  author: one
+sent_694_en:
+  text: after
+  language: en_US
+  author: one
+  origin: sent_694_pt
+sent_696_pt:
+  text: o avião
+  language: pt_BR
+  author: one
+sent_696_en:
+  text: aeroplane
+  language: en_US
+  author: one
+  origin: sent_696_pt
+sent_697_pt:
+  text: o aeroporto
+  language: pt_BR
+  author: one
+sent_697_en:
+  text: airport
+  language: en_US
+  author: one
+  origin: sent_697_pt
+sent_698_pt:
+  text: o álcool
+  language: pt_BR
+  author: one
+sent_698_en:
+  text: alcohol
+  language: en_US
+  author: one
+  origin: sent_698_pt
+sent_699_pt:
+  text: todo
+  language: pt_BR
+  author: one
+sent_699_en:
+  text: all (a) (m)
+  language: en_US
+  author: one
+  origin: sent_699_pt
+sent_700_pt:
+  text: toda
+  language: pt_BR
+  author: one
+sent_700_en:
+  text: all (a) (f)
+  language: en_US
+  author: one
+  origin: sent_700_pt
+sent_701_pt:
+  text: a alergia
+  language: pt_BR
+  author: one
+sent_701_en:
+  text: allergy
+  language: en_US
+  author: one
+  origin: sent_701_pt
+sent_702_pt:
+  text: a ambulância
+  language: pt_BR
+  author: one
+sent_702_en:
+  text: ambulance
+  language: en_US
+  author: one
+  origin: sent_702_pt
+sent_703_pt:
+  text: e
+  language: pt_BR
+  author: one
+sent_703_en:
+  text: and
+  language: en_US
+  author: one
+  origin: sent_703_pt
+sent_704_pt:
+  text: o tornozelo
+  language: pt_BR
+  author: one
+sent_704_en:
+  text: ankle
+  language: en_US
+  author: one
+  origin: sent_704_pt
+sent_705_pt:
+  text: o braço
+  language: pt_BR
+  author: one
+sent_705_en:
+  text: arm
+  language: en_US
+  author: one
+  origin: sent_705_pt
+sent_706_pt:
+  text: o cinzeiro
+  language: pt_BR
+  author: one
+sent_706_en:
+  text: ashtray
+  language: en_US
+  author: one
+  origin: sent_706_pt
+sent_707_pt:
+  text: a caixa automática
+  language: pt_BR
+  author: one
+sent_707_en:
+  text: cash machine (UK) ATM (US) [c_]
+  language: en_US
+  author: one
+  origin: sent_707_pt
+sent_708_pt:
+  text: o bebé
+  language: pt_BR
+  author: one
+sent_708_en:
+  text: baby
+  language: en_US
+  author: one
+  origin: sent_708_pt
+sent_709_pt:
+  text: as costas
+  language: pt_BR
+  author: one
+sent_709_en:
+  text: back (body)
+  language: en_US
+  author: one
+  origin: sent_709_pt
+sent_710_pt:
+  text: a mochila
+  language: pt_BR
+  author: one
+sent_710_en:
+  text: backpack
+  language: en_US
+  author: one
+  origin: sent_710_pt
+sent_711_pt:
+  text: o mau
+  language: pt_BR
+  author: one
+sent_711_en:
+  text: bad (m)
+  language: en_US
+  author: one
+  origin: sent_711_pt
+sent_712_pt:
+  text: má
+  language: pt_BR
+  author: one
+sent_712_en:
+  text: bad (f)
+  language: en_US
+  author: one
+  origin: sent_712_pt
+sent_713_pt:
+  text: o saco
+  language: pt_BR
+  author: one
+sent_713_en:
+  text: bag
+  language: en_US
+  author: one
+  origin: sent_713_pt
+sent_714_pt:
+  text: o balcão de bagagens
+  language: pt_BR
+  author: one
+sent_714_en:
+  text: baggage claim
+  language: en_US
+  author: one
+  origin: sent_714_pt
+sent_715_pt:
+  text: o banco
+  language: pt_BR
+  author: one
+sent_715_en:
+  text: bank
+  language: en_US
+  author: one
+  origin: sent_715_pt
+sent_716_pt:
+  text: o bar
+  language: pt_BR
+  author: one
+sent_716_en:
+  text: bar
+  language: en_US
+  author: one
+  origin: sent_716_pt
+sent_717_pt:
+  text: a casa de banho
+  language: pt_BR
+  author: one
+sent_717_en:
+  text: bathroom
+  language: en_US
+  author: one
+  origin: sent_717_pt
+sent_718_pt:
+  text: a pilha
+  language: pt_BR
+  author: one
+sent_718_en:
+  text: battery
+  language: en_US
+  author: one
+  origin: sent_718_pt
+sent_719_pt:
+  text: bonito
+  language: pt_BR
+  author: one
+sent_719_en:
+  text: pretty (m)
+  language: en_US
+  author: one
+  origin: sent_719_pt
+sent_720_pt:
+  text: bonita
+  language: pt_BR
+  author: one
+sent_720_en:
+  text: pretty (f)
+  language: en_US
+  author: one
+  origin: sent_720_pt
+sent_721_pt:
+  text: a cama
+  language: pt_BR
+  author: one
+sent_721_en:
+  text: bed
+  language: en_US
+  author: one
+  origin: sent_721_pt
+sent_722_pt:
+  text: a cerveja
+  language: pt_BR
+  author: one
+sent_722_en:
+  text: beer
+  language: en_US
+  author: one
+  origin: sent_722_pt
+sent_723_pt:
+  text: antes
+  language: pt_BR
+  author: one
+sent_723_en:
+  text: before
+  language: en_US
+  author: one
+  origin: sent_723_pt
+sent_724_pt:
+  text: atrás
+  language: pt_BR
+  author: one
+sent_724_en:
+  text: behind
+  language: en_US
+  author: one
+  origin: sent_724_pt
+sent_725_pt:
+  text: a bicicleta
+  language: pt_BR
+  author: one
+sent_725_en:
+  text: bicycle
+  language: en_US
+  author: one
+  origin: sent_725_pt
+sent_726_pt:
+  text: a conta
+  language: pt_BR
+  author: one
+sent_726_en:
+  text: bill
+  language: en_US
+  author: one
+  origin: sent_726_pt
+sent_727_pt:
+  text: preto
+  language: pt_BR
+  author: one
+sent_727_en:
+  text: black (m)
+  language: en_US
+  author: one
+  origin: sent_727_pt
+sent_728_pt:
+  text: preta
+  language: pt_BR
+  author: one
+sent_728_en:
+  text: black (f)
+  language: en_US
+  author: one
+  origin: sent_728_pt
+sent_729_pt:
+  text: o cobertor
+  language: pt_BR
+  author: one
+sent_729_en:
+  text: blanket
+  language: en_US
+  author: one
+  origin: sent_729_pt
+sent_730_pt:
+  text: o grupo sanguíneo
+  language: pt_BR
+  author: one
+sent_730_en:
+  text: blood group
+  language: en_US
+  author: one
+  origin: sent_730_pt
+sent_731_pt:
+  text: azul
+  language: pt_BR
+  author: one
+sent_731_en:
+  text: blue
+  language: en_US
+  author: one
+  origin: sent_731_pt
+sent_732_pt:
+  text: o barco
+  language: pt_BR
+  author: one
+sent_732_en:
+  text: boat
+  language: en_US
+  author: one
+  origin: sent_732_pt
+sent_733_pt:
+  text: reservar
+  language: pt_BR
+  author: one
+sent_733_en:
+  text: book (make a reservation) (v)
+  language: en_US
+  author: one
+  origin: sent_733_pt
+sent_734_pt:
+  text: a garrafa
+  language: pt_BR
+  author: one
+sent_734_en:
+  text: bottle
+  language: en_US
+  author: one
+  origin: sent_734_pt
+sent_735_pt:
+  text: o saca-rolhas
+  language: pt_BR
+  author: one
+sent_735_en:
+  text: corkscrew
+  language: en_US
+  author: one
+  origin: sent_735_pt
+sent_736_pt:
+  text: o menino
+  language: pt_BR
+  author: one
+sent_736_en:
+  text: boy
+  language: en_US
+  author: one
+  origin: sent_736_pt
+sent_737_pt:
+  text: o travão
+  language: pt_BR
+  author: one
+sent_737_en:
+  text: brake (car)
+  language: en_US
+  author: one
+  origin: sent_737_pt
+sent_738_pt:
+  text: defeituoso
+  language: pt_BR
+  author: one
+sent_738_en:
+  text: broken (faulty) (m)
+  language: en_US
+  author: one
+  origin: sent_738_pt
+sent_739_pt:
+  text: defeituosa
+  language: pt_BR
+  author: one
+sent_739_en:
+  text: broken (faulty) (f)
+  language: en_US
+  author: one
+  origin: sent_739_pt
+sent_740_pt:
+  text: o autocarro
+  language: pt_BR
+  author: one
+sent_740_en:
+  text: bus
+  language: en_US
+  author: one
+  origin: sent_740_pt
+sent_741_pt:
+  text: os negócios
+  language: pt_BR
+  author: one
+sent_741_en:
+  text: business
+  language: en_US
+  author: one
+  origin: sent_741_pt
+sent_742_pt:
+  text: comprar
+  language: pt_BR
+  author: one
+sent_742_en:
+  text: buy
+  language: en_US
+  author: one
+  origin: sent_742_pt
+sent_743_pt:
+  text: o café
+  language: pt_BR
+  author: one
+sent_743_en:
+  text: the coffee; the café
+  language: en_US
+  author: one
+  origin: sent_743_pt
+sent_744_pt:
+  text: a máquina fotográfica
+  language: pt_BR
+  author: one
+sent_744_en:
+  text: camera
+  language: en_US
+  author: one
+  origin: sent_744_pt
+sent_745_pt:
+  text: o parque de campismo
+  language: pt_BR
+  author: one
+sent_745_en:
+  text: camp site
+  language: en_US
+  author: one
+  origin: sent_745_pt
+sent_746_pt:
+  text: cancelar
+  language: pt_BR
+  author: one
+sent_746_en:
+  text: cancel
+  language: en_US
+  author: one
+  origin: sent_746_pt
+sent_747_pt:
+  text: o abre latas
+  language: pt_BR
+  author: one
+sent_747_en:
+  text: can opener
+  language: en_US
+  author: one
+  origin: sent_747_pt
+sent_748_pt:
+  text: o carro
+  language: pt_BR
+  author: one
+sent_748_en:
+  text: car
+  language: en_US
+  author: one
+  origin: sent_748_pt
+sent_749_pt:
+  text: o dinheiro
+  language: pt_BR
+  author: one
+sent_749_en:
+  text: cash
+  language: en_US
+  author: one
+  origin: sent_749_pt
+sent_750_pt:
+  text: levantar (um cheque)
+  language: pt_BR
+  author: one
+sent_750_en:
+  text: cash (a cheque) (v)
+  language: en_US
+  author: one
+  origin: sent_750_pt
+sent_751_pt:
+  text: o telemóvel
+  language: pt_BR
+  author: one
+sent_751_en:
+  text: cell phone
+  language: en_US
+  author: one
+  origin: sent_751_pt
+sent_752_pt:
+  text: o centro
+  language: pt_BR
+  author: one
+sent_752_en:
+  text: centre
+  language: en_US
+  author: one
+  origin: sent_752_pt
+sent_753_pt:
+  text: trocar
+  language: pt_BR
+  author: one
+sent_753_en:
+  text: change (money) (v)
+  language: en_US
+  author: one
+  origin: sent_753_pt
+sent_754_pt:
+  text: barato
+  language: pt_BR
+  author: one
+sent_754_en:
+  text: cheap (m)
+  language: en_US
+  author: one
+  origin: sent_754_pt
+sent_755_pt:
+  text: o check-in
+  language: pt_BR
+  author: one
+sent_755_en:
+  text: check-in
+  language: en_US
+  author: one
+  origin: sent_755_pt
+sent_756_pt:
+  text: o peito
+  language: pt_BR
+  author: one
+sent_756_en:
+  text: chest
+  language: en_US
+  author: one
+  origin: sent_756_pt
+sent_757_pt:
+  text: a criança
+  language: pt_BR
+  author: one
+sent_757_en:
+  text: child
+  language: en_US
+  author: one
+  origin: sent_757_pt
+sent_758_pt:
+  text: o cigarro
+  language: pt_BR
+  author: one
+sent_758_en:
+  text: cigarette
+  language: en_US
+  author: one
+  origin: sent_758_pt
+sent_759_pt:
+  text: a cidade
+  language: pt_BR
+  author: one
+sent_759_en:
+  text: city
+  language: en_US
+  author: one
+  origin: sent_759_pt
+sent_760_pt:
+  text: limpo
+  language: pt_BR
+  author: one
+sent_760_en:
+  text: clean (m)
+  language: en_US
+  author: one
+  origin: sent_760_pt
+sent_761_pt:
+  text: limpa
+  language: pt_BR
+  author: one
+sent_761_en:
+  text: clean (f)
+  language: en_US
+  author: one
+  origin: sent_761_pt
+sent_762_pt:
+  text: fechado
+  language: pt_BR
+  author: one
+sent_762_en:
+  text: closed (m)
+  language: en_US
+  author: one
+  origin: sent_762_pt
+sent_763_pt:
+  text: fechada
+  language: pt_BR
+  author: one
+sent_763_en:
+  text: closed (f)
+  language: en_US
+  author: one
+  origin: sent_763_pt
+sent_764_pt:
+  text: as moedas
+  language: pt_BR
+  author: one
+sent_764_en:
+  text: coins
+  language: en_US
+  author: one
+  origin: sent_764_pt
+sent_765_pt:
+  text: frio
+  language: pt_BR
+  author: one
+sent_765_en:
+  text: cold (m)
+  language: en_US
+  author: one
+  origin: sent_765_pt
+sent_766_pt:
+  text: fria
+  language: pt_BR
+  author: one
+sent_766_en:
+  text: cold (a) (f)
+  language: en_US
+  author: one
+  origin: sent_766_pt
+sent_767_pt:
+  text: a ligação a cobrar
+  language: pt_BR
+  author: one
+sent_767_en:
+  text: collect call
+  language: en_US
+  author: one
+  origin: sent_767_pt
+sent_768_pt:
+  text: vir
+  language: pt_BR
+  author: one
+sent_768_en:
+  text: to come
+  language: en_US
+  author: one
+  origin: sent_768_pt
+sent_769_pt:
+  text: o computador
+  language: pt_BR
+  author: one
+sent_769_en:
+  text: computer
+  language: en_US
+  author: one
+  origin: sent_769_pt
+sent_770_pt:
+  text: o preservativo
+  language: pt_BR
+  author: one
+sent_770_en:
+  text: condom
+  language: en_US
+  author: one
+  origin: sent_770_pt
+sent_771_pt:
+  text: as lentes de contacto
+  language: pt_BR
+  author: one
+sent_771_en:
+  text: contact lenses
+  language: en_US
+  author: one
+  origin: sent_771_pt
+sent_772_pt:
+  text: cozinhar
+  language: pt_BR
+  author: one
+sent_772_en:
+  text: to cook
+  language: en_US
+  author: one
+  origin: sent_772_pt
+sent_773_pt:
+  text: o preço
+  language: pt_BR
+  author: one
+sent_773_en:
+  text: the price the cost the value
+  language: en_US
+  author: one
+  origin: sent_773_pt
+sent_774_pt:
+  text: o cartão de crédito
+  language: pt_BR
+  author: one
+sent_774_en:
+  text: credit card
+  language: en_US
+  author: one
+  origin: sent_774_pt
+sent_775_pt:
+  text: a chávena
+  language: pt_BR
+  author: one
+sent_775_en:
+  text: cup
+  language: en_US
+  author: one
+  origin: sent_775_pt
+sent_776_pt:
+  text: o câmbio
+  language: pt_BR
+  author: one
+sent_776_en:
+  text: currency exchange
+  language: en_US
+  author: one
+  origin: sent_776_pt
+sent_777_pt:
+  text: a alfândega
+  language: pt_BR
+  author: one
+sent_777_en:
+  text: customs (immigration)
+  language: en_US
+  author: one
+  origin: sent_777_pt
+sent_778_pt:
+  text: perigoso
+  language: pt_BR
+  author: one
+sent_778_en:
+  text: dangerous (m)
+  language: en_US
+  author: one
+  origin: sent_778_pt
+sent_779_pt:
+  text: perigosa
+  language: pt_BR
+  author: one
+sent_779_en:
+  text: dangerous (f)
+  language: en_US
+  author: one
+  origin: sent_779_pt
+sent_780_pt:
+  text: a data
+  language: pt_BR
+  author: one
+sent_780_en:
+  text: date (time)
+  language: en_US
+  author: one
+  origin: sent_780_pt
+sent_781_pt:
+  text: o dia
+  language: pt_BR
+  author: one
+sent_781_en:
+  text: day
+  language: en_US
+  author: one
+  origin: sent_781_pt
+sent_782_pt:
+  text: o atraso
+  language: pt_BR
+  author: one
+sent_782_en:
+  text: delay (n)
+  language: en_US
+  author: one
+  origin: sent_782_pt
+sent_783_pt:
+  text: dentista
+  language: pt_BR
+  author: one
+sent_783_en:
+  text: dentist
+  language: en_US
+  author: one
+  origin: sent_783_pt
+sent_784_pt:
+  text: partir
+  language: pt_BR
+  author: one
+sent_784_en:
+  text: to depart
+  language: en_US
+  author: one
+  origin: sent_784_pt
+sent_785_pt:
+  text: a fralda
+  language: pt_BR
+  author: one
+sent_785_en:
+  text: nappy diaper
+  language: en_US
+  author: one
+  origin: sent_785_pt
+sent_786_pt:
+  text: o dicionário
+  language: pt_BR
+  author: one
+sent_786_en:
+  text: dictionary
+  language: en_US
+  author: one
+  origin: sent_786_pt
+sent_787_pt:
+  text: direto
+  language: pt_BR
+  author: one
+sent_787_en:
+  text: direct (m)
+  language: en_US
+  author: one
+  origin: sent_787_pt
+sent_788_pt:
+  text: direta
+  language: pt_BR
+  author: one
+sent_788_en:
+  text: direct (f)
+  language: en_US
+  author: one
+  origin: sent_788_pt
+sent_789_pt:
+  text: sujo
+  language: pt_BR
+  author: one
+sent_789_en:
+  text: dirty (m)
+  language: en_US
+  author: one
+  origin: sent_789_pt
+sent_790_pt:
+  text: suja
+  language: pt_BR
+  author: one
+sent_790_en:
+  text: dirty (f)
+  language: en_US
+  author: one
+  origin: sent_790_pt
+sent_791_pt:
+  text: deficiente
+  language: pt_BR
+  author: one
+sent_791_en:
+  text: disabled
+  language: en_US
+  author: one
+  origin: sent_791_pt
+sent_792_pt:
+  text: o desconto
+  language: pt_BR
+  author: one
+sent_792_en:
+  text: discount
+  language: en_US
+  author: one
+  origin: sent_792_pt
+sent_793_pt:
+  text: o médico
+  language: pt_BR
+  author: one
+sent_793_en:
+  text: doctor (medical) (m)
+  language: en_US
+  author: one
+  origin: sent_793_pt
+sent_794_pt:
+  text: a médica
+  language: pt_BR
+  author: one
+sent_794_en:
+  text: doctor (medical) (f)
+  language: en_US
+  author: one
+  origin: sent_794_pt
+sent_795_pt:
+  text: a cama de casal
+  language: pt_BR
+  author: one
+sent_795_en:
+  text: double bed
+  language: en_US
+  author: one
+  origin: sent_795_pt
+sent_796_pt:
+  text: o quarto de casal
+  language: pt_BR
+  author: one
+sent_796_en:
+  text: double room
+  language: en_US
+  author: one
+  origin: sent_796_pt
+sent_797_pt:
+  text: a bebida
+  language: pt_BR
+  author: one
+sent_797_en:
+  text: drink
+  language: en_US
+  author: one
+  origin: sent_797_pt
+sent_798_pt:
+  text: conduzir
+  language: pt_BR
+  author: one
+sent_798_en:
+  text: to drive to conduct
+  language: en_US
+  author: one
+  origin: sent_798_pt
+sent_799_pt:
+  text: a carta de condução
+  language: pt_BR
+  author: one
+sent_799_en:
+  text: drivers licence
+  language: en_US
+  author: one
+  origin: sent_799_pt
+sent_800_pt:
+  text: a droga
+  language: pt_BR
+  author: one
+sent_800_en:
+  text: drugs (illicit)
+  language: en_US
+  author: one
+  origin: sent_800_pt
+sent_801_pt:
+  text: a chupeta
+  language: pt_BR
+  author: one
+sent_801_en:
+  text: dummy (pacifier)
+  language: en_US
+  author: one
+  origin: sent_801_pt
+sent_802_pt:
+  text: a orelha
+  language: pt_BR
+  author: one
+sent_802_en:
+  text: ear
+  language: en_US
+  author: one
+  origin: sent_802_pt
+sent_803_pt:
+  text: comer
+  language: pt_BR
+  author: one
+sent_803_en:
+  text: eat
+  language: en_US
+  author: one
+  origin: sent_803_pt
+sent_804_pt:
+  text: a classe económica
+  language: pt_BR
+  author: one
+sent_804_en:
+  text: economy class
+  language: en_US
+  author: one
+  origin: sent_804_pt
+sent_805_pt:
+  text: a eletricidade
+  language: pt_BR
+  author: one
+sent_805_en:
+  text: electricity
+  language: en_US
+  author: one
+  origin: sent_805_pt
+sent_806_pt:
+  text: o elevador
+  language: pt_BR
+  author: one
+sent_806_en:
+  text: elevator
+  language: en_US
+  author: one
+  origin: sent_806_pt
+sent_807_pt:
+  text: o email
+  language: pt_BR
+  author: one
+sent_807_en:
+  text: email
+  language: en_US
+  author: one
+  origin: sent_807_pt
+sent_808_pt:
+  text: a embaixada
+  language: pt_BR
+  author: one
+sent_808_en:
+  text: embassy
+  language: en_US
+  author: one
+  origin: sent_808_pt
+sent_809_pt:
+  text: a emergência
+  language: pt_BR
+  author: one
+sent_809_en:
+  text: emergency
+  language: en_US
+  author: one
+  origin: sent_809_pt
+sent_810_pt:
+  text: o inglês
+  language: pt_BR
+  author: one
+sent_810_en:
+  text: Englishman
+  language: en_US
+  author: one
+  origin: sent_810_pt
+sent_811_pt:
+  text: a entrada
+  language: pt_BR
+  author: one
+sent_811_en:
+  text: entrance
+  language: en_US
+  author: one
+  origin: sent_811_pt
+sent_812_pt:
+  text: a noite
+  language: pt_BR
+  author: one
+sent_812_en:
+  text: evening
+  language: en_US
+  author: one
+  origin: sent_812_pt
+sent_813_pt:
+  text: a taxa de câmbio
+  language: pt_BR
+  author: one
+sent_813_en:
+  text: exchange rate
+  language: en_US
+  author: one
+  origin: sent_813_pt
+sent_814_pt:
+  text: a saída
+  language: pt_BR
+  author: one
+sent_814_en:
+  text: exit
+  language: en_US
+  author: one
+  origin: sent_814_pt
+sent_815_pt:
+  text: caro
+  language: pt_BR
+  author: one
+sent_815_en:
+  text: expensive
+  language: en_US
+  author: one
+  origin: sent_815_pt
+sent_816_pt:
+  text: o correio azul
+  language: pt_BR
+  author: one
+sent_816_en:
+  text: express mail
+  language: en_US
+  author: one
+  origin: sent_816_pt
+sent_817_pt:
+  text: o olho
+  language: pt_BR
+  author: one
+sent_817_en:
+  text: eye
+  language: en_US
+  author: one
+  origin: sent_817_pt
+sent_818_pt:
+  text: longe
+  language: pt_BR
+  author: one
+sent_818_en:
+  text: far
+  language: en_US
+  author: one
+  origin: sent_818_pt
+sent_819_pt:
+  text: rápido
+  language: pt_BR
+  author: one
+sent_819_en:
+  text: fast (m)
+  language: en_US
+  author: one
+  origin: sent_819_pt
+sent_820_pt:
+  text: rápida
+  language: pt_BR
+  author: one
+sent_820_en:
+  text: fast (f)
+  language: en_US
+  author: one
+  origin: sent_820_pt
+sent_821_pt:
+  text: o pai
+  language: pt_BR
+  author: one
+sent_821_en:
+  text: father
+  language: en_US
+  author: one
+  origin: sent_821_pt
+sent_822_pt:
+  text: o filme
+  language: pt_BR
+  author: one
+sent_822_en:
+  text: film (movie)
+  language: en_US
+  author: one
+  origin: sent_822_pt
+sent_823_pt:
+  text: o dedo
+  language: pt_BR
+  author: one
+sent_823_en:
+  text: finger
+  language: en_US
+  author: one
+  origin: sent_823_pt
+sent_824_pt:
+  text: o estojo de primeiros socorros
+  language: pt_BR
+  author: one
+sent_824_en:
+  text: first-aid kit
+  language: en_US
+  author: one
+  origin: sent_824_pt
+sent_825_pt:
+  text: a primeira classe
+  language: pt_BR
+  author: one
+sent_825_en:
+  text: first class
+  language: en_US
+  author: one
+  origin: sent_825_pt
+sent_826_pt:
+  text: o peixe
+  language: pt_BR
+  author: one
+sent_826_en:
+  text: fish
+  language: en_US
+  author: one
+  origin: sent_826_pt
+sent_827_pt:
+  text: a comida
+  language: pt_BR
+  author: one
+sent_827_en:
+  text: the food, the meal
+  language: en_US
+  author: one
+  origin: sent_827_pt
+sent_828_pt:
+  text: o pé
+  language: pt_BR
+  author: one
+sent_828_en:
+  text: foot
+  language: en_US
+  author: one
+  origin: sent_828_pt
+sent_829_pt:
+  text: o garfo
+  language: pt_BR
+  author: one
+sent_829_en:
+  text: fork
+  language: en_US
+  author: one
+  origin: sent_829_pt
+sent_830_pt:
+  text: grátis
+  language: pt_BR
+  author: one
+sent_830_en:
+  text: free (of charge) (a)
+  language: en_US
+  author: one
+  origin: sent_830_pt
+sent_831_pt:
+  text: o amigo
+  language: pt_BR
+  author: one
+sent_831_en:
+  text: friend (m)
+  language: en_US
+  author: one
+  origin: sent_831_pt
+sent_832_pt:
+  text: a amiga
+  language: pt_BR
+  author: one
+sent_832_en:
+  text: friend (f)
+  language: en_US
+  author: one
+  origin: sent_832_pt
+sent_833_pt:
+  text: a fruta
+  language: pt_BR
+  author: one
+sent_833_en:
+  text: fruit
+  language: en_US
+  author: one
+  origin: sent_833_pt
+sent_834_pt:
+  text: cheio
+  language: pt_BR
+  author: one
+sent_834_en:
+  text: full (m)
+  language: en_US
+  author: one
+  origin: sent_834_pt
+sent_835_pt:
+  text: cheia
+  language: pt_BR
+  author: one
+sent_835_en:
+  text: full (f)
+  language: en_US
+  author: one
+  origin: sent_835_pt
+sent_836_pt:
+  text: engraçado
+  language: pt_BR
+  author: one
+sent_836_en:
+  text: funny (m)
+  language: en_US
+  author: one
+  origin: sent_836_pt
+sent_837_pt:
+  text: engraçada
+  language: pt_BR
+  author: one
+sent_837_en:
+  text: funny (f)
+  language: en_US
+  author: one
+  origin: sent_837_pt
+sent_838_pt:
+  text: o presente
+  language: pt_BR
+  author: one
+sent_838_en:
+  text: gift
+  language: en_US
+  author: one
+  origin: sent_838_pt
+sent_839_pt:
+  text: a menina
+  language: pt_BR
+  author: one
+sent_839_en:
+  text: girl
+  language: en_US
+  author: one
+  origin: sent_839_pt
+sent_840_pt:
+  text: o copo
+  language: pt_BR
+  author: one
+sent_840_en:
+  text: glass (drinking)
+  language: en_US
+  author: one
+  origin: sent_840_pt
+sent_841_pt:
+  text: os óculos
+  language: pt_BR
+  author: one
+sent_841_en:
+  text: glasses
+  language: en_US
+  author: one
+  origin: sent_841_pt
+sent_842_pt:
+  text: ir
+  language: pt_BR
+  author: one
+sent_842_en:
+  text: go
+  language: en_US
+  author: one
+  origin: sent_842_pt
+sent_843_pt:
+  text: bom
+  language: pt_BR
+  author: one
+sent_843_en:
+  text: good (m)
+  language: en_US
+  author: one
+  origin: sent_843_pt
+sent_844_pt:
+  text: boa
+  language: pt_BR
+  author: one
+sent_844_en:
+  text: good (f)
+  language: en_US
+  author: one
+  origin: sent_844_pt
+sent_845_pt:
+  text: verde
+  language: pt_BR
+  author: one
+sent_845_en:
+  text: green
+  language: en_US
+  author: one
+  origin: sent_845_pt
+sent_846_pt:
+  text: o guia
+  language: pt_BR
+  author: one
+sent_846_en:
+  text: guide (n)
+  language: en_US
+  author: one
+  origin: sent_846_pt
+sent_847_pt:
+  text: a metade
+  language: pt_BR
+  author: one
+sent_847_en:
+  text: half
+  language: en_US
+  author: one
+  origin: sent_847_pt
+sent_848_pt:
+  text: a mão
+  language: pt_BR
+  author: one
+sent_848_en:
+  text: hand
+  language: en_US
+  author: one
+  origin: sent_848_pt
+sent_849_pt:
+  text: a mala de mão
+  language: pt_BR
+  author: one
+sent_849_en:
+  text: handbag
+  language: en_US
+  author: one
+  origin: sent_849_pt
+sent_850_pt:
+  text: feliz
+  language: pt_BR
+  author: one
+sent_850_en:
+  text: happy
+  language: en_US
+  author: one
+  origin: sent_850_pt
+sent_851_pt:
+  text: ter
+  language: pt_BR
+  author: one
+sent_851_en:
+  text: have
+  language: en_US
+  author: one
+  origin: sent_851_pt
+sent_852_pt:
+  text: ele
+  language: pt_BR
+  author: one
+sent_852_en:
+  text: he
+  language: en_US
+  author: one
+  origin: sent_852_pt
+sent_853_pt:
+  text: a cabeça
+  language: pt_BR
+  author: one
+sent_853_en:
+  text: head
+  language: en_US
+  author: one
+  origin: sent_853_pt
+sent_854_pt:
+  text: o coração
+  language: pt_BR
+  author: one
+sent_854_en:
+  text: heart
+  language: en_US
+  author: one
+  origin: sent_854_pt
+sent_855_pt:
+  text: o calor
+  language: pt_BR
+  author: one
+sent_855_en:
+  text: heat
+  language: en_US
+  author: one
+  origin: sent_855_pt
+sent_856_pt:
+  text: pesado
+  language: pt_BR
+  author: one
+sent_856_en:
+  text: heavy (m)
+  language: en_US
+  author: one
+  origin: sent_856_pt
+sent_857_pt:
+  text: pesada
+  language: pt_BR
+  author: one
+sent_857_en:
+  text: heavy (f)
+  language: en_US
+  author: one
+  origin: sent_857_pt
+sent_858_pt:
+  text: ajudar
+  language: pt_BR
+  author: one
+sent_858_en:
+  text: help (v)
+  language: en_US
+  author: one
+  origin: sent_858_pt
+sent_859_pt:
+  text: aqui
+  language: pt_BR
+  author: one
+sent_859_en:
+  text: here
+  language: en_US
+  author: one
+  origin: sent_859_pt
+sent_860_pt:
+  text: alto
+  language: pt_BR
+  author: one
+sent_860_en:
+  text: high (m)
+  language: en_US
+  author: one
+  origin: sent_860_pt
+sent_861_pt:
+  text: alta
+  language: pt_BR
+  author: one
+sent_861_en:
+  text: high (f)
+  language: en_US
+  author: one
+  origin: sent_861_pt
+sent_862_pt:
+  text: a autoestrada
+  language: pt_BR
+  author: one
+sent_862_en:
+  text: motorway (UK) highway (US)
+  language: en_US
+  author: one
+  origin: sent_862_pt
+sent_863_pt:
+  text: caminhar
+  language: pt_BR
+  author: one
+sent_863_en:
+  text: walk, hike (v)
+  language: en_US
+  author: one
+  origin: sent_863_pt
+sent_864_pt:
+  text: o feriado
+  language: pt_BR
+  author: one
+sent_864_en:
+  text: holiday
+  language: en_US
+  author: one
+  origin: sent_864_pt
+sent_865_pt:
+  text: homossexual
+  language: pt_BR
+  author: one
+sent_865_en:
+  text: homosexual (n) (a)
+  language: en_US
+  author: one
+  origin: sent_865_pt
+sent_866_pt:
+  text: o hospital
+  language: pt_BR
+  author: one
+sent_866_en:
+  text: hospital
+  language: en_US
+  author: one
+  origin: sent_866_pt
+sent_867_pt:
+  text: quente
+  language: pt_BR
+  author: one
+sent_867_en:
+  text: hot
+  language: en_US
+  author: one
+  origin: sent_867_pt
+sent_868_pt:
+  text: o hotel
+  language: pt_BR
+  author: one
+sent_868_en:
+  text: hotel
+  language: en_US
+  author: one
+  origin: sent_868_pt
+sent_869_pt:
+  text: faminto
+  language: pt_BR
+  author: one
+sent_869_en:
+  text: hungry (m)
+  language: en_US
+  author: one
+  origin: sent_869_pt
+sent_870_pt:
+  text: faminta
+  language: pt_BR
+  author: one
+sent_870_en:
+  text: hungry (f)
+  language: en_US
+  author: one
+  origin: sent_870_pt
+sent_871_pt:
+  text: o marido
+  language: pt_BR
+  author: one
+sent_871_en:
+  text: husband
+  language: en_US
+  author: one
+  origin: sent_871_pt
+sent_872_pt:
+  text: eu
+  language: pt_BR
+  author: one
+sent_872_en:
+  text: I
+  language: en_US
+  author: one
+  origin: sent_872_pt
+sent_873_pt:
+  text: o bilhete de identidade
+  language: pt_BR
+  author: one
+sent_873_en:
+  text: identification (card)
+  language: en_US
+  author: one
+  origin: sent_873_pt
+sent_874_pt:
+  text: doente
+  language: pt_BR
+  author: one
+sent_874_en:
+  text: ill
+  language: en_US
+  author: one
+  origin: sent_874_pt
+sent_875_pt:
+  text: "(o) importante"
+  language: pt_BR
+  author: one
+sent_875_en:
+  text: important (a) (n)
+  language: en_US
+  author: one
+  origin: sent_875_pt
+sent_876_pt:
+  text: incluído
+  language: pt_BR
+  author: one
+sent_876_en:
+  text: included (m)
+  language: en_US
+  author: one
+  origin: sent_876_pt
+sent_877_pt:
+  text: o ferimento
+  language: pt_BR
+  author: one
+sent_877_en:
+  text: injury
+  language: en_US
+  author: one
+  origin: sent_877_pt
+sent_878_pt:
+  text: o seguro
+  language: pt_BR
+  author: one
+sent_878_en:
+  text: insurance
+  language: en_US
+  author: one
+  origin: sent_878_pt
+sent_879_pt:
+  text: a internet
+  language: pt_BR
+  author: one
+sent_879_en:
+  text: internet
+  language: en_US
+  author: one
+  origin: sent_879_pt
+sent_880_pt:
+  text: o intérprete, a intérprete
+  language: pt_BR
+  author: one
+sent_880_en:
+  text: the interpreter
+  language: en_US
+  author: one
+  origin: sent_880_pt
+sent_881_pt:
+  text: a ourivesaria
+  language: pt_BR
+  author: one
+sent_881_en:
+  text: the jewellers the gold jewellery
+  language: en_US
+  author: one
+  origin: sent_881_pt
+sent_882_pt:
+  text: o emprego
+  language: pt_BR
+  author: one
+sent_882_en:
+  text: job
+  language: en_US
+  author: one
+  origin: sent_882_pt
+sent_883_pt:
+  text: a lavandaria
+  language: pt_BR
+  author: one
+sent_883_en:
+  text: laundry (place)
+  language: en_US
+  author: one
+  origin: sent_883_pt
+sent_884_pt:
+  text: o advogado
+  language: pt_BR
+  author: one
+sent_884_en:
+  text: lawyer (m)
+  language: en_US
+  author: one
+  origin: sent_884_pt
+sent_885_pt:
+  text: a advogada
+  language: pt_BR
+  author: one
+sent_885_en:
+  text: lawyer (f)
+  language: en_US
+  author: one
+  origin: sent_885_pt
+sent_886_pt:
+  text: a esquerda
+  language: pt_BR
+  author: one
+sent_886_en:
+  text: left (direction) (n) (a)
+  language: en_US
+  author: one
+  origin: sent_886_pt
+sent_887_pt:
+  text: a perna
+  language: pt_BR
+  author: one
+sent_887_en:
+  text: leg
+  language: en_US
+  author: one
+  origin: sent_887_pt
+sent_888_pt:
+  text: a lésbica
+  language: pt_BR
+  author: one
+sent_888_en:
+  text: lesbian (n) (a)
+  language: en_US
+  author: one
+  origin: sent_888_pt
+sent_889_pt:
+  text: menos
+  language: pt_BR
+  author: one
+sent_889_en:
+  text: less
+  language: en_US
+  author: one
+  origin: sent_889_pt
+sent_890_pt:
+  text: a carta
+  language: pt_BR
+  author: one
+sent_890_en:
+  text: letter (mail) card chart
+  language: en_US
+  author: one
+  origin: sent_890_pt
+sent_891_pt:
+  text: a luz
+  language: pt_BR
+  author: one
+sent_891_en:
+  text: light
+  language: en_US
+  author: one
+  origin: sent_891_pt
+sent_892_pt:
+  text: gostar
+  language: pt_BR
+  author: one
+sent_892_en:
+  text: like (v)
+  language: en_US
+  author: one
+  origin: sent_892_pt
+sent_893_pt:
+  text: a tranca
+  language: pt_BR
+  author: one
+sent_893_en:
+  text: lock
+  language: en_US
+  author: one
+  origin: sent_893_pt
+sent_894_pt:
+  text: longo
+  language: pt_BR
+  author: one
+sent_894_en:
+  text: long (m)
+  language: en_US
+  author: one
+  origin: sent_894_pt
+sent_895_pt:
+  text: longa
+  language: pt_BR
+  author: one
+sent_895_en:
+  text: long (f)
+  language: en_US
+  author: one
+  origin: sent_895_pt
+sent_896_pt:
+  text: perdido
+  language: pt_BR
+  author: one
+sent_896_en:
+  text: lost (m)
+  language: en_US
+  author: one
+  origin: sent_896_pt
+sent_897_pt:
+  text: perdida
+  language: pt_BR
+  author: one
+sent_897_en:
+  text: lost (f)
+  language: en_US
+  author: one
+  origin: sent_897_pt
+sent_898_pt:
+  text: o gabinete de perdidos e achados
+  language: pt_BR
+  author: one
+sent_898_en:
+  text: lost-property office
+  language: en_US
+  author: one
+  origin: sent_898_pt
+sent_899_pt:
+  text: amar
+  language: pt_BR
+  author: one
+sent_899_en:
+  text: love (v)
+  language: en_US
+  author: one
+  origin: sent_899_pt
+sent_900_pt:
+  text: a bagagem
+  language: pt_BR
+  author: one
+sent_900_en:
+  text: luggage
+  language: en_US
+  author: one
+  origin: sent_900_pt
+sent_901_pt:
+  text: o correio
+  language: pt_BR
+  author: one
+sent_901_en:
+  text: mail
+  language: en_US
+  author: one
+  origin: sent_901_pt
+sent_902_pt:
+  text: o homem
+  language: pt_BR
+  author: one
+sent_902_en:
+  text: man
+  language: en_US
+  author: one
+  origin: sent_902_pt
+sent_903_pt:
+  text: o mapa
+  language: pt_BR
+  author: one
+sent_903_en:
+  text: map
+  language: en_US
+  author: one
+  origin: sent_903_pt
+sent_904_pt:
+  text: o mercado
+  language: pt_BR
+  author: one
+sent_904_en:
+  text: market
+  language: en_US
+  author: one
+  origin: sent_904_pt
+sent_905_pt:
+  text: os fósforos
+  language: pt_BR
+  author: one
+sent_905_en:
+  text: matches
+  language: en_US
+  author: one
+  origin: sent_905_pt
+sent_906_pt:
+  text: a carne
+  language: pt_BR
+  author: one
+sent_906_en:
+  text: meat
+  language: en_US
+  author: one
+  origin: sent_906_pt
+sent_907_pt:
+  text: os medicamentos
+  language: pt_BR
+  author: one
+sent_907_en:
+  text: the medicines, the drugs
+  language: en_US
+  author: one
+  origin: sent_907_pt
+sent_908_pt:
+  text: a ementa
+  language: pt_BR
+  author: one
+sent_908_en:
+  text: menu
+  language: en_US
+  author: one
+  origin: sent_908_pt
+sent_909_pt:
+  text: a mensagem
+  language: pt_BR
+  author: one
+sent_909_en:
+  text: message
+  language: en_US
+  author: one
+  origin: sent_909_pt
+sent_910_pt:
+  text: o leite
+  language: pt_BR
+  author: one
+sent_910_en:
+  text: milk
+  language: en_US
+  author: one
+  origin: sent_910_pt
+sent_911_pt:
+  text: o minuto
+  language: pt_BR
+  author: one
+sent_911_en:
+  text: minute
+  language: en_US
+  author: one
+  origin: sent_911_pt
+sent_914_pt:
+  text: o mês
+  language: pt_BR
+  author: one
+sent_914_en:
+  text: month
+  language: en_US
+  author: one
+  origin: sent_914_pt
+sent_915_pt:
+  text: a manhã
+  language: pt_BR
+  author: one
+sent_915_en:
+  text: morning
+  language: en_US
+  author: one
+  origin: sent_915_pt
+sent_916_pt:
+  text: a mãe
+  language: pt_BR
+  author: one
+sent_916_en:
+  text: mother
+  language: en_US
+  author: one
+  origin: sent_916_pt
+sent_917_pt:
+  text: a mota
+  language: pt_BR
+  author: one
+sent_917_en:
+  text: motorcycle
+  language: en_US
+  author: one
+  origin: sent_917_pt
+sent_918_pt:
+  text: a boca
+  language: pt_BR
+  author: one
+sent_918_en:
+  text: mouth
+  language: en_US
+  author: one
+  origin: sent_918_pt
+sent_919_pt:
+  text: a música
+  language: pt_BR
+  author: one
+sent_919_en:
+  text: music
+  language: en_US
+  author: one
+  origin: sent_919_pt
+sent_920_pt:
+  text: o nome
+  language: pt_BR
+  author: one
+sent_920_en:
+  text: name
+  language: en_US
+  author: one
+  origin: sent_920_pt
+sent_921_pt:
+  text: o guardanapo
+  language: pt_BR
+  author: one
+sent_921_en:
+  text: napkin
+  language: en_US
+  author: one
+  origin: sent_921_pt
+sent_922_pt:
+  text: perto
+  language: pt_BR
+  author: one
+sent_922_en:
+  text: near
+  language: en_US
+  author: one
+  origin: sent_922_pt
+sent_923_pt:
+  text: o pescoço
+  language: pt_BR
+  author: one
+sent_923_en:
+  text: neck
+  language: en_US
+  author: one
+  origin: sent_923_pt
+sent_924_pt:
+  text: novo
+  language: pt_BR
+  author: one
+sent_924_en:
+  text: new (m)
+  language: en_US
+  author: one
+  origin: sent_924_pt
+sent_925_pt:
+  text: nova
+  language: pt_BR
+  author: one
+sent_925_en:
+  text: new (f)
+  language: en_US
+  author: one
+  origin: sent_925_pt
+sent_926_pt:
+  text: as notícias
+  language: pt_BR
+  author: one
+sent_926_en:
+  text: news
+  language: en_US
+  author: one
+  origin: sent_926_pt
+sent_927_pt:
+  text: o jornal
+  language: pt_BR
+  author: one
+sent_927_en:
+  text: newspaper
+  language: en_US
+  author: one
+  origin: sent_927_pt
+sent_929_pt:
+  text: não
+  language: pt_BR
+  author: one
+sent_929_en:
+  text: "no"
+  language: en_US
+  author: one
+  origin: sent_929_pt
+sent_930_pt:
+  text: barulhento
+  language: pt_BR
+  author: one
+sent_930_en:
+  text: noisy (m)
+  language: en_US
+  author: one
+  origin: sent_930_pt
+sent_931_pt:
+  text: barulhenta
+  language: pt_BR
+  author: one
+sent_931_en:
+  text: noisy (f)
+  language: en_US
+  author: one
+  origin: sent_931_pt
+sent_932_pt:
+  text: não-fumador
+  language: pt_BR
+  author: one
+sent_932_en:
+  text: non-smoking
+  language: en_US
+  author: one
+  origin: sent_932_pt
+sent_933_pt:
+  text: o nariz
+  language: pt_BR
+  author: one
+sent_933_en:
+  text: nose
+  language: en_US
+  author: one
+  origin: sent_933_pt
+sent_934_pt:
+  text: agora
+  language: pt_BR
+  author: one
+sent_934_en:
+  text: now
+  language: en_US
+  author: one
+  origin: sent_934_pt
+sent_935_pt:
+  text: o número
+  language: pt_BR
+  author: one
+sent_935_en:
+  text: number
+  language: en_US
+  author: one
+  origin: sent_935_pt
+sent_936_pt:
+  text: o petróleo
+  language: pt_BR
+  author: one
+sent_936_en:
+  text: oil (engine)
+  language: en_US
+  author: one
+  origin: sent_936_pt
+sent_937_pt:
+  text: velho
+  language: pt_BR
+  author: one
+sent_937_en:
+  text: old (m)
+  language: en_US
+  author: one
+  origin: sent_937_pt
+sent_938_pt:
+  text: velha
+  language: pt_BR
+  author: one
+sent_938_en:
+  text: old (f)
+  language: en_US
+  author: one
+  origin: sent_938_pt
+sent_939_pt:
+  text: o bilhete de ida
+  language: pt_BR
+  author: one
+sent_939_en:
+  text: one-way ticket
+  language: en_US
+  author: one
+  origin: sent_939_pt
+sent_940_pt:
+  text: aberto
+  language: pt_BR
+  author: one
+sent_940_en:
+  text: open (a) (m)
+  language: en_US
+  author: one
+  origin: sent_940_pt
+sent_941_pt:
+  text: aberta
+  language: pt_BR
+  author: one
+sent_941_en:
+  text: open (a) (f)
+  language: en_US
+  author: one
+  origin: sent_941_pt
+sent_942_pt:
+  text: fora
+  language: pt_BR
+  author: one
+sent_942_en:
+  text: outside
+  language: en_US
+  author: one
+  origin: sent_942_pt
+sent_943_pt:
+  text: o embrulho
+  language: pt_BR
+  author: one
+sent_943_en:
+  text: package
+  language: en_US
+  author: one
+  origin: sent_943_pt
+sent_944_pt:
+  text: o papel
+  language: pt_BR
+  author: one
+sent_944_en:
+  text: paper
+  language: en_US
+  author: one
+  origin: sent_944_pt
+sent_945_pt:
+  text: estacionar
+  language: pt_BR
+  author: one
+sent_945_en:
+  text: park (car) (v)
+  language: en_US
+  author: one
+  origin: sent_945_pt
+sent_946_pt:
+  text: o passaporte
+  language: pt_BR
+  author: one
+sent_946_en:
+  text: passport
+  language: en_US
+  author: one
+  origin: sent_946_pt
+sent_947_pt:
+  text: pagar
+  language: pt_BR
+  author: one
+sent_947_en:
+  text: pay
+  language: en_US
+  author: one
+  origin: sent_947_pt
+sent_948_pt:
+  text: a caneta
+  language: pt_BR
+  author: one
+sent_948_en:
+  text: pen
+  language: en_US
+  author: one
+  origin: sent_948_pt
+sent_949_pt:
+  text: a farmácia
+  language: pt_BR
+  author: one
+sent_949_en:
+  text: pharmacy
+  language: en_US
+  author: one
+  origin: sent_949_pt
+sent_950_pt:
+  text: o cartão telefónico
+  language: pt_BR
+  author: one
+sent_950_en:
+  text: phonecard
+  language: en_US
+  author: one
+  origin: sent_950_pt
+sent_951_pt:
+  text: a fotografia
+  language: pt_BR
+  author: one
+sent_951_en:
+  text: photo
+  language: en_US
+  author: one
+  origin: sent_951_pt
+sent_952_pt:
+  text: o prato
+  language: pt_BR
+  author: one
+sent_952_en:
+  text: plate
+  language: en_US
+  author: one
+  origin: sent_952_pt
+sent_953_pt:
+  text: a polícia
+  language: pt_BR
+  author: one
+sent_953_en:
+  text: police
+  language: en_US
+  author: one
+  origin: sent_953_pt
+sent_954_pt:
+  text: Portugal
+  language: pt_BR
+  author: one
+sent_954_en:
+  text: Portugal
+  language: en_US
+  author: one
+  origin: sent_954_pt
+sent_955_pt:
+  text: o português
+  language: pt_BR
+  author: one
+sent_955_en:
+  text: Portuguese (language)
+  language: en_US
+  author: one
+  origin: sent_955_pt
+sent_956_pt:
+  text: o postal
+  language: pt_BR
+  author: one
+sent_956_en:
+  text: postcard
+  language: en_US
+  author: one
+  origin: sent_956_pt
+sent_958_pt:
+  text: grávida
+  language: pt_BR
+  author: one
+sent_958_en:
+  text: pregnant
+  language: en_US
+  author: one
+  origin: sent_958_pt
+sent_959_pt:
+  text: calado
+  language: pt_BR
+  author: one
+sent_959_en:
+  text: quiet (m) (c_)
+  language: en_US
+  author: one
+  origin: sent_959_pt
+sent_960_pt:
+  text: calada
+  language: pt_BR
+  author: one
+sent_960_en:
+  text: quiet, silent (person) (a) (f)
+  language: en_US
+  author: one
+  origin: sent_960_pt
+sent_961_pt:
+  text: a chuva
+  language: pt_BR
+  author: one
+sent_961_en:
+  text: rain
+  language: en_US
+  author: one
+  origin: sent_961_pt
+sent_962_pt:
+  text: a gilete
+  language: pt_BR
+  author: one
+sent_962_en:
+  text: razor
+  language: en_US
+  author: one
+  origin: sent_962_pt
+sent_963_pt:
+  text: o recibo
+  language: pt_BR
+  author: one
+sent_963_en:
+  text: receipt
+  language: en_US
+  author: one
+  origin: sent_963_pt
+sent_964_pt:
+  text: vermelho
+  language: pt_BR
+  author: one
+sent_964_en:
+  text: red (m)
+  language: en_US
+  author: one
+  origin: sent_964_pt
+sent_965_pt:
+  text: vermelha
+  language: pt_BR
+  author: one
+sent_965_en:
+  text: red (f)
+  language: en_US
+  author: one
+  origin: sent_965_pt
+sent_966_pt:
+  text: o reembolso
+  language: pt_BR
+  author: one
+sent_966_en:
+  text: refund
+  language: en_US
+  author: one
+  origin: sent_966_pt
+sent_967_pt:
+  text: o correio registado
+  language: pt_BR
+  author: one
+sent_967_en:
+  text: registered mail
+  language: en_US
+  author: one
+  origin: sent_967_pt
+sent_968_pt:
+  text: alugar
+  language: pt_BR
+  author: one
+sent_968_en:
+  text: rent (v)
+  language: en_US
+  author: one
+  origin: sent_968_pt
+sent_969_pt:
+  text: consertar
+  language: pt_BR
+  author: one
+sent_969_en:
+  text: repair (v)
+  language: en_US
+  author: one
+  origin: sent_969_pt
+sent_970_pt:
+  text: a reserva
+  language: pt_BR
+  author: one
+sent_970_en:
+  text: reservation
+  language: en_US
+  author: one
+  origin: sent_970_pt
+sent_971_pt:
+  text: o restaurante
+  language: pt_BR
+  author: one
+sent_971_en:
+  text: restaurant
+  language: en_US
+  author: one
+  origin: sent_971_pt
+sent_972_pt:
+  text: voltar
+  language: pt_BR
+  author: one
+sent_972_en:
+  text: return (v)
+  language: en_US
+  author: one
+  origin: sent_972_pt
+sent_973_pt:
+  text: o bilhete de ida e volta
+  language: pt_BR
+  author: one
+sent_973_en:
+  text: return ticket
+  language: en_US
+  author: one
+  origin: sent_973_pt
+sent_974_pt:
+  text: direita
+  language: pt_BR
+  author: one
+sent_974_en:
+  text: right (direction)
+  language: en_US
+  author: one
+  origin: sent_974_pt
+sent_975_pt:
+  text: a estrada
+  language: pt_BR
+  author: one
+sent_975_en:
+  text: road
+  language: en_US
+  author: one
+  origin: sent_975_pt
+sent_976_pt:
+  text: o quarto
+  language: pt_BR
+  author: one
+sent_976_en:
+  text: room
+  language: en_US
+  author: one
+  origin: sent_976_pt
+sent_977_pt:
+  text: seguro
+  language: pt_BR
+  author: one
+sent_977_en:
+  text: safe (a) (m)
+  language: en_US
+  author: one
+  origin: sent_977_pt
+sent_978_pt:
+  text: segura
+  language: pt_BR
+  author: one
+sent_978_en:
+  text: safe (a) (f)
+  language: en_US
+  author: one
+  origin: sent_978_pt
+sent_979_pt:
+  text: o penso higiénico
+  language: pt_BR
+  author: one
+sent_979_en:
+  text: sanitary towel sanitary napkin
+  language: en_US
+  author: one
+  origin: sent_979_pt
+sent_980_pt:
+  text: o assento
+  language: pt_BR
+  author: one
+sent_980_en:
+  text: seat
+  language: en_US
+  author: one
+  origin: sent_980_pt
+sent_981_pt:
+  text: enviar
+  language: pt_BR
+  author: one
+sent_981_en:
+  text: send
+  language: en_US
+  author: one
+  origin: sent_981_pt
+sent_982_pt:
+  text: o posto de gasolina
+  language: pt_BR
+  author: one
+sent_982_en:
+  text: petrol station (UK) service station (US)
+  language: en_US
+  author: one
+  origin: sent_982_pt
+sent_983_pt:
+  text: o sexo
+  language: pt_BR
+  author: one
+sent_983_en:
+  text: sex
+  language: en_US
+  author: one
+  origin: sent_983_pt
+sent_984_pt:
+  text: o champô
+  language: pt_BR
+  author: one
+sent_984_en:
+  text: shampoo
+  language: en_US
+  author: one
+  origin: sent_984_pt
+sent_985_pt:
+  text: partilhar
+  language: pt_BR
+  author: one
+sent_985_en:
+  text: share (a dorm)
+  language: en_US
+  author: one
+  origin: sent_985_pt
+sent_986_pt:
+  text: o creme de barbear
+  language: pt_BR
+  author: one
+sent_986_en:
+  text: shaving cream
+  language: en_US
+  author: one
+  origin: sent_986_pt
+sent_987_pt:
+  text: ela
+  language: pt_BR
+  author: one
+sent_987_en:
+  text: she
+  language: en_US
+  author: one
+  origin: sent_987_pt
+sent_988_pt:
+  text: o lençol
+  language: pt_BR
+  author: one
+sent_988_en:
+  text: sheet (bed)
+  language: en_US
+  author: one
+  origin: sent_988_pt
+sent_989_pt:
+  text: a camisa
+  language: pt_BR
+  author: one
+sent_989_en:
+  text: shirt
+  language: en_US
+  author: one
+  origin: sent_989_pt
+sent_990_pt:
+  text: os sapatos
+  language: pt_BR
+  author: one
+sent_990_en:
+  text: shoes
+  language: en_US
+  author: one
+  origin: sent_990_pt
+sent_991_pt:
+  text: a loja
+  language: pt_BR
+  author: one
+sent_991_en:
+  text: shop (n)
+  language: en_US
+  author: one
+  origin: sent_991_pt
+sent_992_pt:
+  text: curto
+  language: pt_BR
+  author: one
+sent_992_en:
+  text: short (m)
+  language: en_US
+  author: one
+  origin: sent_992_pt
+sent_993_pt:
+  text: curta
+  language: pt_BR
+  author: one
+sent_993_en:
+  text: short (f)
+  language: en_US
+  author: one
+  origin: sent_993_pt
+sent_994_pt:
+  text: o chuveiro
+  language: pt_BR
+  author: one
+sent_994_en:
+  text: shower (n)
+  language: en_US
+  author: one
+  origin: sent_994_pt
+sent_995_pt:
+  text: o quarto de solteiro
+  language: pt_BR
+  author: one
+sent_995_en:
+  text: single room
+  language: en_US
+  author: one
+  origin: sent_995_pt
+sent_996_pt:
+  text: a pele
+  language: pt_BR
+  author: one
+sent_996_en:
+  text: skin
+  language: en_US
+  author: one
+  origin: sent_996_pt
+sent_997_pt:
+  text: a saia
+  language: pt_BR
+  author: one
+sent_997_en:
+  text: skirt
+  language: en_US
+  author: one
+  origin: sent_997_pt
+sent_998_pt:
+  text: dormir
+  language: pt_BR
+  author: one
+sent_998_en:
+  text: sleep (v)
+  language: en_US
+  author: one
+  origin: sent_998_pt
+sent_999_pt:
+  text: vagarosamente
+  language: pt_BR
+  author: one
+sent_999_en:
+  text: slowly
+  language: en_US
+  author: one
+  origin: sent_999_pt
+sent_1002_pt:
+  text: fumar
+  language: pt_BR
+  author: one
+sent_1002_en:
+  text: smoke (cigarettes) (v)
+  language: en_US
+  author: one
+  origin: sent_1002_pt
+sent_1003_pt:
+  text: o sabonete
+  language: pt_BR
+  author: one
+sent_1003_en:
+  text: soap
+  language: en_US
+  author: one
+  origin: sent_1003_pt
+sent_1004_pt:
+  text: uns
+  language: pt_BR
+  author: one
+sent_1004_en:
+  text: some (m)
+  language: en_US
+  author: one
+  origin: sent_1004_pt
+sent_1005_pt:
+  text: umas
+  language: pt_BR
+  author: one
+sent_1005_en:
+  text: some (f)
+  language: en_US
+  author: one
+  origin: sent_1005_pt
+sent_1006_pt:
+  text: em breve
+  language: pt_BR
+  author: one
+sent_1006_en:
+  text: soon
+  language: en_US
+  author: one
+  origin: sent_1006_pt
+sent_1007_pt:
+  text: a loja de lembranças
+  language: pt_BR
+  author: one
+sent_1007_en:
+  text: souvenir shop
+  language: en_US
+  author: one
+  origin: sent_1007_pt
+sent_1008_pt:
+  text: falar
+  language: pt_BR
+  author: one
+sent_1008_en:
+  text: speak
+  language: en_US
+  author: one
+  origin: sent_1008_pt
+sent_1009_pt:
+  text: a colher
+  language: pt_BR
+  author: one
+sent_1009_en:
+  text: spoon
+  language: en_US
+  author: one
+  origin: sent_1009_pt
+sent_1010_pt:
+  text: o selo
+  language: pt_BR
+  author: one
+sent_1010_en:
+  text: stamp
+  language: en_US
+  author: one
+  origin: sent_1010_pt
+sent_1011_pt:
+  text: o bilhete sem garantia
+  language: pt_BR
+  author: one
+sent_1011_en:
+  text: stand-by ticket
+  language: en_US
+  author: one
+  origin: sent_1011_pt
+sent_1012_pt:
+  text: a estação
+  language: pt_BR
+  author: one
+sent_1012_en:
+  text: station (train)
+  language: en_US
+  author: one
+  origin: sent_1012_pt
+sent_1013_pt:
+  text: o estômago
+  language: pt_BR
+  author: one
+sent_1013_en:
+  text: stomach
+  language: en_US
+  author: one
+  origin: sent_1013_pt
+sent_1014_pt:
+  text: parar
+  language: pt_BR
+  author: one
+sent_1014_en:
+  text: stop (v)
+  language: en_US
+  author: one
+  origin: sent_1014_pt
+sent_1015_pt:
+  text: a paragem
+  language: pt_BR
+  author: one
+sent_1015_en:
+  text: stop (bus)
+  language: en_US
+  author: one
+  origin: sent_1015_pt
+sent_1016_pt:
+  text: a rua
+  language: pt_BR
+  author: one
+sent_1016_en:
+  text: street
+  language: en_US
+  author: one
+  origin: sent_1016_pt
+sent_1017_pt:
+  text: estudante
+  language: pt_BR
+  author: one
+sent_1017_en:
+  text: student
+  language: en_US
+  author: one
+  origin: sent_1017_pt
+sent_1018_pt:
+  text: o sol
+  language: pt_BR
+  author: one
+sent_1018_en:
+  text: sun
+  language: en_US
+  author: one
+  origin: sent_1018_pt
+sent_1019_pt:
+  text: a proteção anti-solar
+  language: pt_BR
+  author: one
+sent_1019_en:
+  text: sun cream sunscreen
+  language: en_US
+  author: one
+  origin: sent_1019_pt
+sent_1020_pt:
+  text: nadar
+  language: pt_BR
+  author: one
+sent_1020_en:
+  text: swim (v)
+  language: en_US
+  author: one
+  origin: sent_1020_pt
+sent_1021_pt:
+  text: os tampões
+  language: pt_BR
+  author: one
+sent_1021_en:
+  text: tampons
+  language: en_US
+  author: one
+  origin: sent_1021_pt
+sent_1022_pt:
+  text: o táxi
+  language: pt_BR
+  author: one
+sent_1022_en:
+  text: taxi
+  language: en_US
+  author: one
+  origin: sent_1022_pt
+sent_1023_pt:
+  text: a colher de chá
+  language: pt_BR
+  author: one
+sent_1023_en:
+  text: teaspoon
+  language: en_US
+  author: one
+  origin: sent_1023_pt
+sent_1024_pt:
+  text: os dentes
+  language: pt_BR
+  author: one
+sent_1024_en:
+  text: teeth
+  language: en_US
+  author: one
+  origin: sent_1024_pt
+sent_1025_pt:
+  text: o telefone
+  language: pt_BR
+  author: one
+sent_1025_en:
+  text: telephone
+  language: en_US
+  author: one
+  origin: sent_1025_pt
+sent_1026_pt:
+  text: a televisão
+  language: pt_BR
+  author: one
+sent_1026_en:
+  text: television
+  language: en_US
+  author: one
+  origin: sent_1026_pt
+sent_1027_pt:
+  text: a temperatura
+  language: pt_BR
+  author: one
+sent_1027_en:
+  text: temperature (weather)
+  language: en_US
+  author: one
+  origin: sent_1027_pt
+sent_1028_pt:
+  text: a tenda
+  language: pt_BR
+  author: one
+sent_1028_en:
+  text: tent
+  language: en_US
+  author: one
+  origin: sent_1028_pt
+sent_1029_pt:
+  text: aquele
+  language: pt_BR
+  author: one
+sent_1029_en:
+  text: that (one) (m)
+  language: en_US
+  author: one
+  origin: sent_1029_pt
+sent_1030_pt:
+  text: aquela
+  language: pt_BR
+  author: one
+sent_1030_en:
+  text: that (one) (f)
+  language: en_US
+  author: one
+  origin: sent_1030_pt
+sent_1031_pt:
+  text: eles
+  language: pt_BR
+  author: one
+sent_1031_en:
+  text: they (m)
+  language: en_US
+  author: one
+  origin: sent_1031_pt
+sent_1032_pt:
+  text: elas
+  language: pt_BR
+  author: one
+sent_1032_en:
+  text: they (f)
+  language: en_US
+  author: one
+  origin: sent_1032_pt
+sent_1033_pt:
+  text: sedento
+  language: pt_BR
+  author: one
+sent_1033_en:
+  text: thirsty (m)
+  language: en_US
+  author: one
+  origin: sent_1033_pt
+sent_1034_pt:
+  text: sedenta
+  language: pt_BR
+  author: one
+sent_1034_en:
+  text: thirsty (f)
+  language: en_US
+  author: one
+  origin: sent_1034_pt
+sent_1035_pt:
+  text: este
+  language: pt_BR
+  author: one
+sent_1035_en:
+  text: this (one) (m)
+  language: en_US
+  author: one
+  origin: sent_1035_pt
+sent_1036_pt:
+  text: esta
+  language: pt_BR
+  author: one
+sent_1036_en:
+  text: this (one) (f)
+  language: en_US
+  author: one
+  origin: sent_1036_pt
+sent_1037_pt:
+  text: a garganta
+  language: pt_BR
+  author: one
+sent_1037_en:
+  text: throat
+  language: en_US
+  author: one
+  origin: sent_1037_pt
+sent_1038_pt:
+  text: o bilhete
+  language: pt_BR
+  author: one
+sent_1038_en:
+  text: ticket
+  language: en_US
+  author: one
+  origin: sent_1038_pt
+sent_1039_pt:
+  text: o tempo
+  language: pt_BR
+  author: one
+sent_1039_en:
+  text: time weather
+  language: en_US
+  author: one
+  origin: sent_1039_pt
+sent_1040_pt:
+  text: cansado
+  language: pt_BR
+  author: one
+sent_1040_en:
+  text: tired (m)
+  language: en_US
+  author: one
+  origin: sent_1040_pt
+sent_1041_pt:
+  text: cansada
+  language: pt_BR
+  author: one
+sent_1041_en:
+  text: tired (f)
+  language: en_US
+  author: one
+  origin: sent_1041_pt
+sent_1042_pt:
+  text: os lenços de papel
+  language: pt_BR
+  author: one
+sent_1042_en:
+  text: tissues
+  language: en_US
+  author: one
+  origin: sent_1042_pt
+sent_1043_pt:
+  text: hoje
+  language: pt_BR
+  author: one
+sent_1043_en:
+  text: today
+  language: en_US
+  author: one
+  origin: sent_1043_pt
+sent_1046_pt:
+  text: hoje à noite
+  language: pt_BR
+  author: one
+sent_1046_en:
+  text: tonight
+  language: en_US
+  author: one
+  origin: sent_1046_pt
+sent_1047_pt:
+  text: a escova de dentes
+  language: pt_BR
+  author: one
+sent_1047_en:
+  text: toothbrush
+  language: en_US
+  author: one
+  origin: sent_1047_pt
+sent_1048_pt:
+  text: a pasta de dentes
+  language: pt_BR
+  author: one
+sent_1048_en:
+  text: toothpaste
+  language: en_US
+  author: one
+  origin: sent_1048_pt
+sent_1049_pt:
+  text: a lanterna elétrica
+  language: pt_BR
+  author: one
+sent_1049_en:
+  text: torch (UK) flashlight (US)
+  language: en_US
+  author: one
+  origin: sent_1049_pt
+sent_1050_pt:
+  text: a excursão
+  language: pt_BR
+  author: one
+sent_1050_en:
+  text: tour (n)
+  language: en_US
+  author: one
+  origin: sent_1050_pt
+sent_1051_pt:
+  text: o escritório de turismo
+  language: pt_BR
+  author: one
+sent_1051_en:
+  text: tourist office
+  language: en_US
+  author: one
+  origin: sent_1051_pt
+sent_1052_pt:
+  text: a toalha
+  language: pt_BR
+  author: one
+sent_1052_en:
+  text: towel
+  language: en_US
+  author: one
+  origin: sent_1052_pt
+sent_1053_pt:
+  text: o comboio
+  language: pt_BR
+  author: one
+sent_1053_en:
+  text: train
+  language: en_US
+  author: one
+  origin: sent_1053_pt
+sent_1054_pt:
+  text: traduzir
+  language: pt_BR
+  author: one
+sent_1054_en:
+  text: translate
+  language: en_US
+  author: one
+  origin: sent_1054_pt
+sent_1055_pt:
+  text: a agência de viagens
+  language: pt_BR
+  author: one
+sent_1055_en:
+  text: travel agency
+  language: en_US
+  author: one
+  origin: sent_1055_pt
+sent_1056_pt:
+  text: o travellers cheque
+  language: pt_BR
+  author: one
+sent_1056_en:
+  text: travellers cheque
+  language: en_US
+  author: one
+  origin: sent_1056_pt
+sent_1057_pt:
+  text: as calças
+  language: pt_BR
+  author: one
+sent_1057_en:
+  text: trousers
+  language: en_US
+  author: one
+  origin: sent_1057_pt
+sent_1058_pt:
+  text: as camas gémeas
+  language: pt_BR
+  author: one
+sent_1058_en:
+  text: twin beds
+  language: en_US
+  author: one
+  origin: sent_1058_pt
+sent_1059_pt:
+  text: o pneu
+  language: pt_BR
+  author: one
+sent_1059_en:
+  text: tyre
+  language: en_US
+  author: one
+  origin: sent_1059_pt
+sent_1060_pt:
+  text: a roupa interior
+  language: pt_BR
+  author: one
+sent_1060_en:
+  text: underwear
+  language: en_US
+  author: one
+  origin: sent_1060_pt
+sent_1061_pt:
+  text: urgente
+  language: pt_BR
+  author: one
+sent_1061_en:
+  text: urgent
+  language: en_US
+  author: one
+  origin: sent_1061_pt
+sent_1062_pt:
+  text: vago
+  language: pt_BR
+  author: one
+sent_1062_en:
+  text: vacant (m)
+  language: en_US
+  author: one
+  origin: sent_1062_pt
+sent_1063_pt:
+  text: vaga
+  language: pt_BR
+  author: one
+sent_1063_en:
+  text: vacant (f)
+  language: en_US
+  author: one
+  origin: sent_1063_pt
+sent_1064_pt:
+  text: as férias
+  language: pt_BR
+  author: one
+sent_1064_en:
+  text: holidays vacation
+  language: en_US
+  author: one
+  origin: sent_1064_pt
+sent_1065_pt:
+  text: o legume
+  language: pt_BR
+  author: one
+sent_1065_en:
+  text: vegetable
+  language: en_US
+  author: one
+  origin: sent_1065_pt
+sent_1066_pt:
+  text: o vegetariano
+  language: pt_BR
+  author: one
+sent_1066_en:
+  text: vegetarian (a,n) (m)
+  language: en_US
+  author: one
+  origin: sent_1066_pt
+sent_1067_pt:
+  text: a vegetariana
+  language: pt_BR
+  author: one
+sent_1067_en:
+  text: vegetarian (a,n) (f)
+  language: en_US
+  author: one
+  origin: sent_1067_pt
+sent_1068_pt:
+  text: o visto
+  language: pt_BR
+  author: one
+sent_1068_en:
+  text: visa
+  language: en_US
+  author: one
+  origin: sent_1068_pt
+sent_1069_pt:
+  text: o criado de mesa
+  language: pt_BR
+  author: one
+sent_1069_en:
+  text: waiter (m)
+  language: en_US
+  author: one
+  origin: sent_1069_pt
+sent_1070_pt:
+  text: a criada de mesa
+  language: pt_BR
+  author: one
+sent_1070_en:
+  text: waiter (f)
+  language: en_US
+  author: one
+  origin: sent_1070_pt
+sent_1071_pt:
+  text: a carteira
+  language: pt_BR
+  author: one
+sent_1071_en:
+  text: wallet
+  language: en_US
+  author: one
+  origin: sent_1071_pt
+sent_1072_pt:
+  text: morno
+  language: pt_BR
+  author: one
+sent_1072_en:
+  text: lukewarm (a) (m)
+  language: en_US
+  author: one
+  origin: sent_1072_pt
+sent_1073_pt:
+  text: morna
+  language: pt_BR
+  author: one
+sent_1073_en:
+  text: lukewarm (a) (f)
+  language: en_US
+  author: one
+  origin: sent_1073_pt
+sent_1074_pt:
+  text: lavar
+  language: pt_BR
+  author: one
+sent_1074_en:
+  text: wash (something)
+  language: en_US
+  author: one
+  origin: sent_1074_pt
+sent_1075_pt:
+  text: o relógio
+  language: pt_BR
+  author: one
+sent_1075_en:
+  text: clock
+  language: en_US
+  author: one
+  origin: sent_1075_pt
+sent_1076_pt:
+  text: a água
+  language: pt_BR
+  author: one
+sent_1076_en:
+  text: water
+  language: en_US
+  author: one
+  origin: sent_1076_pt
+sent_1077_pt:
+  text: nós
+  language: pt_BR
+  author: one
+sent_1077_en:
+  text: we
+  language: en_US
+  author: one
+  origin: sent_1077_pt
+sent_1078_pt:
+  text: o fim-de-semana
+  language: pt_BR
+  author: one
+sent_1078_en:
+  text: weekend
+  language: en_US
+  author: one
+  origin: sent_1078_pt
+sent_1079_pt:
+  text: a cadeira de rodas
+  language: pt_BR
+  author: one
+sent_1079_en:
+  text: wheelchair
+  language: en_US
+  author: one
+  origin: sent_1079_pt
+sent_1080_pt:
+  text: quando
+  language: pt_BR
+  author: one
+sent_1080_en:
+  text: when
+  language: en_US
+  author: one
+  origin: sent_1080_pt
+sent_1081_pt:
+  text: onde
+  language: pt_BR
+  author: one
+sent_1081_en:
+  text: where
+  language: en_US
+  author: one
+  origin: sent_1081_pt
+sent_1082_pt:
+  text: branco
+  language: pt_BR
+  author: one
+sent_1082_en:
+  text: white (m)
+  language: en_US
+  author: one
+  origin: sent_1082_pt
+sent_1083_pt:
+  text: branca
+  language: pt_BR
+  author: one
+sent_1083_en:
+  text: white (f)
+  language: en_US
+  author: one
+  origin: sent_1083_pt
+sent_1084_pt:
+  text: quem
+  language: pt_BR
+  author: one
+sent_1084_en:
+  text: who
+  language: en_US
+  author: one
+  origin: sent_1084_pt
+sent_1085_pt:
+  text: porquê
+  language: pt_BR
+  author: one
+sent_1085_en:
+  text: why
+  language: en_US
+  author: one
+  origin: sent_1085_pt
+sent_1086_pt:
+  text: a esposa
+  language: pt_BR
+  author: one
+sent_1086_en:
+  text: wife
+  language: en_US
+  author: one
+  origin: sent_1086_pt
+sent_1087_pt:
+  text: a janela
+  language: pt_BR
+  author: one
+sent_1087_en:
+  text: window
+  language: en_US
+  author: one
+  origin: sent_1087_pt
+sent_1088_pt:
+  text: o vinho
+  language: pt_BR
+  author: one
+sent_1088_en:
+  text: wine
+  language: en_US
+  author: one
+  origin: sent_1088_pt
+sent_1089_pt:
+  text: com
+  language: pt_BR
+  author: one
+sent_1089_en:
+  text: with
+  language: en_US
+  author: one
+  origin: sent_1089_pt
+sent_1090_pt:
+  text: sem
+  language: pt_BR
+  author: one
+sent_1090_en:
+  text: without
+  language: en_US
+  author: one
+  origin: sent_1090_pt
+sent_1091_pt:
+  text: a mulher
+  language: pt_BR
+  author: one
+sent_1091_en:
+  text: woman
+  language: en_US
+  author: one
+  origin: sent_1091_pt
+sent_1092_pt:
+  text: escrever
+  language: pt_BR
+  author: one
+sent_1092_en:
+  text: write
+  language: en_US
+  author: one
+  origin: sent_1092_pt
+sent_1093_pt:
+  text: amarelo
+  language: pt_BR
+  author: one
+sent_1093_en:
+  text: yellow (m)
+  language: en_US
+  author: one
+  origin: sent_1093_pt
+sent_1094_pt:
+  text: amarela
+  language: pt_BR
+  author: one
+sent_1094_en:
+  text: yellow (f)
+  language: en_US
+  author: one
+  origin: sent_1094_pt
+sent_1095_pt:
+  text: sim
+  language: pt_BR
+  author: one
+sent_1095_en:
+  text: "yes"
+  language: en_US
+  author: one
+  origin: sent_1095_pt
+sent_1097_pt:
+  text: tu
+  language: pt_BR
+  author: one
+sent_1097_en:
+  text: you (informal singular)
+  language: en_US
+  author: one
+  origin: sent_1097_pt
+sent_1098_pt:
+  text: vocês
+  language: pt_BR
+  author: one
+sent_1098_en:
+  text: you (informal plural)
+  language: en_US
+  author: one
+  origin: sent_1098_pt
+sent_1099_pt:
+  text: você
+  language: pt_BR
+  author: one
+sent_1099_en:
+  text: you (polite singular)
+  language: en_US
+  author: one
+  origin: sent_1099_pt
+sent_1100_pt:
+  text: vós
+  language: pt_BR
+  author: one
+sent_1100_en:
+  text: you (polite plural)
+  language: en_US
+  author: one
+  origin: sent_1100_pt
+sent_1101_pt:
+  text: o multibanco
+  language: pt_BR
+  author: one
+sent_1101_en:
+  text: cash machine (UK) ATM (US) [m_]
+  language: en_US
+  author: one
+  origin: sent_1101_pt

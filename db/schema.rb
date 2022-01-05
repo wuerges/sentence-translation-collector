@@ -47,10 +47,10 @@ ActiveRecord::Schema.define(version: 2021_12_16_184018) do
     t.integer "author_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index "\"text\", \"language\"", name: "index_sentences_on_text_and_language"
     t.index ["author_id"], name: "index_sentences_on_author_id"
     t.index ["language_id"], name: "index_sentences_on_language_id"
     t.index ["origin_id"], name: "index_sentences_on_origin_id"
-    t.index ["text"], name: "index_sentences_on_text", unique: true
   end
 
   create_table "users", force: :cascade do |t|
